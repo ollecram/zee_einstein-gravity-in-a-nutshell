@@ -9,7 +9,7 @@
 ## Solutions
 
 ### 1 Snell's law
-Given point $p=(a,b)$ in the upper (air) zone and a point $P=(A,B)$ in the lower (water) zone
+Given point $p=(a,b)$ in the upper (air) zone and a point $P=(A,B)$ in the lower (water) zone and a 
 
 
 
@@ -20,5 +20,5 @@ Given point $p=(a,b)$ in the upper (air) zone and a point $P=(A,B)$ in the lower
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzA4MDExM119
+eyJoaXN0b3J5IjpbMTI3NDc5MTgxM119
 -->
