@@ -2,7 +2,8 @@
 
 ## Exercises
 
- 1. Derive Snell's law: $$sin \theta_{w} / sin \theta_{a} = c_{w}/c_{a} \lessthan 1$$, where $c_{w}$ and $c_{a} denote the speed of light in water and air, respectively.
+ 1. Derive Snell's law: $sin \theta_{w} / sin \theta_{a} = c_{w}/c_{a} \lessthan 1$, where $c_{w}$ and $c_{a} denote the speed of light in water and air, respectively.
+ 2. 
 
 Il concetto di gruppo è strettamente legato a quello di funzione. Per chiarire questo legame consideriamo l'insieme $S$ delle funzioni biunivoche definite su un insieme $E$. 
 
@@ -17,5 +18,5 @@ Sull'insieme $S$ è definita l'operazione di *composizione* $\circ$ che associa 
 $$ h \circ (g \circ f) = h(g(f(x))) =(h \circ g) \circ f $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODk0ODc4NV19
+eyJoaXN0b3J5IjpbLTE4ODkyNDUyM119
 -->
