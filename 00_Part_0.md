@@ -31,12 +31,12 @@ $$\frac{\sin \theta_{a}}{c_{a}} = \frac{\sin \theta_{w}}{c_{w}} $$
 Stated in this form the law can be easily interpreted as saying that $\sin \theta$ -- hence the light path projection parallel to the interface -- must be greater in the zone (air) where the light speed is greater. Instead, light makes a smaller angle with the vertical axis in the zone (water) where the velocity is smaller. 
 
 ### 2 Ant in a hemispherical bowl
-Let say the bowl is half a sphere of radius $R$ and assume the ant being located at latitude $\theta$ from the south pole, on the $\phi=0$ meridian, where $0 \leq \theta \leq \pi/2$ and $0 \leq \phi \leq 2 \p$  
+Let say the bowl is half a sphere of radius $R$ and assume the ant being located at latitude $\theta$ from the south pole, on the $\phi=0$ meridian, where $0 \leq \theta \leq \pi/2$ and $0 \leq \phi \leq 2 \pi$  
 
 ### 3
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MDg5MDk5MSwxNjE1OTQ5MjA2XX0=
+eyJoaXN0b3J5IjpbLTExMzY5NTQyODYsMTYxNTk0OTIwNl19
 -->
