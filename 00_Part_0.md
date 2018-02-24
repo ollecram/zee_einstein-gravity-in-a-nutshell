@@ -9,7 +9,7 @@
 ## Solutions
 
 ### 1 Snell's law
-
+Given point $p=(a,b)$ in the 
 
 
 
@@ -20,5 +20,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzY2ODUzOF19
+eyJoaXN0b3J5IjpbNjczNTI3MDU4XX0=
 -->
