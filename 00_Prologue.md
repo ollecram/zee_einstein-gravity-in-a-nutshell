@@ -24,7 +24,7 @@ The value of $x$ determines the relative length of the two segments along which 
 $$ \frac{dt_{a}}{dx} + \frac{dt_{w}}{dx} = 0$$
 Recalling that $\frac{d \sqrt{x^{2}}}{dx} = \frac{2x}{2\sqrt{x^{2}}} = \frac{x}{\sqrt{x^{2}}}$ we obtain
 $$ \frac{dt_{a}}{dx} = \frac{(x-a)}{c_{a} \sqrt{(x-a)^{2} + b^{2}}} = \frac{(A-x)}{c_{w}\sqrt{(A-x)^{2} + B^{2}}}  = - \frac{dt_{w}}{dx}$$
-The two fractions in the middle of the previous equation can be rewri
+The two fractions in the middle of the previous equation can be rewritten in
 
 ### 2
 
@@ -33,5 +33,5 @@ The two fractions in the middle of the previous equation can be rewri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg2NjkxMjJdfQ==
+eyJoaXN0b3J5IjpbLTE4OTEwMjczMTZdfQ==
 -->
