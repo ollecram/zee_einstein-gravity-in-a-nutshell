@@ -30,7 +30,7 @@ But now the two innermost fractions are just the sine of angles $\theta_{a}$ and
 
 $$\frac{\sin \theta_{a}}{c_{a}} = \frac{\sin \theta_{w}}{c_{w}} $$
 
-Note that stated in this form the law can be more easily interpreted as saying that light $\sin \theta$ hence the light path projection along 
+Note that stated in this form the law can be more easily interpreted as saying that light $\sin \theta$ hence the light path projection alo
 
 ### 2
 
@@ -39,6 +39,6 @@ Note that stated in this form the law can be more easily interpreted as saying t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTU5NzE2ODksMTk5NTQxOTAyNywxNj
-U5NTU1MDcyXX0=
+eyJoaXN0b3J5IjpbLTE2MDIzMTY3MjgsLTE2NTU5NzE2ODksMT
+k5NTQxOTAyNywxNjU5NTU1MDcyXX0=
 -->
