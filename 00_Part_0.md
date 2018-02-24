@@ -9,7 +9,7 @@
 ## Solutions
 
 ### 1 Snell's law
-Given point $p=(a,b)$ in the 
+Given point $p=(a,b)$ in the upper (air) zone and a point $P=(A,B)$ in the lower (water) zone and a light ray starting ap $p$
 
 
 
@@ -20,5 +20,5 @@ Given point $p=(a,b)$ in the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczNTI3MDU4XX0=
+eyJoaXN0b3J5IjpbOTU1MzI2ODk4XX0=
 -->
