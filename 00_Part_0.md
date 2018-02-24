@@ -1,6 +1,9 @@
 # Prologue
 
 ## Exercises
+
+ 1. Derive Snell's law: $$sin 
+
 Il concetto di gruppo è strettamente legato a quello di funzione. Per chiarire questo legame consideriamo l'insieme $S$ delle funzioni biunivoche definite su un insieme $E$. 
 
 In particolare, dato un qualunque insieme *finito* $E$ contenente $n$ elementi esistono $n!$ distinte funzioni biunivoche su di esso, dette *permutazioni* di $n$ elementi. Ciascuna funzione $f_i : E \mapsto E$ definisce una *corrispondenza* tra ciascuno degli $n$ elementi $x \in E$ preso come *argomento* ed un elemento $y \in E =f_i(x)$ che ne costituisce il *valore*. 
@@ -14,5 +17,5 @@ Sull'insieme $S$ è definita l'operazione di *composizione* $\circ$ che associa 
 $$ h \circ (g \circ f) = h(g(f(x))) =(h \circ g) \circ f $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4NjAxNV19
+eyJoaXN0b3J5IjpbMjAwMDAyMDg2OV19
 -->
