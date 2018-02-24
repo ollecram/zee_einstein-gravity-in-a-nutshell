@@ -36,12 +36,12 @@ Let say the bowl is half a sphere of radius $R$ and assume the ant being located
 The shortest path length $l$ is twice the distance of the ant from the bowl border along the meridian, thus 
 $$l = 2 R \left( \frac{\pi}{2} - \theta \right)$$
 
-This is because the infinitesimal squared path length on a sphere is $ds^{2} = R^{2} (d\theta^{2} + d\phi^{2})$. In order to reach the point opposite to her in the internal face of the hemisphere, the ant cannot avoid reaching the border, thus covering twice a latitude excursion of $\pi/2 - \theta$ going up to the border then down from it. Any deviation $d\phi$ from the $\phi=0$ meridian where it is initially located would need to be compensated by an equal and opposite one in order to reach the target point and any such deviatio       
+This is because the infinitesimal squared path length on a sphere is $ds^{2} = R^{2} (d\theta^{2} + d\phi^{2})$. In order to reach the point opposite to her in the internal face of the hemisphere, the ant cannot avoid reaching the border, thus covering twice a latitude excursion of $\pi/2 - \theta$ going up to the border then down from it. Any deviation $d\phi$ from the $\phi=0$ meridian where it is initially located would need to be compensated by an equal and opposite one in order to reach the target point and any such deviation w       
 
 ### 3
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDM3MjA2Ml19
+eyJoaXN0b3J5IjpbLTIwMjk0OTgyM119
 -->
