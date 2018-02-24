@@ -19,10 +19,10 @@ Consider a light ray starting in air at $P$, traversing the air-water interface 
 
 The times it takes for light to travel the two segments are, respectively
  - $t_{a}(x) =\left|\overline{PQ}\right| / c_{a} = \sqrt{(x-a)^{2} + b^{2}}/ c_{a}$
- - $t_{w}(x) =\left|\overline{QR}\right| / c_{w} = \sqrt{(x-A)^{2} + B^{2}}/ c_{w}$ 
+ - $t_{w}(x) =\left|\overline{QR}\right| / c_{w} = \sqrt{(A-x)^{2} + B^{2}}/ c_{w}$ 
 The value of $x$ determines the relative length of the two segments along which light travels at different speeds, thus determining the total time $t(x) = t_{a}(x) + t_{w}(x)$. If this is to be the minimum possible time, then 
 $$ \frac{dt_{a}}{dx} + \frac{dt_{w}}{dx} = 0$$
-Recalling that $\frac{d \sqrt{x}}{dx}$
+Recalling that $\frac{d \sqrt{x^{2}}}{dx} = $
 
 ### 2
 
@@ -31,6 +31,6 @@ Recalling that $\frac{d \sqrt{x}}{dx}$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTE3MDQyMzEsMTk5NTQxOTAyNywxNj
-U5NTU1MDcyXX0=
+eyJoaXN0b3J5IjpbLTI1NDYwODk2MCwxOTk1NDE5MDI3LDE2NT
+k1NTUwNzJdfQ==
 -->
