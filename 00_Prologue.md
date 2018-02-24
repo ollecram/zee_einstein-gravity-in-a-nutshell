@@ -30,7 +30,7 @@ But now the two innermost fractions are just the sine of angles $\theta_{a}$ and
 
 $$\frac{\sin \theta_{a}}{c_{a}} = \frac{\sin \theta_{w}}{c_{w}} $$
 
-Stated in this form the law can be easily interpreted as saying that $\sin \theta$ -- hence the light path projection parallel to the interface -- must be greater in the zone where the light speed is greater. This means that the 
+Stated in this form the law can be easily interpreted as saying that $\sin \theta$ -- hence the light path projection parallel to the interface -- must be greater in the zone where the light speed is greater. Light thus makes a smaller angle with the axis orthogonal to the interface means that the 
 
 ### 2
 
@@ -39,5 +39,5 @@ Stated in this form the law can be easily interpreted as saying that $\sin \thet
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODUyMzcwNjddfQ==
+eyJoaXN0b3J5IjpbLTExMzI3NDY1NzJdfQ==
 -->
