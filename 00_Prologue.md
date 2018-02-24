@@ -4,7 +4,7 @@
 
  1. Derive Snell's law: $sin \theta_{w} / sin \theta_{a} = c_{w}/c_{a} < 1$, where $c_{w}$ and $c_{a}$ denote the speed of light in water and air, respectively.
  2. Suppose the ant is outside a hemispherical bowl and the drop of honey is inside the bowl directly across from her. Find the shortest distance.
- 3. What happens if the ant can crawl faster on the outside of the glass than on the inside_ 
+ 3. What happens if the ant can crawl faster on the outside of the glass than on the inside? 
 
 Il concetto di gruppo è strettamente legato a quello di funzione. Per chiarire questo legame consideriamo l'insieme $S$ delle funzioni biunivoche definite su un insieme $E$. 
 
@@ -19,5 +19,5 @@ Sull'insieme $S$ è definita l'operazione di *composizione* $\circ$ che associa 
 $$ h \circ (g \circ f) = h(g(f(x))) =(h \circ g) \circ f $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzMjIxNjAzXX0=
+eyJoaXN0b3J5IjpbMTkyNDEyNTE4N119
 -->
