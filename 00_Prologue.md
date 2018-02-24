@@ -28,7 +28,7 @@ The two fractions in the middle of the previous equation can be rewritten in mor
 $$\frac{1}{c_{a}}\frac{(x-a)}{\left|\overline{PQ}\right|} = \frac{1}{c_{w}}\frac{(A-x)}{\left|\overline{QR}\right| }  $$
 But now the two innermost fractions are just the sine of angles $\theta_{a}$ and $\theta_{w}$ made by the light ray with the vertical axis in the upper and lower media, respectively. hence
 
-$$\frac{1}{1} = \frac{1}{1} $$
+$$\frac{sin \theta_{a}}{c_{a}} = \frac{sin}{c_{w}} $$
 
 
 ### 2
@@ -38,5 +38,5 @@ $$\frac{1}{1} = \frac{1}{1} $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTA5Mzc4NV19
+eyJoaXN0b3J5IjpbLTE0Nzk5MTc1OTNdfQ==
 -->
