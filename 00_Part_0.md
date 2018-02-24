@@ -19,7 +19,7 @@ Consider a light ray starting in air at $P$, traversing the air-water interface 
 
 The times it takes for light to travel the two segments are, respectively
 
- - t_{a} = 
+ - $t_{a} =\left|\overline{ 
 
 ### 2
 
@@ -28,5 +28,5 @@ The times it takes for light to travel the two segments are, respectively
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg0NzU4MzQsMTY1OTU1NTA3Ml19
+eyJoaXN0b3J5IjpbLTE1NTc4MDc2NjgsMTY1OTU1NTA3Ml19
 -->
