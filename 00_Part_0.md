@@ -44,12 +44,13 @@ However, to exploit some analogy with the Snell's law flat geometry, let assume 
 
 Whatever starting and ending points of the ant, it is always possible to pick a maximum circle which contains both. If velocity is uniform over the sphere there is no better *shortest-time* path than the shorter one delimited by the two points along the maximum circle. 
 
+Following the exercise's question, let assume the ant goes at a slower northern hemisphere 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTg2OTczMTMsLTIwNzg0NTcwOTgsLT
-U5NDQyNjc4NiwxNjE1OTQ5MjA2XX0=
+eyJoaXN0b3J5IjpbLTI3MDkyODA1MiwtMjA3ODQ1NzA5OCwtNT
+k0NDI2Nzg2LDE2MTU5NDkyMDZdfQ==
 -->
