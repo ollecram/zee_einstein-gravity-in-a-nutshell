@@ -10,7 +10,7 @@
 
 ### 1 Snell's law
 Let be given two points>: $P=(a,b)$ in the upper (air) zone and a point $R=(A,B)$ in the lower (water) zone and assume $a < x < A$ without loss of generality.
-A light ray starting in air at $P$, traversing the air-water interface at $Q=(x,0)$ and continuing down to $R$ in water will travel along two consecutive rectilinear segments. Let $\theta_{a}$ be the angle made by the $\overline{PQ}$ segment with the vertical axis at $Q$, and $\theta_{w}$ the angle made by the $\overline{QR}$ segment with the vertical axis
+A light ray starting in air at $P$, traversing the air-water interface at $Q=(x,0)$ and continuing down to $R$ in water will travel along two consecutive rectilinear segments. Consider the vertical axis at $Q$, and Let $\theta_{a}$ be the angle made by the $\overline{PQ}$ segment with the vertical axis at $Q$, and $\theta_{w}$ the angle made by the $\overline{QR}$ segment with the vertical axis
 
 
 
@@ -21,5 +21,5 @@ A light ray starting in air at $P$, traversing the air-water interface at $Q=(x,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNDQxMDU5M119
+eyJoaXN0b3J5IjpbLTE0MTY4MjQyNTNdfQ==
 -->
