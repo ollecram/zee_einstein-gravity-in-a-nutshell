@@ -40,16 +40,16 @@ This is because the infinitesimal squared path length on a sphere is $ds^{2} = R
 
 ### 3 Ant crawling faster on the outside of a bowl
 Given that the inside and outside paths are identical and that each one is separately the shortest path on the corresponding side of the surface there is nothing that can be gained. 
-However, to exploit some analogy with the Snell's law flat geometry, let assume that the external and internal face of the bowl could be separated and the space in between inflated to make the hemisphere into a sphere. 
 
 Whatever starting and ending points of the ant, it is always possible to pick a maximum circle which contains both. If velocity is uniform over the sphere there is no better *shortest-time* path than the shorter one delimited by the two points along the maximum circle. 
 
-Following the exercise's question, let assume the ant goes at a slower northern hemisphere 
+Following the exercise's question, let assume the ant be slower on the northern hemisphere.  In order to exploit some analogy with the Snell's law flat geometry, let assume that the external and internal face of the bowl could be separated and the space in between inflated to make the hemisphere into a sphere. 
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDkyODA1Ml19
+eyJoaXN0b3J5IjpbLTE2MTE0NzA1MTBdfQ==
 -->
