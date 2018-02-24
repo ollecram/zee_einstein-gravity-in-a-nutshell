@@ -39,7 +39,7 @@ $$l = 2 R \left( \frac{\pi}{2} - \theta \right)$$
 This is because the infinitesimal squared path length on a sphere is $ds^{2} = R^{2} (d\theta^{2} + d\phi^{2})$. In order to reach the point opposite to her in the internal face of the hemisphere, the ant cannot avoid reaching the border, thus covering twice a latitude excursion of $\pi/2 - \theta$ going up to the border then down from it. Any deviation $d\phi$ from the $\phi=0$ meridian where it is initially located would increase the path length by an amount  $ds^{2} = R^{2} d\phi^{2}$ and it would need to be compensated by an equal and opposite one in order to reach the target point.   
 
 ### 3 Ant crawling faster on the outside of a bowl
-Given that the inside and outside paths are identical and separately each one is the shortest path on the corresponding side of the surface there is nothing that can be gained. 
+Given that the inside and outside paths are identical and that each one is separately the shortest path on the corresponding side of the surface there is nothing that can be gained. 
 However the situation would be different if the target point were on a different meridian. 
 To stress the analogy with the Snell's law flat geometry, let assume that the external and internal face of the bowl could be separated and the space in between inflated to make the hemisphere into a sphere. 
 I   
@@ -47,5 +47,5 @@ I
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDE3MTg2NzVdfQ==
+eyJoaXN0b3J5IjpbLTE4MzU0MzYyXX0=
 -->
