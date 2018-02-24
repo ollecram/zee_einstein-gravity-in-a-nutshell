@@ -17,7 +17,7 @@ Consider a light ray starting in air at $P$, traversing the air-water interface 
  - $\theta_{a}$ the angle made with the axis by the $\overline{PQ}$ segment, and
  - $\theta_{w}$ the angle made with the axis by the $\overline{QR}$ segment.
 
-The time it takes for light to travel th
+The time it takes for light to travel the 
 
 
 
@@ -28,5 +28,5 @@ The time it takes for light to travel th
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTIyOTI4NjNdfQ==
+eyJoaXN0b3J5IjpbMTUwODkwNTg2Ml19
 -->
