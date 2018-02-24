@@ -29,6 +29,7 @@ $$\frac{1}{c_{a}}\frac{(x-a)}{\left|\overline{PQ}\right|} = \frac{1}{c_{w}}\frac
 But now the two innermost fractions are just the sine of angles $\theta_{a}$ and $\theta_{w}$ made by the light ray with the vertical axis in the upper and lower media, respectively. hence
 
 
+
 ### 2
 
 ### 3
@@ -36,5 +37,5 @@ But now the two innermost fractions are just the sine of angles $\theta_{a}$ and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTI3NjY4MF19
+eyJoaXN0b3J5IjpbMTMzMTY5Njc1OF19
 -->
