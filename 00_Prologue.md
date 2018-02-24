@@ -30,7 +30,7 @@ But now the two innermost fractions are just the sine of angles $\theta_{a}$ and
 
 $$\frac{\sin \theta_{a}}{c_{a}} = \frac{\sin \theta_{w}}{c_{w}} $$
 
-
+Note that stated in this form the law can be more easily interpreted as saying that light 
 
 ### 2
 
@@ -39,5 +39,5 @@ $$\frac{\sin \theta_{a}}{c_{a}} = \frac{\sin \theta_{w}}{c_{w}} $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1ODYyMjYxXX0=
+eyJoaXN0b3J5IjpbOTMxMDM3MTZdfQ==
 -->
