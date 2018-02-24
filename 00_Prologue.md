@@ -30,7 +30,7 @@ But now the two innermost fractions are just the sine of angles $\theta_{a}$ and
 
 $$\frac{\sin \theta_{a}}{c_{a}} = \frac{\sin \theta_{w}}{c_{w}} $$
 
-Note that stated in this form the law can be more easily interpreted as saying that light $$
+Note that stated in this form the law can be more easily interpreted as saying that light $\sin \theta$ hence the light path p
 
 ### 2
 
@@ -39,5 +39,5 @@ Note that stated in this form the law can be more easily interpreted as saying t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTI0Mjk5MTZdfQ==
+eyJoaXN0b3J5IjpbLTIwOTg4NjM2MjFdfQ==
 -->
