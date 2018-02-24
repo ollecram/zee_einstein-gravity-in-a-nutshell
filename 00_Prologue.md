@@ -1,7 +1,7 @@
 # Prologue
 
 ## Exercises
-$sin( \theta_{w}) / sin( \theta_{w})$
+$sin( \theta_{w}) / sin( \theta_{a})$
 
  1. Derive Snell's law: $sin \theta_{w} / sin \theta_{a} = c_{w}/c_{a} \less 1$, where $c_{w}$ and $c_{a}$ denote the speed of light in water and air, respectively.
  2. 
@@ -19,5 +19,5 @@ Sull'insieme $S$ è definita l'operazione di *composizione* $\circ$ che associa 
 $$ h \circ (g \circ f) = h(g(f(x))) =(h \circ g) \circ f $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDE2NTUxXX0=
+eyJoaXN0b3J5IjpbLTE5MDk2OTc3MTFdfQ==
 -->
