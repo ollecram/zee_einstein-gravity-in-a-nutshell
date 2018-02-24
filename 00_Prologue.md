@@ -7,7 +7,11 @@
  - What happens if the ant can crawl faster on the outside of the glass than on the inside? 
 
 ## Solutions
-### 1
+
+### 1 Snell's law
+
+
+
 
 ### 2
 
@@ -16,5 +20,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3ODExMzE4XX0=
+eyJoaXN0b3J5IjpbMTgyMzY2ODUzOF19
 -->
