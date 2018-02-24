@@ -9,7 +9,7 @@
 ## Solutions
 
 ### 1 Snell's law
-Given point $p=(a,b)$ in the upper (air) zone and a point $P=(A,B)$ in the lower (water) zone and a light ray starting in air at $p$, traversing the air-water interface at (x,0) and continuing down to $P$ in water. 
+Given point $p=(a,b)$ in the upper (air) zone and a point $P=(A,B)$ in the lower (water) zone, assuming without loss of generality  $a < x < A$ and a light ray starting in air at $p$, traversing the air-water interface at (x,0) and continuing down to $P$ in water. 
 
 
 
@@ -20,5 +20,5 @@ Given point $p=(a,b)$ in the upper (air) zone and a point $P=(A,B)$ in the lower
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODIxNDU5MF19
+eyJoaXN0b3J5IjpbMzczMzQ0MzczXX0=
 -->
