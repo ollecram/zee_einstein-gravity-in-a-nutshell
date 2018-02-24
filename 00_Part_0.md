@@ -42,11 +42,11 @@ This is because the infinitesimal squared path length on a sphere is $ds^{2} = R
 Given that the inside and outside paths are identical and that each one is separately the shortest path on the corresponding side of the surface there is nothing that can be gained. 
 However, to exploit some analogy with the Snell's law flat geometry, let assume that the external and internal face of the bowl could be separated and the space in between inflated to make the hemisphere into a sphere. 
 
-Whatever starting and ending points of the ant, it is always possible to pick coordinates so that both lie on a maximum circle 
+Whatever starting and ending points of the ant, it is always possible to pick a maximum circle which 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTk2NTY1MzUsLTIwNzg0NTcwOTgsLT
+eyJoaXN0b3J5IjpbLTE1NzIzNzgwMTQsLTIwNzg0NTcwOTgsLT
 U5NDQyNjc4NiwxNjE1OTQ5MjA2XX0=
 -->
