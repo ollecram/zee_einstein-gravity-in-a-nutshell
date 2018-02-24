@@ -13,7 +13,7 @@ Assume without loss of generality to use a coordinate system where the air-water
 Let be given two points>: 
  - $P=(a,b)$ in the upper (air) zone and 
  - $R=(A,B)$ in the lower (water) zone. 
-A light ray starting in air at $P$, traversing the air-water interface at $Q=(x,0)$ and continuing down to $R$ in water travels along two consecutive rectilinear segments. Consider the vertical axis at $Q$, and Let $\theta_{a}$ be the angle made by the $\overline{PQ}$ segment with the vertical axis at $Q$, and $\theta_{w}$ the angle made by the $\overline{QR}$ segment with the vertical axis
+Consider a light ray starting in air at $P$, traversing the air-water interface at $Q=(x,0)$ and continuing down to $R$ in water travels along two consecutive rectilinear segments. Consider the vertical axis at $Q$, and Let $\theta_{a}$ be the angle made by the $\overline{PQ}$ segment with the vertical axis at $Q$, and $\theta_{w}$ the angle made by the $\overline{QR}$ segment with the vertical axis
 
 
 
@@ -24,5 +24,5 @@ A light ray starting in air at $P$, traversing the air-water interface at $Q=(x,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxMDg5NTYwXX0=
+eyJoaXN0b3J5IjpbLTE3MTY0MjEzMDFdfQ==
 -->
