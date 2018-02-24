@@ -36,3 +36,6 @@ Stated in this form the law can be easily interpreted as saying that $\sin \thet
 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTYyNTQ2ODM2Nl19
+-->
