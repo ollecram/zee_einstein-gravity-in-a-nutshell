@@ -2,7 +2,7 @@
 
 ## Exercises
 
- 1. Derive Snell's law: $$sin 
+ 1. Derive Snell's law: $$sin \theta_{a} = c_{w}/c_{a}
 
 Il concetto di gruppo è strettamente legato a quello di funzione. Per chiarire questo legame consideriamo l'insieme $S$ delle funzioni biunivoche definite su un insieme $E$. 
 
@@ -17,5 +17,5 @@ Sull'insieme $S$ è definita l'operazione di *composizione* $\circ$ che associa 
 $$ h \circ (g \circ f) = h(g(f(x))) =(h \circ g) \circ f $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDAyMDg2OV19
+eyJoaXN0b3J5IjpbLTgyNTU5NzM0M119
 -->
