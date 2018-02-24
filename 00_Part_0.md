@@ -31,6 +31,7 @@ But now the two innermost fractions are just the sine of angles $\theta_{a}$ and
 $$\frac{\sin \theta_{a}}{c_{a}} = \frac{\sin \theta_{w}}{c_{w}} $$
 
 
+
 ### 2
 
 ### 3
@@ -38,6 +39,6 @@ $$\frac{\sin \theta_{a}}{c_{a}} = \frac{\sin \theta_{w}}{c_{w}} $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyNTA4OTk5LDE5OTU0MTkwMjcsMTY1OT
+eyJoaXN0b3J5IjpbNjI1ODYyMjYxLDE5OTU0MTkwMjcsMTY1OT
 U1NTA3Ml19
 -->
