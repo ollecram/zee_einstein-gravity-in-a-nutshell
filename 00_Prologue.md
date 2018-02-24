@@ -43,12 +43,12 @@ Given that the inside and outside paths are identical and that each one is separ
 However, to exploit some analogy with the Snell's law flat geometry, let assume that the external and internal face of the bowl could be separated and the space in between inflated to make the hemisphere into a sphere. 
 For whatever starting and ending point of the ant path, it is always possible to pick a maximum circle which contains both. If velocity is uniform over the sphere there is no better *shortest-time* path than the shorter one delimited by the two points along the maximum circle. 
 
-Following the exercise's question, let assume the ant be slower on the northern hemisphere, in which case the equator plays the same role of the air-water interface in the Snell'.  
+Following the exercise's question, let assume the ant be slower on the northern hemisphere, in which case the equator plays the same role of the air-water interface in the Snell's .  
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTIzMTU4OF19
+eyJoaXN0b3J5IjpbLTcwNzk2MTU1MV19
 -->
