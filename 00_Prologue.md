@@ -34,12 +34,12 @@ Stated in this form the law can be easily interpreted as saying that $\sin \thet
 Let say the bowl is half a sphere of radius $R$ and assume the ant being located at latitude $\theta$ from the south pole, on the $\phi=0$ meridian, where $0 \leq \theta \leq \pi/2$ and $0 \leq \phi \leq 2 \pi$.
 
 The shortest path length $l$ is twice the distance of the ant from the bowl border along the meridian, thus 
-$$l = 2 (\frac{\pi}{2})$$   
+$$l = 2 R \left( \frac{\pi}{2} - \theta \right)$$   
 
 ### 3
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjAyMTQ0MzRdfQ==
+eyJoaXN0b3J5IjpbLTM0MjYxNzk0OF19
 -->
