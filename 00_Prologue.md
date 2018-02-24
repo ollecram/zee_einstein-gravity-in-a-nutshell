@@ -28,7 +28,7 @@ The two fractions in the middle of the previous equation can be rewritten in mor
 $$\frac{1}{c_{a}}\frac{(x-a)}{\left|\overline{PQ}\right|} = \frac{1}{c_{w}}\frac{(A-x)}{\left|\overline{QR}\right| }  $$
 But now the two innermost fractions are just the sine of angles $\theta_{a}$ and $\theta_{w}$ made by the light ray with the vertical axis in the upper and lower media, respectively. hence
 
-$
+$$
 
 
 ### 2
@@ -38,5 +38,5 @@ $
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODQ5MDk3MF19
+eyJoaXN0b3J5IjpbLTI0MDg4MTYyOF19
 -->
