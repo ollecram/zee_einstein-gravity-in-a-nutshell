@@ -22,7 +22,7 @@ The times it takes for light to travel the two segments are, respectively
  - $t_{w}(x) =\left|\overline{QR}\right| / c_{w} = \sqrt{(x-A)^{2} + B^{2}}/ c_{w}$ 
 The value of $x$ determines the relative length of the two segments along which light travels at different speeds, thus determining the total time $t(x) = t_{a}(x) + t_{w}(x)$. If this is to be the minimum possible time, then 
 $$ \frac{dt_{a}}{dx} + \frac{dt_{w}}{dx} = 0$$
-Recalling that $\frac{d \}$
+Recalling that $\frac{d \sq}$
 
 ### 2
 
@@ -31,5 +31,5 @@ Recalling that $\frac{d \}$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwMjA4MjA1XX0=
+eyJoaXN0b3J5IjpbLTE4MjA5NzAxMjldfQ==
 -->
