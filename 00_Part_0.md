@@ -14,8 +14,8 @@ Let be given two points>:
  - $P=(a,b)$ in the upper (air) zone and 
  - $R=(A,B)$ in the lower (water) zone. 
 Consider a light ray starting in air at $P$, traversing the air-water interface at $Q=(x,0)$ and continuing in water down to $R$, and the vertical axis at $Q$, and define: 
- - $\theta_{a}$ the angle made by the $\overline{PQ}$ segment with the vertical axis at $Q$ 
- - $\theta_{w}$ the angle made by the $\overline{QR}$ segment with the vertical axis
+ - $\theta_{a}$ the angle made with the axis by the $\overline{PQ}$ segment, and
+ - $\theta_{w}$ the angle made with the axis by the $\overline{QR}$ segment.
 
 
 
@@ -26,5 +26,5 @@ Consider a light ray starting in air at $P$, traversing the air-water interface 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4NDc5NzE1LDE2NTk1NTUwNzJdfQ==
+eyJoaXN0b3J5IjpbLTIwMTAxNDg3NjgsMTY1OTU1NTA3Ml19
 -->
