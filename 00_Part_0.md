@@ -18,10 +18,9 @@ Consider a light ray starting in air at $P$, traversing the air-water interface 
  - $\theta_{w}$ the angle made with the axis by the $\overline{QR}$ segment.
 
 The times it takes for light to travel the two segments are, respectively
-
- - $t_{a} =\left|\overline{PQ}\right| / c_{a} = \sqrt{(x-a)^{2} + b^{2}}/ c_{a}$
- - $t_{w} =\left|\overline{QR}\right| / c_{w} = \sqrt{(x-A)^{2} + B^{2}}/ c_{a}$ 
-
+ - $t_{a}(x) =\left|\overline{PQ}\right| / c_{a} = \sqrt{(x-a)^{2} + b^{2}}/ c_{a}$
+ - $t_{w}(x) =\left|\overline{QR}\right| / c_{w} = \sqrt{(x-A)^{2} + B^{2}}/ c_{w}$ 
+F
 ### 2
 
 ### 3
@@ -29,5 +28,5 @@ The times it takes for light to travel the two segments are, respectively
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjE2MDI3NTYsMTY1OTU1NTA3Ml19
+eyJoaXN0b3J5IjpbLTg3MjEzODA2NiwxNjU5NTU1MDcyXX0=
 -->
