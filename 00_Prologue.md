@@ -20,7 +20,7 @@ Consider a light ray starting in air at $P$, traversing the air-water interface 
 The times it takes for light to travel the two segments are, respectively
  - $t_{a}(x) =\left|\overline{PQ}\right| / c_{a} = \sqrt{(x-a)^{2} + b^{2}}/ c_{a}$
  - $t_{w}(x) =\left|\overline{QR}\right| / c_{w} = \sqrt{(x-A)^{2} + B^{2}}/ c_{w}$ 
-For the total time $
+For the total time $t =
 ### 2
 
 ### 3
@@ -28,5 +28,5 @@ For the total time $
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2MTk4NDAzXX0=
+eyJoaXN0b3J5IjpbLTI4MjgzNTQ5OF19
 -->
