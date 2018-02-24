@@ -49,7 +49,3 @@ Following the exercise's question, let assume the ant be slower on the northern 
 
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI1MDQ2MjksMTEzNzA2OTg5MCwtMj
-A3ODQ1NzA5OCwtNTk0NDI2Nzg2LDE2MTU5NDkyMDZdfQ==
--->
