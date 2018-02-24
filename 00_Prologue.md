@@ -26,7 +26,7 @@ Recalling that $\frac{d \sqrt{x^{2}}}{dx} = \frac{2x}{2\sqrt{x^{2}}} = \frac{x}{
 $$ \frac{dt_{a}}{dx} = \frac{(x-a)}{c_{a} \sqrt{(x-a)^{2} + b^{2}}} = \frac{(A-x)}{c_{w}\sqrt{(A-x)^{2} + B^{2}}}  = - \frac{dt_{w}}{dx}$$
 The two fractions in the middle of the previous equation can be rewritten in more geometrical terms as follows:
 $$\frac{1}{c_{a}}\frac{(x-a)}{\left|\overline{PQ}\right|} = \frac{1}{c_{w}}\frac{(A-x)}{\left|\overline{QR}\right| }  $$
-But now the two i
+But now the two innermos
 
 ### 2
 
@@ -35,5 +35,5 @@ But now the two i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzMTUyOTYyXX0=
+eyJoaXN0b3J5IjpbMTE2MDk0OTg4OF19
 -->
