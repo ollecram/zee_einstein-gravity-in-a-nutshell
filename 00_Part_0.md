@@ -36,13 +36,13 @@ Let say the bowl is half a sphere of radius $R$ and assume the ant being located
 The shortest path length $l$ is twice the distance of the ant from the bowl border along the meridian, thus 
 $$l = 2 R \left( \frac{\pi}{2} - \theta \right)$$
 
-This is because the infinitesimal     
+This is because the infinitesimal squared path length on a sphere is $ds^{2} = R0$    
 
 ### 3
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDU4Mjg1LC01OTQ0MjY3ODYsMTYxNT
-k0OTIwNl19
+eyJoaXN0b3J5IjpbLTE0MDc1Njc0MTgsLTU5NDQyNjc4NiwxNj
+E1OTQ5MjA2XX0=
 -->
