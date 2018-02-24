@@ -40,13 +40,12 @@ This is because the infinitesimal squared path length on a sphere is $ds^{2} = R
 
 ### 3 Ant crawling faster on the outside of a bowl
 Given that the inside and outside paths are identical and that each one is separately the shortest path on the corresponding side of the surface there is nothing that can be gained. 
-However the situation would be different if the target point were on a different meridian. 
-To stress the analogy with the Snell's law flat geometry, let assume that the external and internal face of the bowl could be separated and the space in between inflated to make the hemisphere into a sphere. 
-I   
+However, to exploit some analogy with the Snell's law flat geometry, let assume that the external and internal face of the bowl could be separated and the space in between inflated to make the hemisphere into a sphere. 
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzU0MzYyLC0yMDc4NDU3MDk4LC01OT
+eyJoaXN0b3J5IjpbNjYzNTAwOTc1LC0yMDc4NDU3MDk4LC01OT
 Q0MjY3ODYsMTYxNTk0OTIwNl19
 -->
