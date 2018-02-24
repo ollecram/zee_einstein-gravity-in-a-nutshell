@@ -17,7 +17,7 @@ Consider a light ray starting in air at $P$, traversing the air-water interface 
  - $\theta_{a}$ the angle made with the axis by the $\overline{PQ}$ segment, and
  - $\theta_{w}$ the angle made with the axis by the $\overline{QR}$ segment.
 
-The time l
+The time it ta
 
 
 
@@ -28,5 +28,5 @@ The time l
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQ4NjAwNDRdfQ==
+eyJoaXN0b3J5IjpbOTA5ODc2NTEwXX0=
 -->
