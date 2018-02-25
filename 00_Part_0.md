@@ -74,12 +74,12 @@ There is nothing in this special case that is due to working on the surface of a
 
 In order derive the analogous of Snell's law on the sphere let us accurately state our problem:
 
- 1. Our coordinate system on the sphere is determined by the poles $p$ and $P$ of the $C_{[p,P]}$ circle (not necessarily a great circle) which is the boundary separating the high-speed zone (H) from the low speed zone L.
+ 1. Our coordinate system on the sphere is determined by the poles $p$ and $P$ of the $C_{[p,P]}$ circle (not necessarily a great circle) which is the boundary separating the high-speed zone ($H_{p}$) from the low speed zone ($H_{P}$).
  2.  
  3. The shortest-length path between two points $P$ and $Q$ is contained in the unique geodesic (great circle) defined by the two points; 
  4. meridian containing the two points;
  5. of a on the sphere is the shortest of the two  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTAyNjgxMyw0MTE2Mzg4MjhdfQ==
+eyJoaXN0b3J5IjpbNDg2NzI0NjQ0LDQxMTYzODgyOF19
 -->
