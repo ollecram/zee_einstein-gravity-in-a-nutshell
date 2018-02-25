@@ -58,8 +58,8 @@ Let now map the external and internal surfaces of the hemisphere into the extern
  - The maximum length of a circle is $2\pi R$.   
  -  For a given maximum length circle $C^{max}_{[p,P]}$ the two sets $H_{p}$ and $H_{P}$  have equal area $2\pi R^{2}$ 
  - An infinite number of circles contain two distinct points $a \ne b$  
- - An infinite number of maximum length circles (meridians) contain the points $p$ and $P$ associated to a given circle $C_{[p,P]}$
- 
+ - An infinite number of *maximum length circles* (meridians) contain the points $p$ and $P$ associated to a given circle $C_{[p,P]}$
+
 Going back to the problem statement, let assume For whatever starting and ending point of the ant path, it is always possible to pick a maximum circle which contains both. If velocity is uniform over the sphere there is no better *shortest-time* path than the shorter one delimited by the two points along the maximum circle. 
 
 Following the exercise's question, let assume the sphere surface to be separated by a circle $C_{[p,P]}$ into the parts $H_{p}$ and $H_{P}$. Let also assume that portions of any path contained in $H_{p}$ can be covered at velocity $c_{p}$ while those contained in $H_{P}$ can be covered at velocity $c_{P}$. 
@@ -71,5 +71,5 @@ Before tackling a general solution let us mention a special case: that in which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTU2OTkyNF19
+eyJoaXN0b3J5IjpbMTMyNDkwODg2Ml19
 -->
