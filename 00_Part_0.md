@@ -94,12 +94,12 @@ The function $ds(\phi)$ gives the incremental path length associated to an incre
 The problem which we are left with is to find an explicit expression for 
 $ds(\phi)$. Note that this expression must fulfill two requirements:
 
- 1. The general expression for the path length differential on the sphere is: 
+ 1. The general expression for the path length differential on the sphere is: $dl^2=R_2$;
  2. By an increase $d\phi$ the $\theta$ coordinate also generally changes, subject to the requirement that the path must follow a geodesic;
  3.   
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjExMjc1NiwtMTYyNDExMTUwOV19
+eyJoaXN0b3J5IjpbNzU1NjAwMjQzLC0xNjI0MTExNTA5XX0=
 -->
