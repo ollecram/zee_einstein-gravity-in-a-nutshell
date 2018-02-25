@@ -58,7 +58,7 @@ Let now map the external and internal surfaces of the hemisphere into the extern
  - The maximum length of a circle is $2\pi R$.   
  -  For a given maximum length circle $C^{max}_{[p,P]}$ the two sets $H_{p}$ and $H_{P}$  have equal area $2\pi R^{2}$ 
  - An infinite number of circles contain two distinct points $a \ne b$  
- - An infinite number of *maximum length circles* (*great circles* or *meridians*) contain the points $p$ and $P$ associated to a given circle $C_{[p,P]}$
+ - An infinite number of maximum length circles (*great circles* or *meridians*) contain the points $p$ and $P$ associated to a given circle $C_{[p,P]}$
 
 Following the exercise's question, let assume the sphere surface to be separated by a circle $C_{[p,P]}$ into the parts $H_{p}$ and $H_{P}$. Let also assume that portions of any path contained in $H_{p}$ is run across at velocity $c_{p}$ while those contained in $H_{P}$ is run across at velocity $c_{P}$. 
 Clearly the circle $C_{[p,P]}$ has a role in the problem analogous to the one played by the air-water interface (a straight line) in the derivation of Snell's law. 
@@ -78,5 +78,5 @@ In order derive the analogous of Snell's law on the sphere we should simply appl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzUyNzYwMjRdfQ==
+eyJoaXN0b3J5IjpbLTE3ODQ4ODA3NzRdfQ==
 -->
