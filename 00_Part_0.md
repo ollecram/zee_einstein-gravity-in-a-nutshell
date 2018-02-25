@@ -113,10 +113,10 @@ $$ \frac{dL}{d\phi} = \frac{d}{d\theta}\frac{dL}{d\dot{\phi}}$$
 As we see $\phi$ is a cyclic variable in $L$ therefore $dL \!/\!d\dot{\phi}$ is conserved:
 $$ \frac{d}{d\theta}\frac{dL}{d\dot{\phi}} = R \frac{d}{d\theta} \left( \frac{\sin^2\!\theta\dot{\phi}}{\sqrt{1 + \sin^2\!\theta\dot{\phi}^2}}\right)  = 0$$  
 
-Let us say $C$ is the constant value of the expression between parentheses in 
+Let us say $C$ is the constant value of the expression between parentheses in the above expression
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjI1MjI5N119
+eyJoaXN0b3J5IjpbLTM5ODI4ODgzMV19
 -->
