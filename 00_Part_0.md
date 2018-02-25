@@ -54,7 +54,6 @@ Given that the inside and outside paths are identical and that each one is separ
 Let now map the external and internal surfaces of the hemisphere into the external surface of a sphere, as we did in the previous exercise. In order to to exploit analogies with the Snell's law let us define some geometric objects on the sphere surface:
  - A circle $C_{p}$ is a set of points at an equal distance from a given point $p$. 
  - For any  $C_{p}$ there exists a unique point $P \ne p$ such that $C_{p}=C_{P}$. [A circle can therefore be also indicated as $C_{[p,P]}$].
-
  - Any circle divides the sphere surface into two sets $H_{p}$ and $H_{P}$ such that $p \in H_{p}$ and $P \in H_{P}$ whose intersection is the circle itself. 
  - The maximum length of a circle is $2\pi R$.   
  -  For a given maximum length circle $C^{max}_{[p,P]}$ the two sets $H_{p}$ and $H_{P}$  have equal area $2\pi R^{2}$ 
@@ -70,6 +69,6 @@ Before tackling a general solution let us mention a special case: that in which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjk0NjcxMDgsMTM2NDkwNzM0NywxNj
-M4NzcxNTI3LC04NTM5MjA1NTFdfQ==
+eyJoaXN0b3J5IjpbNTU0NjIxODA2LDEzNjQ5MDczNDcsMTYzOD
+c3MTUyNywtODUzOTIwNTUxXX0=
 -->
