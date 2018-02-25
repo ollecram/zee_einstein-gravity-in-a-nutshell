@@ -104,9 +104,9 @@ A closed form expression for the geodesic length between two arbitrary points on
 [REF3](http://vixra.org/pdf/1404.0016v1.pdf)
 
  #### 3.1 Sphere geodesic
- At this point we need a mathematical digression to compute the 
+ At this point we need a mathematical digression to derive the equation of a geodesic connecting two points in spherical coordinates. From the calculus of variations  
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzNDQyNzYzXX0=
+eyJoaXN0b3J5IjpbMjAyODk5OTI2NF19
 -->
