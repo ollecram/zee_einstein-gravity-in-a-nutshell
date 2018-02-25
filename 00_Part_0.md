@@ -40,13 +40,13 @@ This is because the infinitesimal squared path length on a sphere is $ds^{2} = R
 The whole argument can be simplified by assuming that the external and internal face of the bowl can be separated and the space in between  inflated to make the hemisphere into the external surface of a sphere. The sphere equatorial circle would map the border of the former hemisphere. The problem can be rephrased as follows: 
 > The ant located somewhere below the equatorial circle on a sphere of radius $R$ must reach a symmetric point above the equator. What is the shortest path?
 
-The answer being : 
+The answer being, in general terms: 
 
 > The shortest path on a sphere between two points is the shortest of
 > the two circular segments in which the two points divide the unique
 > circle of radius $R$ containing those points. 
 
-Clearly, being the arrival point 
+Specifically, given that the starting and arrival points are symmetric t 
 
 ### 3 Ant crawling faster on the outside of a bowl
 Given that the inside and outside paths are identical and that each one is separately the shortest path on the corresponding side of the surface there is nothing that can be gained. 
@@ -60,5 +60,5 @@ Following the exercise's question, let assume the ant be slower on the northern 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjU1NjM5MywtODUzOTIwNTUxXX0=
+eyJoaXN0b3J5IjpbLTE5MzgzOTQ2NTksLTg1MzkyMDU1MV19
 -->
