@@ -69,11 +69,11 @@ Before tackling a general solution let us mention an obvious special case:
 > divide the meridian is not only the ***shortest-length*** path, but
 > also the ***shortest-time*** path. 
 
-The justification for the above assertion is that no matter how large the jump in velocity occurring at the separation between the low and high velocity zones, moving the point where the path intersects the interface circle $C_{[p,P]}$ from the meridian has the effect of increasing both increase     
+The justification for the above assertion is that no matter how large the jump in velocity occurring at the separation between the low and high velocity zones, moving the point where the path intersects the interface circle $C_{[p,P]}$ from the meridian has the effect of increasing both the increase     
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzI5NjIzMjRdfQ==
+eyJoaXN0b3J5IjpbLTg1OTcyMDE5N119
 -->
