@@ -91,7 +91,9 @@ By solving the minimum problem we expect to obtain a relation analogous to Snell
  - the angles $\theta_{a}$ and $\theta_{w}$ that the light rays make with the meridian intersecting the interface $C_{[N,S]}$ circle at a point $Q$, and
  - the light speed in air ($c_a$) and in water ($c_w$).
 
+The problem which we are left with is to find an explicit e
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTczMTcxNjAsLTE2MjQxMTE1MDldfQ
-==
+eyJoaXN0b3J5IjpbMTA0MjgzNjMzMCwtMTYyNDExMTUwOV19
 -->
