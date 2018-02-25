@@ -104,11 +104,11 @@ A closed form expression for the geodesic length between two arbitrary points on
 [REF3](http://vixra.org/pdf/1404.0016v1.pdf)
 
  #### 3.1 Sphere geodesics
- At this point we need a mathematical digression to derive the equation of a geodesic connecting two points in spherical coordinates. The length of the path over a sphere's surface between two fixed points $P_1$ and $P_2$ in spherical coordinates can be obtained integrating the differential $dl^2 =|dr|= R\sqrt{d\theta^2+\sin^2\!\theta d\phi^2}$. 
+ At this point we need a mathematical digression to derive the equation of a geodesic connecting two points in spherical coordinates. The length of the path over a sphere's surface between two fixed points $P_1$ and $P_2$ in spherical coordinates can be obtained integrating the differential $dl^2 =|dr|= R\sqrt{d\theta^2+\sin^2\!\theta d\phi^2}$. Therefore we can define the Lagrangian 
 
 In order to apply the well known method of variations calculus of variation to minimize the length of the path s  
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzk2MTEzMThdfQ==
+eyJoaXN0b3J5IjpbLTE4ODIxODA1MDRdfQ==
 -->
