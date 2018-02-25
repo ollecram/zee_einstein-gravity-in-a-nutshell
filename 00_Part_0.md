@@ -105,6 +105,3 @@ A closed form expression for the geodesic length between two arbitrary points on
 
  
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2MjY1ODgxXX0=
--->
