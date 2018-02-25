@@ -109,8 +109,11 @@ $$L = R \int^{\theta_2}_{\theta_1}\sqrt{1 + \sin^2\!\theta\dot{\phi}^2}\,d\theta
 where $$\dot{\phi} = \frac{d\phi}{d\theta}$$
 The Euler equation applied to the above Lagrangian is 
 $$ \frac{dL}{d\phi} = \frac{d}{d\theta}\frac{dL}{d\dot{\phi}}$$  
+hence
+$$ \frac{dL}{d\phi} = \frac{d}{d\theta}\frac{dL}{d\dot{\phi}}$$  
+
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTMyNjAwLC0xOTQ0MDc4ODJdfQ==
+eyJoaXN0b3J5IjpbLTk5NTYzNjUzNywtMTk0NDA3ODgyXX0=
 -->
