@@ -84,8 +84,8 @@ In order derive the analogous of Snell's law on the sphere let us accurately sta
  8. The shortest-length paths $\widehat{PQ}$ and $\widehat{QR}$ between are a portion of the unique geodesic (great circle) defined by each pair of points; 
 
 With the above specifications the problem can be solved by finding the longitude of $Q$ ($0 = \phi_{P} \leq \phi_{Q} \leq \phi_{R}$) that minimizes the total light time $t_{PR} = t_{PQ} + t_{QR}$, where
-$$ $$
+$$ t_$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk0NjAwNTBdfQ==
+eyJoaXN0b3J5IjpbLTExNTAwNjg0NDVdfQ==
 -->
