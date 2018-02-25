@@ -104,9 +104,9 @@ A closed form expression for the geodesic length between two arbitrary points on
 [REF3](http://vixra.org/pdf/1404.0016v1.pdf)
 
  #### 3.1 Sphere geodesic
- At this point we need a mathematical digression to derive the equation of a geodesic connecting two points in spherical coordinates. In orde to Fo that we apply the calculus of variation to minimize the length of the path s  
+ At this point we need a mathematical digression to derive the equation of a geodesic connecting two points in spherical coordinates. In order to apply the well known calculus of variation to minimize the length of the path s  
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDc4MzY4NV19
+eyJoaXN0b3J5IjpbMTYyNzY4ODY0XX0=
 -->
