@@ -74,8 +74,9 @@ There is nothing in this special case that is due to working on the surface of a
 
 In order derive the analogous of Snell's law on the sphere we state our assumptions precisely:
 
- 1. The shortest-length path between two points $P$ and $Q$ is that of a on the sphere is the shortest of the two  
+ 1. The shortest-length path between two points $P$ and $Q$ is that contained in a meridian containing the two points;
+ 2. of a on the sphere is the shortest of the two  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDUzODU2NCw0MTE2Mzg4MjhdfQ==
+eyJoaXN0b3J5IjpbLTExODkzNDQxMTMsNDExNjM4ODI4XX0=
 -->
