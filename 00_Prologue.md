@@ -53,7 +53,8 @@ Specifically, given that the starting and arrival points are mirroring each othe
 Given that the inside and outside paths are identical and that each one is separately the shortest path on the corresponding side of the surface there is nothing that can be gained. 
 Let now map the external and internal surfaces of the hemisphere into the external surface of a sphere, as we did in the previous exercise. In order to to exploit analogies with the Snell's law let us define some geometric objects on the sphere surface:
 
- - Circle $C_{p}$ is a set of points at an equal distance from a given point.
+ - Circle $C_{p}$ is a set of points at an equal distance from a given point $p$. 
+ - For any  $C_{p}$ there exists a unique point $P$ such that 
  -  
 
  
@@ -66,5 +67,5 @@ Following the exercise's question, let assume the ant be slower on the northern 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTY0NTQxMDRdfQ==
+eyJoaXN0b3J5IjpbLTEwMjkxOTE4NTRdfQ==
 -->
