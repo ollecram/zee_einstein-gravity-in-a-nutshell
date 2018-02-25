@@ -41,7 +41,7 @@ The whole argument can be simplified by assuming that the external and internal 
 > The ant located somewhere below the equatorial circle on a sphere of radius $R$ must reach a symmetric point above the equator. What is the shortest path?
 
 The answer being: 
-the shortest path on a sphere between two points is the circle of radius $R$ maximum 
+the shortest path on a sphere between two points is the shortest of the two circular segments in which the two points divide the unique circle of radius $R$ maximum 
 
 ### 3 Ant crawling faster on the outside of a bowl
 Given that the inside and outside paths are identical and that each one is separately the shortest path on the corresponding side of the surface there is nothing that can be gained. 
@@ -55,5 +55,5 @@ Following the exercise's question, let assume the ant be slower on the northern 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDc3MDY3NCwtODUzOTIwNTUxXX0=
+eyJoaXN0b3J5IjpbMTMxODgwODQ3NiwtODUzOTIwNTUxXX0=
 -->
