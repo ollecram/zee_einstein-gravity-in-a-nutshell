@@ -70,15 +70,15 @@ Before tackling a general solution let us mention a special case:
 > also the ***shortest-time*** path. 
 
 The justification for the above assertion should be obvious, namely it is that no matter how large the jump in velocity occurring at the separation between the low and high velocity zones, moving the point away from the meridian increases the path length in both zones.     
-There is nothing of this special case that is unique to working on the surface of a sphere, as there is a perfectly analogous situation in the flat geometry of Snell's law: the shortest-time path joining two points which are mirroring each other from opposite sides with respect to the air-water separation line is the straight line joining them and orthogonal to the interface, for which $\theta_{a} = \theta_{w} = 0$.  
+There is nothing in this special case that is unique to working on the surface of a sphere, as there is a perfectly analogous situation in the flat geometry of Snell's law: the shortest-time path joining two points which are mirroring each other from opposite sides with respect to the air-water interface is the straight line joining them and orthogonal to the interface, for which $\theta_{a} = \theta_{w} = 0$.  
  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjk3NTEyMzMsMTAxOTEzNDEyNCwzNj
-Q4MjAwNzAsLTE2MjA4MzM3MjYsNzg3MzkzMDMsMTQ0NzY5MDIw
-Myw1NzEzMjEwOCwxMzY0OTA3MzQ3LDE2Mzg3NzE1MjcsLTg1Mz
-kyMDU1MV19
+eyJoaXN0b3J5IjpbMTk3MjgzMzUyOCwxMDE5MTM0MTI0LDM2ND
+gyMDA3MCwtMTYyMDgzMzcyNiw3ODczOTMwMywxNDQ3NjkwMjAz
+LDU3MTMyMTA4LDEzNjQ5MDczNDcsMTYzODc3MTUyNywtODUzOT
+IwNTUxXX0=
 -->
