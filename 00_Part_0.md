@@ -68,13 +68,14 @@ Before tackling a general solution let us mention an obvious special case:
 > meridian, the shortest of the two segments into which the two points
 > divide the meridian is not only the ***shortest-length*** path, but
 > also the ***shortest-time*** path.
+
 Note that   
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MDAzNzMwNSw3ODczOTMwMywxNDQ3Nj
-kwMjAzLDU3MTMyMTA4LDEzNjQ5MDczNDcsMTYzODc3MTUyNywt
-ODUzOTIwNTUxXX0=
+eyJoaXN0b3J5IjpbNzg3MzkzMDMsNzg3MzkzMDMsMTQ0NzY5MD
+IwMyw1NzEzMjEwOCwxMzY0OTA3MzQ3LDE2Mzg3NzE1MjcsLTg1
+MzkyMDU1MV19
 -->
