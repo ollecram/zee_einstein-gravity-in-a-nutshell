@@ -81,11 +81,11 @@ In order derive the analogous of Snell's law on the sphere let us accurately sta
  5. Let $\phi_{R}$ be the longitude of $R$.   
  6. A light path from $P$ crosses the $C_{[N,S]}$ circle at a point $Q$ from which it continues toward $R$. 
  7.   Let $\phi_{Q}$ be the longitude of $Q$ satisfying  $0 = \phi_{P} \leq \phi_{Q} \leq \phi_{R}$.
- 8. Each of the shortest-length paths $\widehat{PQ}$ and $\widehat{QR}$ is a  portion of the unique geodesic (great circle) defined by each pair of points; 
+ 8. Each of the shortest-length paths $\widehat{PQ}$ and $\widehat{QR}$ is a  portion of the unique geodesic (great circle) defined by the corresponding pair of points. 
 
 With the above specifications the problem can be solved by finding the longitude $\phi_{Q}$ of $Q$ ($0 = \phi_{P} \leq \phi_{Q} \leq \phi_{R}$) minimizing the total light time $t_{PR} = t_{PQ} + t_{QR}$, where
 $$ t_{PQ} = \frac{\left |\widehat{PQ} \right |}{c_a} = \int^{\phi_{Q}}_{0}ds(\phi)d\phi$$
-$$ t_{QR} = \frac{\left |\widehat{QR} \right |}{c_a} = \int^{\phi_{R}}_{\phi_{Q}}ds(\phi)d\phi$$
+$$ t_{QR} = \frac{\left |\widehat{QR} \right |}{c_w} = \int^{\phi_{R}}_{\phi_{Q}}ds(\phi)d\phi$$
 
 The function $ds(\phi)$ gives the incremental path length associated to an increase of longitude $d\phi$. By solving the minimum problem we expect to obtain a relation analogous to Snell's law, thus involving 
  - the angles $\theta_{a}$ and $\theta_{w}$ that the light rays make with the meridian intersecting the interface $C_{[N,S]}$ circle at a point $Q$, and
@@ -102,5 +102,5 @@ $ds(\phi)$. Note that this expression must fulfill two requirements:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQ4NTUyMCwxOTE3NjEzNTldfQ==
+eyJoaXN0b3J5IjpbLTMxOTE3MTU1MiwxOTE3NjEzNTldfQ==
 -->
