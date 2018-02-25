@@ -55,7 +55,7 @@ Let now map the external and internal surfaces of the hemisphere into the extern
 
  - Circle $C_{p}$ is a set of points at an equal distance from a given point $p$. 
  - For any  $C_{p}$ there exists a unique point $P$ such that $C_{p}=C_{P}$
- - Any circle divides the sphere surface into two 
+ - Any circle divides the sphere surface into two sets whose intersection is the circle itself and 
  -  
 
  
@@ -68,5 +68,5 @@ Following the exercise's question, let assume the ant be slower on the northern 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDQzOTQwNSwtODUzOTIwNTUxXX0=
+eyJoaXN0b3J5IjpbMTI4MTM1NzkwMiwtODUzOTIwNTUxXX0=
 -->
