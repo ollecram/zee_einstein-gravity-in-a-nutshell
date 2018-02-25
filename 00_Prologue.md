@@ -110,11 +110,11 @@ $$J = \int^{\theta_2}_{\theta_1}\!\!L(\theta, \phi, \dot{\phi}) d\theta = R \int
 where $$\dot{\phi} = \frac{d\phi}{d\theta}$$
 The Euler-Lagrange equation for the above functional states  
 $$ \frac{dL}{d\phi} = \frac{d}{d\theta}\frac{dL}{d\dot{\phi}}$$  
-hence
+As we see $\phi$ is a cyclic variable in $L$ hence
 $$ \frac{dL}{d\phi} = 0 = R \frac{d}{d\theta} \left( \frac{\sin^2\!\theta\dot{\phi}}{\sqrt{1 + \sin^2\!\theta\dot{\phi}^2}}\right)  = \frac{d}{d\theta}\frac{dL}{d\dot{\phi}}$$  
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQzOTY3NjNdfQ==
+eyJoaXN0b3J5IjpbLTE1ODczNDI0OThdfQ==
 -->
