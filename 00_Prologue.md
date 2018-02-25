@@ -89,10 +89,10 @@ $$ t_{QR} = \frac{\left |\widehat{QR} \right |}{c_w} = \int^{\phi_{R}}_{\phi_{Q}
 
 The function $dl(\phi)$ gives the incremental path length associated to an increase of longitude $d\phi$. By solving the minimum problem we expect to obtain a relation analogous to Snell's law, thus involving 
  - the angles $\theta_{a}$ and $\theta_{w}$ that the light rays make with the meridian intersecting the interface $C_{[N,S]}$ circle at a point $Q$, and
- - the light speed in air ($c_a$) and in water ($c_w$).
+ - the light speeds in air ($c_a$) and in water ($c_w$).
 
 The problem which we are left with is to find an explicit expression for 
-$ds(\phi)$. Note that this expression must fulfill two requirements:
+$dl(\phi)$. Note that this expression must fulfill two requirements:
 
  1. The general expression for the path length differential on the sphere, with longitude coordinate $\phi$ and latitude coordinate $\theta$ is: $dl^2=R^2(d\theta^2+\cos^2 \!\theta d\phi^2)=R^2 \left( \frac{d\theta}{d\phi}^2 + \cos^2\!\theta(\phi) \right) d\phi^2$;
 [$\theta$ is not the spherical coordinate, hence $\cos^2 \!\theta$ instead of $\sin^2 \!\theta$].
@@ -102,5 +102,5 @@ $ds(\phi)$. Note that this expression must fulfill two requirements:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTgzMjk0NzldfQ==
+eyJoaXN0b3J5IjpbLTc0MzQwNDE4M119
 -->
