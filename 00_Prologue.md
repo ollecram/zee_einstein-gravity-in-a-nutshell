@@ -108,9 +108,9 @@ A closed form expression for the geodesic length between two arbitrary points on
 $$L = R \int^{\theta_2}_{\theta_1}\sqrt{1 + \sin^2\!\theta\dot{\phi}^2}\,d\theta$$ 
 where $$\dot{\phi} = \frac{d\phi}{d\theta}$$
 The Euler equation applied to the above Lagrangian is 
-$$ \frac{dL}{d\phi} = \frac{d}{d\theta}\frac{dL}{d\}$$  
+$$ \frac{dL}{d\phi} = \frac{d}{d\theta}\frac{dL}{d\dot}$$  
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ3NzgzMTRdfQ==
+eyJoaXN0b3J5IjpbMTIxODYxODcwM119
 -->
