@@ -87,11 +87,11 @@ With the above specifications the problem can be solved by finding the longitude
 $$ t_{PQ} = \frac{\left |\widehat{PQ} \right |}{c_a} = \int^{\phi_{Q}}_{0}ds(\phi)d\phi$$
 $$ t_{QR} = \frac{\left |\widehat{QR} \right |}{c_a} = \int^{\phi_{R}}_{\phi_{Q}}ds(\phi)d\phi$$
 
-By solving the minimum problem we expect to obtain a relation involving 
-
+By solving the minimum problem we expect to obtain a relation analogous to Snell's law, thus involving 
  - the angles $\theta_{a}$ and $\theta_{w}$ that the light rays make with the meridian intersecting the interface $C_{[N,S]}$ circle at a point $Q$, and
- - the velocities  $c_a$ and $c_w$
+ - the light speed in air ($c_a$) and in water ($c_w$).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyMzA1NzU5LC0xNjI0MTExNTA5XX0=
+eyJoaXN0b3J5IjpbLTIxMTczMTcxNjAsLTE2MjQxMTE1MDldfQ
+==
 -->
