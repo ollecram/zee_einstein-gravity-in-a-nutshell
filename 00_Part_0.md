@@ -87,14 +87,13 @@ With the above specifications the problem can be solved by finding the longitude
 $$ t_{PQ} = \frac{\left |\widehat{PQ} \right |}{c_a} = \int^{\phi_{Q}}_{0}ds(\phi)d\phi$$
 $$ t_{QR} = \frac{\left |\widehat{QR} \right |}{c_a} = \int^{\phi_{R}}_{\phi_{Q}}ds(\phi)d\phi$$
 
-where the function $ds(\phi)$ gives the incremental path length associated to a By solving the minimum problem we expect to obtain a relation analogous to Snell's law, thus involving 
+The function $ds(\phi)$ gives the incremental path length associated to an increase of longitude $d\phi$. By solving the minimum problem we expect to obtain a relation analogous to Snell's law, thus involving 
  - the angles $\theta_{a}$ and $\theta_{w}$ that the light rays make with the meridian intersecting the interface $C_{[N,S]}$ circle at a point $Q$, and
  - the light speed in air ($c_a$) and in water ($c_w$).
 
-The problem which we are left with is to find an explicit e
-
+The problem which we are left with is to find an explicit expression for 
+$ds(\phi)$. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzEzNDE1MjUsLTE2MjQxMTE1MDldfQ
-==
+eyJoaXN0b3J5IjpbMTY1MzEwNzU4NiwtMTYyNDExMTUwOV19
 -->
