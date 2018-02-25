@@ -74,8 +74,8 @@ There is nothing in this special case that is due to working on the surface of a
 
 In order derive the analogous of Snell's law on the sphere we state our assumptions precisely:
 
- 1. List item
+ 1. The shortest-length path between two points on the sphere is the shortest of the t 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjg5NzE0Nl19
+eyJoaXN0b3J5IjpbLTk4NTc3NDY1XX0=
 -->
