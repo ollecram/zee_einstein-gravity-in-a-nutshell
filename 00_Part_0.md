@@ -103,8 +103,10 @@ A closed form expression for the geodesic length between two arbitrary points on
 [REF2](http://campus.mst.edu/physics/courses/409/Problem-Solutions/HW#5/HW5_prob1_sphere_geodesic.pdf)
 [REF3](http://vixra.org/pdf/1404.0016v1.pdf)
 
- #### 3.1 Geodesic on a sphere
+ #### 3.1 Sphere geodesic
+ At this point we need a mathematical digression to compute the 
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzAyNzYyMV19
+eyJoaXN0b3J5IjpbMzYzNDQyNzYzXX0=
 -->
