@@ -115,7 +115,3 @@ $$ \frac{d}{d\theta}\frac{dL}{d\dot{\phi}} = R \frac{d}{d\theta} \left( \frac{\s
 
  
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0MTcwODczLDE3NzY0ODg0MjEsLTE5ND
-QwNzg4Ml19
--->
