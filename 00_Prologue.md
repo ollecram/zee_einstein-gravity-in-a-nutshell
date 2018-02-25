@@ -70,12 +70,12 @@ Before tackling a general solution let us mention a special case:
 > also the ***shortest-time*** path. 
 
 The justification for the above assertion should be obvious, namely it is that no matter how large the jump in velocity occurring at the separation between the low and high velocity zones, moving the point away from the meridian increases the path length in both zones.     
-There is nothing of this special case that is unique to working on the surface of a sphere, as there is a perfectly analogous situation in the flat geo 
+There is nothing of this special case that is unique to working on the surface of a sphere, as there is a perfectly analogous situation in the flat geometry 
  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQ2NDA3NzBdfQ==
+eyJoaXN0b3J5IjpbLTExMTU2MzY2OTddfQ==
 -->
