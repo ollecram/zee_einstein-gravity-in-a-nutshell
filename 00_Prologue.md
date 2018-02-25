@@ -111,10 +111,10 @@ where $$\dot{\phi} = \frac{d\phi}{d\theta}$$
 The Euler-Lagrange equation applied to the above functional is 
 $$ \frac{dL}{d\phi} = \frac{d}{d\theta}\frac{dL}{d\dot{\phi}}$$  
 hence
-$$ \frac{dL}{d\phi} = \frac{d}{d\theta}\frac{dL}{d\dot{\phi}}$$  
+$$ R \frac{dL}{\sqrt{1 + \sin^2\!\theta\dot{\phi}^2}} = \frac{d}{d\theta}\frac{dL}{d\dot{\phi}}$$  
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzQ4MDQ0NTZdfQ==
+eyJoaXN0b3J5IjpbLTEwOTkxNjI4NDBdfQ==
 -->
