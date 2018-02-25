@@ -94,12 +94,13 @@ The function $ds(\phi)$ gives the incremental path length associated to an incre
 The problem which we are left with is to find an explicit expression for 
 $ds(\phi)$. Note that this expression must fulfill two requirements:
 
- 1. The 
+ 1. The general expression for the 
  2. By an increase $d\phi$ the $\theta$ coordinate also generally changes, subject to the requirement that the path must follow a geodesic;
  3.   
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjYzNzQ5NSwtMTYyNDExMTUwOV19
+eyJoaXN0b3J5IjpbLTEwODEzMTkzMzUsLTE2MjQxMTE1MDldfQ
+==
 -->
