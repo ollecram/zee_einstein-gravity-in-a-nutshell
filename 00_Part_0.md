@@ -60,9 +60,9 @@ Let now map the external and internal surfaces of the hemisphere into the extern
  - An infinite number of circles contain two distinct points $a \ne b$ , one of which is a great circle. [If one regards the sphere as immersed in three-dimensional space a great circle is contained in the unique plane that also contains the sphere's center].  
  - An infinite number of maximum length circles (meridians) contain the poles $p$ and $P$ associated to a given circle $C_{[p,P]}$
 
-Following the exercise's question, let assume the sphere surface to be separated by a circle $C_{[N,S]}$ into the parts $H_{N}$ and $H_{S}$. Let also assume that portions of any path contained in $H_{N}$ is run across at velocity $c_{a}$ while those contained in $H_{P}$ is run across at velocity $c_{P}$. 
-Clearly the circle $C_{[p,P]}$ has a role in the problem analogous to the one played by the air-water interface (a straight line) in the derivation of Snell's law. 
-Let now consider the (infinite) maximum length circles (*meridians*) passing through the points $p$ and $P$ (*poles*) associated with the circle. 
+Following the exercise's question, let assume the sphere surface to be separated by a circle $C_{[N,S]}$ into the parts $H_{N}$ and $H_{S}$. Let also assume that portions of any path contained in $H_{N}$ is run across at velocity $c_{a}$ (light velocity in air) while those contained in $H_{S}$ is run across at velocity $c_{w}$ (light velocity in water) . 
+Clearly the circle $C_{[N,S]}$ has a role in the problem analogous to the one played by the air-water interface (a straight line) in the derivation of Snell's law. 
+Let now consider the (infinite) maximum length circles (*meridians*) passing through the points $N$ and $P$ (*poles*) associated with the circle. 
 Before tackling a general solution let us mention a special case: 
 > In case the starting and arrival points of a path lie on the same
 > meridian, the shortest of the two segments into which the two points
@@ -102,5 +102,5 @@ $ds(\phi)$. Note that this expression must fulfill two requirements:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzEyNzk5MTksMTkxNzYxMzU5XX0=
+eyJoaXN0b3J5IjpbLTEyMDQyMzUxMDUsMTkxNzYxMzU5XX0=
 -->
