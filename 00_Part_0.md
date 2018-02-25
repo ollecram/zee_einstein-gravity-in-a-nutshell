@@ -51,9 +51,9 @@ Specifically, given that the starting and arrival points are mirroring each othe
 
 ### 3 Ant crawling faster on the outside of a bowl
 Given that the inside and outside paths are identical and that each one is separately the shortest path on the corresponding side of the surface there is nothing that can be gained. 
-Let now map the external and internal surfaces of the hemisphere into the external surface of a sphere, as we did in the previous exercise, and try to exploit some analogy with the Snell's law flat geometry:
+Let now map the external and internal surfaces of the hemisphere into the external surface of a sphere, as we did in the previous exercise. In order to to exploit analogies with the Snell's law let us define some geometric objects on the flat geometry:
 
- - Circles are sets of points at an equal distance from a 
+ - Circles are sets of points at an equal distance from a given point 
 
  
 For whatever starting and ending point of the ant path, it is always possible to pick a maximum circle which contains both. If velocity is uniform over the sphere there is no better *shortest-time* path than the shorter one delimited by the two points along the maximum circle. 
@@ -65,5 +65,5 @@ Following the exercise's question, let assume the ant be slower on the northern 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5MTUxOTc5LC04NTM5MjA1NTFdfQ==
+eyJoaXN0b3J5IjpbLTE5MTQ4MjQ0MDUsLTg1MzkyMDU1MV19
 -->
