@@ -94,13 +94,13 @@ The function $ds(\phi)$ gives the incremental path length associated to an incre
 The problem which we are left with is to find an explicit expression for 
 $ds(\phi)$. Note that this expression must fulfill two requirements:
 
- 1. The general expression for the path length differential on the sphere, with longitude coordinate $\phi$ and latitude coordinate $\theta$ is: $dl^2=R^2(d\theta^2+\cos^2 \!\theta d\phi^2)=R^2 \left( \frac{d\theta}{d\phi}^2 + \cos^2\!\theta \right) d\phi^2$;
- 2. By an increase $d\phi$ the $\theta$ coordinate also generally changes, subject to the requirement that the path must follow a geodesic. ;
+ 1. The general expression for the path length differential on the sphere, with longitude coordinate $\phi$ and latitude coordinate $\theta$ is: $dl^2=R^2(d\theta^2+\cos^2 \!\theta d\phi^2)=R^2 \left( \frac{d\theta}{d\phi}^2 + \cos^2\!\theta(\phi) \right) d\phi^2$;
+ 2. By an increase $d\phi$ the $\theta$ coordinate also generally changes, subject to the requirement that the path must follow a geodesic. In order to  ;
  3.   
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDA4ODQ0MCw4NTA2NzkxNTYsLTE2Mj
-QxMTE1MDldfQ==
+eyJoaXN0b3J5IjpbLTE0MTE4NzYyNTYsODUwNjc5MTU2LC0xNj
+I0MTExNTA5XX0=
 -->
