@@ -80,11 +80,11 @@ In order derive the analogous of Snell's law on the sphere let us accurately sta
  4. The arrival point $R \in H_{S}$ is located somewhere in the southern hemisphere. 
  5. Let $\phi_{R}$ be the longitude of $R$.   
  6. A light path from $P$ crosses the $C_{[N,S]}$ circle at a point $Q$ from which it continues toward $R$. 
- 7.   Let $\phi_{Q}$ be the longitude of $Q$ satisfying  $0 <$
+ 7.   Let $\phi_{Q}$ be the longitude of $Q$ satisfying  $0 < $
  8. whose longitude and from $The shortest-length path between two points $P$ and $Q$ is contained in the unique geodesic (great circle) defined by the two points; 
  9. meridian containing the two points;
  10. of a on the sphere is the shortest of the two  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1ODI4NjE4XX0=
+eyJoaXN0b3J5IjpbLTkxNTcyMDk4Nl19
 -->
