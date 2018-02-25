@@ -104,8 +104,9 @@ A closed form expression for the geodesic length between two arbitrary points on
 [REF3](http://vixra.org/pdf/1404.0016v1.pdf)
 
  #### 3.1 Sphere geodesics
- At this point we need a mathematical digression to derive the equation of a geodesic connecting two points in spherical coordinates. The length of the path over a sphere's surface between two fixed points $P_1$ and $P_2$ in spherical coordinates can be obtained integrating the differential $dl^2 =|dr|= R\sqrt{d\theta^2+\sin^2\!\theta d\phi^2}$. Therefore we can define the Lagrangian (functional to be minimized)
-$$L = R \int^{\theta_2}_{\theta_1}\sqrt{1 + \sin^2\!\theta\dot{\phi}^2}\,d\theta$$ 
+ At this point we need a mathematical digression to derive the equation of a geodesic connecting two points in spherical coordinates. The length of the path over a sphere's surface between two fixed points $P_1$ and $P_2$ in spherical coordinates can be obtained integrating the differential $dl^2 =|dr|= R\sqrt{d\theta^2+\sin^2\!\theta d\phi^2}$. 
+ Therefore we want the minimum of a functional can define the Lagrangian (functional to be minimized)
+$$J = R \int^{\theta_2}_{\theta_1}\sqrt{1 + \sin^2\!\theta\dot{\phi}^2}\,d\theta$$ 
 where $$\dot{\phi} = \frac{d\phi}{d\theta}$$
 The Euler equation applied to the above Lagrangian is 
 $$ \frac{dL}{d\phi} = \frac{d}{d\theta}\frac{dL}{d\dot{\phi}}$$  
@@ -115,5 +116,5 @@ $$ \frac{dL}{d\phi} = \frac{d}{d\theta}\frac{dL}{d\dot{\phi}}$$
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTYzNjUzNywtMTk0NDA3ODgyXX0=
+eyJoaXN0b3J5IjpbMTA1NzIyMzMyMSwtMTk0NDA3ODgyXX0=
 -->
