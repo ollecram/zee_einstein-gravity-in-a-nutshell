@@ -69,13 +69,13 @@ Before tackling a general solution let us mention an obvious special case:
 > divide the meridian is not only the ***shortest-length*** path, but
 > also the ***shortest-time*** path.
 
-  
+Note that   
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4NzU4ODAyLDE0NDc2OTAyMDMsNTcxMz
-IxMDgsMTM2NDkwNzM0NywxNjM4NzcxNTI3LC04NTM5MjA1NTFd
-fQ==
+eyJoaXN0b3J5IjpbNzg3MzkzMDMsMTQ0NzY5MDIwMyw1NzEzMj
+EwOCwxMzY0OTA3MzQ3LDE2Mzg3NzE1MjcsLTg1MzkyMDU1MV19
+
 -->
