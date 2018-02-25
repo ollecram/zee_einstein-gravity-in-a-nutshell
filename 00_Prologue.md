@@ -53,7 +53,7 @@ Specifically, given that the starting and arrival points are mirroring each othe
 Given that the inside and outside paths are identical and that each one is separately the shortest path on the corresponding side of the surface there is nothing that can be gained. 
 Let now map the external and internal surfaces of the hemisphere into the external surface of a sphere, as we did in the previous exercise. In order to to exploit analogies with the Snell's law let us define some geometric objects on the sphere surface:
  - A circle $C_{p}$ is a set of points at an equal distance from a given point $p$. 
- - For any  $C_{p}$ there exists a unique point $P \ne p$ such that $C_{p}=C_{P}$. [A circle can therefore be also indicated as $C_{[p,P]}$ and the points $p$ and $P$ may be referred to as the circle's poles ].
+ - For any  $C_{p}$ there exists a unique point $P \ne p$ such that $C_{p}=C_{P}$. [A circle can therefore be also indicated as $C_{[p,P]}$ and the points $p$ and $P$ may be referred to as the circle's *poles*].
  - Any circle divides the sphere surface into two sets $H_{p}$ and $H_{P}$ such that $p \in H_{p}$ and $P \in H_{P}$ whose intersection is the circle itself. 
  - The maximum length of a circle is $2\pi R$.   
  -  For a given maximum length circle $C^{max}_{[p,P]}$ the two sets $H_{p}$ and $H_{P}$  have equal area $2\pi R^{2}$ 
@@ -62,12 +62,13 @@ Let now map the external and internal surfaces of the hemisphere into the extern
 
 Following the exercise's question, let assume the sphere surface to be separated by a circle $C_{[p,P]}$ into the parts $H_{p}$ and $H_{P}$. Let also assume that portions of any path contained in $H_{p}$ is run across at velocity $c_{p}$ while those contained in $H_{P}$ is run across at velocity $c_{P}$. 
 Clearly the circle $C_{[p,P]}$ has a role in the problem analogous to the one played by the air-water interface (a straight line) in the derivation of Snell's law. 
-Let now consider the (infinite) maximum length circles passing through the points $p$ and $P$ (poles) associated with the circle. 
-Before tackling a general solution let us mention a special case: that in which  
+Let now consider the (infinite) maximum length circles passing through the points $p$ and $P$ (*poles*) associated with the circle. 
+Before tackling a general solution let us mention a special case: 
+In case the starting and arrival points of that in which  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODAxMjU3OV19
+eyJoaXN0b3J5IjpbNDc5MzQ2MjI1XX0=
 -->
