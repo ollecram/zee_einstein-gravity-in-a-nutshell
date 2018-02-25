@@ -116,7 +116,7 @@ $$ \frac{d}{d\theta}\frac{dL}{d\dot{\phi}} = R \frac{d}{d\theta} \left( \frac{\s
 If $C$ is the constant value of the expression between parentheses in the above expression, then $\dot{\phi}$ is a function of $\theta$
 
 $$C = \left( \frac{\sin^2\!\theta\dot{\phi}}{\sqrt{1 + \sin^2\!\theta\dot{\phi}^2}}\right)  \Leftrightarrow \frac{C^2}{\sin^2\!\theta} = \frac{\sin^2\!\theta\dot{\phi}^2}{1 + \sin^2\!\theta\dot{\phi}^2}\Leftrightarrow $$
-$$\Leftrightarrow C^2$$
+$$\Leftrightarrow C^2 + C^2 \sin^2\!\theta\dot{\phi}^2 = \sin^2\!\theta\dot{\phi}^2}$$
 
 
 
@@ -124,5 +124,5 @@ $$\Leftrightarrow C^2$$
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjg3NDQzNjVdfQ==
+eyJoaXN0b3J5IjpbMjE0MjIyNjkzN119
 -->
