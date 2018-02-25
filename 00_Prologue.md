@@ -53,7 +53,7 @@ Specifically, given that the starting and arrival points are mirroring each othe
 Given that the inside and outside paths are identical and that each one is separately the shortest path on the corresponding side of the surface there is nothing that can be gained. 
 Let now map the external and internal surfaces of the hemisphere into the external surface of a sphere, as we did in the previous exercise. In order to to exploit analogies with the Snell's law let us define some geometric objects on the sphere surface:
  - A circle $C_{p}$ is a set of points at an equal distance from a given point $p$. 
- - For any  $C_{p}$ there exists a unique point $P \ne p$ such that $C_{p}=C_{P}$. [A circle can therefore be also indicated as $C_{[p,P]}$].
+ - For any  $C_{p}$ there exists a unique point $P \ne p$ such that $C_{p}=C_{P}$. [A circle can therefore be also indicated as $C_{[p,P]}$ and the points $p$ and $P$ may be referred to as the circlepoles ].
  - Any circle divides the sphere surface into two sets $H_{p}$ and $H_{P}$ such that $p \in H_{p}$ and $P \in H_{P}$ whose intersection is the circle itself. 
  - The maximum length of a circle is $2\pi R$.   
  -  For a given maximum length circle $C^{max}_{[p,P]}$ the two sets $H_{p}$ and $H_{P}$  have equal area $2\pi R^{2}$ 
@@ -69,5 +69,5 @@ Before tackling a general solution let us mention a special case: that in which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjQzMjM2NV19
+eyJoaXN0b3J5IjpbLTE2Mjg0NTA4M119
 -->
