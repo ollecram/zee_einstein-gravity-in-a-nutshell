@@ -76,11 +76,11 @@ In order derive the analogous of Snell's law on the sphere let us accurately sta
 
  1. Our coordinate system on the sphere is determined by the poles $N$ and $S$ of the $C_{[N,S]}$ circle (not necessarily a great circle) which is the boundary separating the northern high-speed zone ($H_{N}$) from the southern low-speed zone ($H_{S}$).
  2.  The starting point $P \in H_{N}$ is located somewhere in the northern hemisphere. 
- 3. The great circle containing $N$, $P$ and $S$ is assigned   
+ 3. The great circle containing $N$, $P$ and $S$ is assigned lo  
  4. The shortest-length path between two points $P$ and $Q$ is contained in the unique geodesic (great circle) defined by the two points; 
  5. meridian containing the two points;
  6. of a on the sphere is the shortest of the two  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4MjQ4NTA2XX0=
+eyJoaXN0b3J5IjpbMTEyMTQxMDcxMV19
 -->
