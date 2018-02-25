@@ -61,13 +61,13 @@ Let now map the external and internal surfaces of the hemisphere into the extern
  - An infinite number of *maximum length circles* (meridians) contain the points $p$ and $P$ associated to a given circle $C_{[p,P]}$
 
 Following the exercise's question, let assume the sphere surface to be separated by a circle $C_{[p,P]}$ into the parts $H_{p}$ and $H_{P}$. Let also assume that portions of any path contained in $H_{p}$ is run across at velocity $c_{p}$ while those contained in $H_{P}$ is run across at velocity $c_{P}$. 
-Clearly the circle $C_{[p,P]}$ has a role in the problem analogous to that of the air-water interface (a straight line) in the derivation of Snell's law. 
-
+Clearly the circle $C_{[p,P]}$ has a role in the problem analogous to the one played by the air-water interface (a straight line) in the derivation of Snell's law. 
+Let now consider the maximum length circles passing 
 Before tackling a general solution let us mention a special case: that in which  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjI0Mjc3XX0=
+eyJoaXN0b3J5IjpbMTU5NjgyOTExOV19
 -->
