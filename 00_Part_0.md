@@ -64,12 +64,12 @@ Going back to the problem statement, let assume For whatever starting and ending
 Following the exercise's question, let assume the sphere surface to be separated by a circle $C_{[p,P]}$ into the parts $H_{p}$ and $H_{P}$. Let also assume that portions of any path contained in $H_{p}$ can be covered at velocity $c_{p}$ while those contained in $H_{P}$ can be covered at velocity $c_{P}$. 
 Clearly the circle $C_{[p,P]}$ has a role in the problem analogous to that of the air-water interface (a straight line) in the derivation of Snell's law. 
 
-Before tackling a general solution let us mention a special case 
+Before tackling a general solution let us mention a special case>  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTczODUxMSwxNjM4NzcxNTI3LC04NT
-M5MjA1NTFdfQ==
+eyJoaXN0b3J5IjpbMTM2NDkwNzM0NywtNjI1NzM4NTExLDE2Mz
+g3NzE1MjcsLTg1MzkyMDU1MV19
 -->
