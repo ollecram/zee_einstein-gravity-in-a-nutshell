@@ -108,7 +108,7 @@ A closed form expression for the geodesic length between two arbitrary points on
  The functional to be minimized is 
 $$J = \int^{\theta_2}_{\theta_1}\!\!L(\theta, \phi, \dot{\phi}) d\theta = R \int^{\theta_2}_{\theta_1}\!\!\sqrt{1 + \sin^2\!\theta\dot{\phi}^2}\,d\theta$$ 
 where $$\dot{\phi} = \frac{d\phi}{d\theta}$$
-The Euler equation applied to the above Lagrangian is 
+The Euler-Lagrange equation applied to the above functional is 
 $$ \frac{dL}{d\phi} = \frac{d}{d\theta}\frac{dL}{d\dot{\phi}}$$  
 hence
 $$ \frac{dL}{d\phi} = \frac{d}{d\theta}\frac{dL}{d\dot{\phi}}$$  
@@ -116,5 +116,5 @@ $$ \frac{dL}{d\phi} = \frac{d}{d\theta}\frac{dL}{d\dot{\phi}}$$
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzMzM1ODIzXX0=
+eyJoaXN0b3J5IjpbLTEzNzQ4MDQ0NTZdfQ==
 -->
