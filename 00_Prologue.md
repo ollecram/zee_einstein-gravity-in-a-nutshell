@@ -34,7 +34,7 @@ Stated in this form the law can be easily interpreted as saying that $\sin \thet
 Let say the bowl is half a sphere of radius $R$ and assume the ant being located at latitude $\theta$ from the south pole, on the $\phi=0$ meridian, where $0 \leq \theta \leq \pi/2$ and $0 \leq \phi \leq 2 \pi$.
 
 The shortest path length $l$ is twice the distance of the ant from the bowl border along the meridian, thus 
-$$l = 2 R \left( \frac{\pi}{2} - \theta \right)$$
+$$l = 2 R \theta$$
 
 This is because the infinitesimal squared path length on a sphere is $ds^{2} = R^{2} (d\theta^{2} + d\phi^{2})$. In order to reach the point opposite to her in the internal face of the hemisphere, the ant cannot avoid reaching the border, thus covering a latitude excursion of $\pi/2 - \theta$ twice: going up to the border then down from it. Any deviation $d\phi$ from the $\phi=0$ meridian where it is initially located would need to be compensated by an equal and opposite one in order to reach the target point, thus increasing the path length increase by an amount  $ds^{2} = 2 R^{2} d\phi^{2}$.
 The whole argument can be simplified by assuming that the external and internal face of the bowl can be separated and the space in between  inflated to make the hemisphere into the external surface of a sphere. The sphere equatorial circle would map the border of the former hemisphere. The problem can be rephrased as follows: 
@@ -59,5 +59,5 @@ Following the exercise's question, let assume the ant be slower on the northern 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzYxODQ1OF19
+eyJoaXN0b3J5IjpbLTExMjkxNjIxOF19
 -->
