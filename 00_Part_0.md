@@ -94,10 +94,11 @@ The function $ds(\phi)$ gives the incremental path length associated to an incre
 The problem which we are left with is to find an explicit expression for 
 $ds(\phi)$. Note that this expression must fulfill two requirements:
 
- - List item
+ 1. By an increase $d\phi$ the $\theta
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1MTcwMzIsLTE2MjQxMTE1MDldfQ==
+eyJoaXN0b3J5IjpbLTE5ODc3MTYzNDEsLTE2MjQxMTE1MDldfQ
+==
 -->
