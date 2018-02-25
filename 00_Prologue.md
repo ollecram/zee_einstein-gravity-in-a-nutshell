@@ -46,7 +46,7 @@ The answer being:
 > the two circular segments in which the two points divide the unique
 > circle of radius $R$ containing those points.
 
-Clearly, being the arrival
+Clearly, being the arrival point 
 
 ### 3 Ant crawling faster on the outside of a bowl
 Given that the inside and outside paths are identical and that each one is separately the shortest path on the corresponding side of the surface there is nothing that can be gained. 
@@ -60,5 +60,5 @@ Following the exercise's question, let assume the ant be slower on the northern 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDc5OTEzOTRdfQ==
+eyJoaXN0b3J5IjpbMjE1ODQ1MDJdfQ==
 -->
