@@ -95,12 +95,12 @@ The problem which we are left with is to find an explicit expression for
 $ds(\phi)$. Note that this expression must fulfill two requirements:
 
  1. The general expression for the path length differential on the sphere, with longitude coordinate $\phi$ and latitude coordinate $\theta$ is: $dl^2=R^2(d\theta^2+\cos^2 \!\theta d\phi^2)=R^2 \left( \frac{d\theta}{d\phi}^2 + \cos^2\!\theta(\phi) \right) d\phi^2$;
- 2. By an increase $d\phi$ the $\theta$ coordinate also generally changes, subject to the requirement that the path must follow a geodesic. In order to evaluate the integrals one must therefore determine the form of the function $\theta (\phi)$ subject to ;
- 3.   
+ 2. By an increase $d\phi$ the $\theta$ coordinate also generally changes, subject to the requirement that the path must follow a geodesic. In order to evaluate the integrals one should determine the form of the function $\theta (\phi)$ subject to this requirement. 
+
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDUyNTU2NSw4NTA2NzkxNTYsLTE2Mj
+eyJoaXN0b3J5IjpbLTc5Nzk3MzE4Miw4NTA2NzkxNTYsLTE2Mj
 QxMTE1MDldfQ==
 -->
