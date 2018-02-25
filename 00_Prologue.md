@@ -69,11 +69,11 @@ Before tackling a general solution let us mention an obvious special case:
 > divide the meridian is not only the ***shortest-length*** path, but
 > also the ***shortest-time*** path. 
 
-Note that    
+The justification for the above assertion is that no matter what the change in velocity occurs when crossing the Note that    
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDIwOTk1N119
+eyJoaXN0b3J5IjpbMTk1ODc1MTkwNV19
 -->
