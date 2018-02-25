@@ -77,3 +77,6 @@ In order derive the analogous of Snell's law on the sphere we should simply appl
 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk0Njc3OTc5M119
+-->
