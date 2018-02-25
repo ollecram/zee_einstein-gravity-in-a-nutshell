@@ -57,7 +57,7 @@ Let now map the external and internal surfaces of the hemisphere into the extern
  - Any circle divides the sphere surface into two sets $H_{p}$ and $H_{P}$ such that $p \in H_{p}$ and $P \in H_{P}$ whose intersection is the circle itself. 
  - The maximum length of a circle is $2\pi R$.   
  -  For a given maximum length circle $C^{max}_{[p,P]}$ the two sets $H_{p}$ and $H_{P}$  have equal area $2\pi R^{2}$ 
- - There are infin
+ - There are infinite nu
  
 Going back to the problem statement, let assume For whatever starting and ending point of the ant path, it is always possible to pick a maximum circle which contains both. If velocity is uniform over the sphere there is no better *shortest-time* path than the shorter one delimited by the two points along the maximum circle. 
 
@@ -70,5 +70,5 @@ Before tackling a general solution let us mention a special case: that in which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDY0NTEwNV19
+eyJoaXN0b3J5IjpbLTgxNTQ2OTM3Ml19
 -->
