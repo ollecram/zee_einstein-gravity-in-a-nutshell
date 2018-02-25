@@ -62,13 +62,13 @@ Let now map the external and internal surfaces of the hemisphere into the extern
 Going back to the problem statement, let assume For whatever starting and ending point of the ant path, it is always possible to pick a maximum circle which contains both. If velocity is uniform over the sphere there is no better *shortest-time* path than the shorter one delimited by the two points along the maximum circle. 
 
 Following the exercise's question, let assume the sphere surface to be separated by a circle $C_{[p,P]}$ into the parts $H_{p}$ and $H_{P}$. Let also assume that portions of any path contained in $H_{p}$ can be covered at velocity $c_{p}$ while those contained in $H_{P}$ can be covered at velocity $c_{P}$. 
- e ant be slower on the northern hemisphere, in which case the equator plays the same role of the air-water interface in the Snell's law.   
+Clearly the circle $C_{[p,P]}$ has a role in the problem which is analogous to that of the air-water interface in 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTg5OTY1LDE2Mzg3NzE1MjcsLTg1Mz
-kyMDU1MV19
+eyJoaXN0b3J5IjpbLTcwMTQyODg0MiwxNjM4NzcxNTI3LC04NT
+M5MjA1NTFdfQ==
 -->
