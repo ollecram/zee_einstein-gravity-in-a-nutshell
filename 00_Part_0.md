@@ -55,7 +55,7 @@ Let now map the external and internal surfaces of the hemisphere into the extern
  - A circle $C_{p}$ is a set of points at an equal distance from a given point $p$. 
  - For any  $C_{p}$ there exists a unique point $P \ne p$ such that $C_{p}=C_{P}$. [A circle can therefore be also indicated as $C_{[p,P]}$ and the points $p$ and $P$ may be referred to as the circle's *poles*].
  - Any circle divides the sphere surface into two sets $H_{p}$ and $H_{P}$ such that $p \in H_{p}$ and $P \in H_{P}$ whose intersection is the circle itself. 
- - There exist maximum length circles (*great circles* or *meridians*), thei r length being  $2\pi R$  .   
+ - There exist maximum length circles (*great circles* or *meridians*), thei r length being $2\pi R$  .   
  -  For a given maximum length circle $C^{max}_{[p,P]}$ the two sets $H_{p}$ and $H_{P}$  have equal area $2\pi R^{2}$ 
  - An infinite number of circles contain two distinct points $a \ne b$ , one of which is a 
  - An infinite number of maximum length circles contain the poles $p$ and $P$ associated to a given circle $C_{[p,P]}$
@@ -78,5 +78,5 @@ In order derive the analogous of Snell's law on the sphere we should simply appl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1MzE3Mzg2XX0=
+eyJoaXN0b3J5IjpbMTc1MTQ2MTIwNl19
 -->
