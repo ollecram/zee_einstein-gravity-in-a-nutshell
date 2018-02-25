@@ -87,6 +87,3 @@ With the above specifications the problem can be solved by finding the longitude
 $$ t_{PQ} = \frac{\left |\widehat{PQ} \right |}{c_a} = ...$$
 $$ t_{QR} = \frac{\left |\widehat{QR} \right |}{c_a} = ...$$
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODY5Mjg3Niw0MTE2Mzg4MjhdfQ==
--->
