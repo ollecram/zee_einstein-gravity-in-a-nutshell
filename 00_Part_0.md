@@ -119,12 +119,12 @@ $$C = \left( \frac{\sin^2\!\theta\dot{\phi}}{\sqrt{1 + \sin^2\!\theta\dot{\phi}^
 $$\Leftrightarrow C^2 + C^2 \sin^2\!\theta\dot{\phi}^2 = \sin^4\!\theta\dot{\phi}^2 \Leftrightarrow C^2 + \sin^2\!\theta (C^2 - \sin^2\!\theta)\dot{\phi}^2 = 0 \Leftrightarrow$$
 $$\Leftrightarrow \frac{C^2}{\dot{\phi}^2} = \sin^2\!\theta (C^2 - \sin^2\!\theta)\dot{\phi}^2 = 0 \Leftrightarrow \dot{\phi}^2 = \frac{C^2}{\sin^2\!\theta(\sin^2\!\theta - C^2) }$$
 Thus finally
-$$\dot{\phi} = \frac{C}{\sin\!\theta\sqrt{\sin^2\!\theta - C^2} }$$
+$$\dot{\phi} = \frac{C}{\sin\!\theta\sqrt{\sin^2\!\theta - C^2} }$$ and we are 
 
 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyMTg0NDkwLDY0MTU0ODY1Ml19
+eyJoaXN0b3J5IjpbMTEzNjIxNjIyMyw2NDE1NDg2NTJdfQ==
 -->
