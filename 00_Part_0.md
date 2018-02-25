@@ -74,11 +74,11 @@ There is nothing in this special case that is due to working on the surface of a
 
 In order derive the analogous of Snell's law on the sphere let us accurately state our problem:
 
- 1. Our coordinate system on the sphere is determined by the 
+ 1. Our coordinate system on the sphere is determined by the poles of a 
  2. The shortest-length path between two points $P$ and $Q$ is contained in the unique geodesic (great circle) defined by the two points; 
  3. meridian containing the two points;
  4. of a on the sphere is the shortest of the two  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTEwMTM5NCw0MTE2Mzg4MjhdfQ==
+eyJoaXN0b3J5IjpbLTE0NDIwMTY0MjMsNDExNjM4ODI4XX0=
 -->
