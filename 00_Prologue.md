@@ -96,13 +96,13 @@ $dl(\phi)$. Note that this expression must fulfill two requirements:
 
  1. The general expression for the path length differential on the sphere, with longitude coordinate $\phi$ and latitude coordinate $\theta$ is: $dl^2=R^2(d\theta^2+\cos^2 \!\theta d\phi^2)=R^2 \left( \frac{d\theta}{d\phi}^2 + \cos^2\!\theta(\phi) \right) d\phi^2$;
 [$\theta$ is not the spherical coordinate, hence $\cos^2 \!\theta$ instead of $\sin^2 \!\theta$].
- 3. By an increase $d\phi$ the $\theta$ coordinate also generally changes. Therefore, in order to evaluate the integrals in closed form one should determine the function $\theta (\phi)$ subject to the requirement that the path follow a geodesic (great circle). 
+ 3. By an increase $d\phi$ the $\theta$ coordinate also generally changes. Therefore, in order to evaluate the integrals in closed form one should determine the function $\theta (\phi)$ subject to the requirement that the path follow a geodesic (great circle). Alternate
 [REF1](http://www.damtp.cam.ac.uk/user/reh10/lectures/nst-mmii-handout2.pdf)
 [REF2](http://campus.mst.edu/physics/courses/409/Problem-Solutions/HW#5/HW5_prob1_sphere_geodesic.pdf)
-
+[REF3](http://vixra.org/pdf/1404.0016v1.pdf)
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2NTY5MjY5XX0=
+eyJoaXN0b3J5IjpbODIxMjAyMTA5XX0=
 -->
