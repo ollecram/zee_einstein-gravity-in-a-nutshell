@@ -93,8 +93,11 @@ The function $ds(\phi)$ gives the incremental path length associated to an incre
 
 The problem which we are left with is to find an explicit expression for 
 $ds(\phi)$. Note that this expression must fulfill two requirements:
+
+ - List item
+
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzMDQxODA4LC0xNjI0MTExNTA5XX0=
+eyJoaXN0b3J5IjpbNTI1MTcwMzIsLTE2MjQxMTE1MDldfQ==
 -->
