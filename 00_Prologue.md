@@ -56,7 +56,7 @@ Let now map the external and internal surfaces of the hemisphere into the extern
  - A circle $C_{p}$ is a set of points at an equal distance from a given point $p$. 
  - For any  $C_{p}$ there exists a unique point $P \ne p$ such that $C_{p}=C_{P}$. [A circle can therefore be also indicated as $C_{[p,P]}$].
  - Any circle divides the sphere surface into two sets $H_{p}$ and $H_{P}$ such that $p \in H_{p}$ and $P \in H_{P}$ and whose intersection is the circle itself. 
- - The ircle maximum length is $2\pi R$.   
+ - The maximum length is $2\pi R$.   
  -  
  -  
 
@@ -70,5 +70,5 @@ Following the exercise's question, let assume the ant be slower on the northern 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTIxMzY0M119
+eyJoaXN0b3J5IjpbLTEwMjI1MDUwODBdfQ==
 -->
