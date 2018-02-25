@@ -55,6 +55,7 @@ Let now map the external and internal surfaces of the hemisphere into the extern
 
  - A circle $C_{p}$ is a set of points at an equal distance from a given point $p$. 
  - For any  $C_{p}$ there exists a unique point $P \ne p$ such that $C_{p}=C_{P}$. [A circle can therefore be also indicated as $C_{[p,P]}$].
+ - For any circle $C_{p}=C_{P}$ 
  - Any circle divides the sphere surface into two sets $H_{p}$ and $H_{P}$ such that $p \in H_{p}$ and $P \in H_{P}$ whose intersection is the circle itself. 
  - The maximum length of a circle is $2\pi R$.   
  -  For a given maximum length circle $C^{max}_{[p,P]}$ the two sets $H_{p}$ and $H_{P}$  have equal area $2\pi R^{2}$ 
@@ -70,6 +71,6 @@ Before tackling a general solution let us mention a special case: that in which
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTY4NDc2NCwxMzY0OTA3MzQ3LDE2Mz
+eyJoaXN0b3J5IjpbLTY1MjU4MDQ0MywxMzY0OTA3MzQ3LDE2Mz
 g3NzE1MjcsLTg1MzkyMDU1MV19
 -->
