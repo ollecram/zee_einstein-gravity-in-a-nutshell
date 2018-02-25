@@ -54,7 +54,7 @@ Given that the inside and outside paths are identical and that each one is separ
 Let now map the external and internal surfaces of the hemisphere into the external surface of a sphere, as we did in the previous exercise. In order to to exploit analogies with the Snell's law let us define some geometric objects on the sphere surface:
 
  - A circle $C_{p}$ is a set of points at an equal distance from a given point $p$. 
- - For any  $C_{p}$ there exists a unique point $P \ne p$ such that $C_{p}=C_{P}$.
+ - For any  $C_{p}$ there exists a unique point $P \ne p$ such that $C_{p}=C_{P}$. [A circle can therefore be also indicated as $$]
  - Any circle divides the sphere surface into two sets $S_{p}$ and $S_{P}$ such that $p \in S_{p}$ and $P \in S_{P}$ and whose intersection is the circle itself.
  - For any circle  
  -  
@@ -70,6 +70,6 @@ Following the exercise's question, let assume the ant be slower on the northern 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MzA1MzI4NSwxNjM4NzcxNTI3LC04NT
-M5MjA1NTFdfQ==
+eyJoaXN0b3J5IjpbLTE3NzA5Mjk3MzcsMTYzODc3MTUyNywtOD
+UzOTIwNTUxXX0=
 -->
