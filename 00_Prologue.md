@@ -92,8 +92,9 @@ The function $ds(\phi)$ gives the incremental path length associated to an incre
  - the light speed in air ($c_a$) and in water ($c_w$).
 
 The problem which we are left with is to find an explicit expression for 
-$ds(\phi)$. Note that this expression must fulfill two requirements: 
+$ds(\phi)$. Note that this expression must fulfill two requirements:
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Mzg2MzU1MF19
+eyJoaXN0b3J5IjpbNzMzMDQxODA4XX0=
 -->
