@@ -64,12 +64,13 @@ Following the exercise's question, let assume the sphere surface to be separated
 Clearly the circle $C_{[p,P]}$ has a role in the problem analogous to the one played by the air-water interface (a straight line) in the derivation of Snell's law. 
 Let now consider the (infinite) maximum length circles (*meridians*) passing through the points $p$ and $P$ (*poles*) associated with the circle. 
 Before tackling a general solution let us mention a special case: 
-In case the starting and arrival points of a path lie on the same meridian, the shortest of the two segments into which the two points divide the meridian is not only the ***shortest-length*** path, but this is also the ***shortest-time*** path,  two points is the shortest path at in which  
+In case the starting and arrival points of a path lie on the same meridian, the shortest of the two segments into which the two points divide the meridian is not only the ***shortest-length*** path, but also the ***shortest-time*** path,  two points is the shortest path at in which  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzY5MDIwMyw1NzEzMjEwOCwxMzY0OT
-A3MzQ3LDE2Mzg3NzE1MjcsLTg1MzkyMDU1MV19
+eyJoaXN0b3J5IjpbLTIxMTA5MzMyMDksMTQ0NzY5MDIwMyw1Nz
+EzMjEwOCwxMzY0OTA3MzQ3LDE2Mzg3NzE1MjcsLTg1MzkyMDU1
+MV19
 -->
