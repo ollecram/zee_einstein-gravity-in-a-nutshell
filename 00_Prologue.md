@@ -46,7 +46,7 @@ The answer being, in general terms:
 > the two circular segments in which the two points divide the unique
 > circle of radius $R$ containing those points. 
 
-Specifically, given that the starting and arrival points are mirroring each other with respect to the equatorial circle, they lie on the same meridian at equal distances (hence latitude) from the equator. The shortest path length (separating distance) between them is therefore 
+Specifically, given that the starting and arrival points are mirroring each other with respect to the equatorial circle, they lie on the same meridian at equal distances (hence latitude) from the equator. The shortest path length (separating distance) between them is therefore $l = 2 R \left( \frac{\pi}{2} - \theta \right)$.
 ### 3 Ant crawling faster on the outside of a bowl
 Given that the inside and outside paths are identical and that each one is separately the shortest path on the corresponding side of the surface there is nothing that can be gained. 
 However, to exploit some analogy with the Snell's law flat geometry, let assume that the external and internal face of the bowl could be separated and the space in between inflated to make the hemisphere into a sphere. 
@@ -59,5 +59,5 @@ Following the exercise's question, let assume the ant be slower on the northern 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NjAwNjY2MV19
+eyJoaXN0b3J5IjpbMjEzNzYxODQ1OF19
 -->
