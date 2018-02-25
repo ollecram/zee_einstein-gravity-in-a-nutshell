@@ -125,6 +125,3 @@ $$\dot{\phi} = \frac{C}{\sin\!\theta\sqrt{\sin^2\!\theta - C^2} }$$ and we are n
 
  
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTg0NjQwMDYsNjQxNTQ4NjUyXX0=
--->
