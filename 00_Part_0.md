@@ -64,12 +64,12 @@ Following the exercise's question, let assume the sphere surface to be separated
 Clearly the circle $C_{[p,P]}$ has a role in the problem analogous to the one played by the air-water interface (a straight line) in the derivation of Snell's law. 
 Let now consider the (infinite) maximum length circles passing through the points $p$ and $P$ (*poles*) associated with the circle. 
 Before tackling a general solution let us mention a special case: 
-In case the starting and arrival points of a pathat in which  
+In case the starting and arrival points of a path that in which  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzMyNzcxMTksNTcxMzIxMDgsMTM2ND
-kwNzM0NywxNjM4NzcxNTI3LC04NTM5MjA1NTFdfQ==
+eyJoaXN0b3J5IjpbMTI5MzA2NjYxNyw1NzEzMjEwOCwxMzY0OT
+A3MzQ3LDE2Mzg3NzE1MjcsLTg1MzkyMDU1MV19
 -->
