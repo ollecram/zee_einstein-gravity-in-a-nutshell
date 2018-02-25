@@ -69,11 +69,11 @@ Before tackling a general solution let us mention an obvious special case:
 > divide the meridian is not only the ***shortest-length*** path, but
 > also the ***shortest-time*** path. 
 
-The justification for the above assertion is that no matter what change in velocity occurs at the separation between the low and high velocity zones, Note that    
+The justification for the above assertion is that no matter what in velocity occurs at the separation between the low and high velocity zones, Note that    
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3MDk5OTc5XX0=
+eyJoaXN0b3J5IjpbMTExMDE3OTUwOV19
 -->
