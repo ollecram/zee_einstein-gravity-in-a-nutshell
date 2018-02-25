@@ -85,9 +85,10 @@ In order derive the analogous of Snell's law on the sphere let us accurately sta
 
 With the above specifications the problem can be solved by finding the longitude $\phi_{Q}$ of $Q$ ($0 = \phi_{P} \leq \phi_{Q} \leq \phi_{R}$) minimizing the total light time $t_{PR} = t_{PQ} + t_{QR}$, where
 $$ t_{PQ} = \frac{\left |\widehat{PQ} \right |}{c_a} = \int^{\phi_{Q}}_{0}ds(\phi)d\phi$$
-$$ t_{QR} = \frac{\left |\widehat{QR} \right |}{c_a} = \int^{\phi_{Q}}_{\phi_{R}}ds(\phi)d\phi$$
+$$ t_{QR} = \frac{\left |\widehat{QR} \right |}{c_a} = \int^{\phi_{R}}_{\phi_{Q}}ds(\phi)d\phi$$
+
+By solving the minimum problem we expect to  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU1MjI2NjIsLTE2MjQxMTE1MDldfQ
-==
+eyJoaXN0b3J5IjpbNDYwODcxMzg3LC0xNjI0MTExNTA5XX0=
 -->
