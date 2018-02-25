@@ -67,13 +67,13 @@ Before tackling a general solution let us mention an obvious special case:
 > In case the starting and arrival points of a path lie on the same
 > meridian, the shortest of the two segments into which the two points
 > divide the meridian is not only the ***shortest-length*** path, but
-> also the ***shortest-time*** path.
+> also the ***shortest-time*** path. 
 
-Note that   
+Note that    
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3MzkzMDNdfQ==
+eyJoaXN0b3J5IjpbMTc0MDIwOTk1N119
 -->
