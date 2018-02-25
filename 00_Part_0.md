@@ -36,7 +36,7 @@ Let say the bowl is half a sphere of radius $R$ and assume the ant being located
 The shortest path length $l$ is twice the distance of the ant from the bowl border along the meridian, thus 
 $$l = 2 R \left( \frac{\pi}{2} - \theta \right)$$
 
-This is because the infinitesimal squared path length on a sphere is $ds^{2} = R^{2} (d\theta^{2} + d\phi^{2})$. In order to reach the point opposite to her in the internal face of the hemisphere, the ant cannot avoid reaching the border, thus covering twice a latitude excursion of $\pi/2 - \theta$ going up to the border then down from it. Any deviation $d\phi$ from the $\phi=0$ meridian where it is initially located would need to be compensated by an equal and opposite one in order to reach the target point, thus producing an increase of the path length increase the path length by an amount  $ds^{2} = R^{2} d\phi^{2}$ and it would need to be compensated 
+This is because the infinitesimal squared path length on a sphere is $ds^{2} = R^{2} (d\theta^{2} + d\phi^{2})$. In order to reach the point opposite to her in the internal face of the hemisphere, the ant cannot avoid reaching the border, thus covering twice a latitude excursion of $\pi/2 - \theta$ going up to the border then down from it. Any deviation $d\phi$ from the $\phi=0$ meridian where it is initially located would need to be compensated by an equal and opposite one in order to reach the target point, thus increasing the path length increase by an amount  $ds^{2} = 2 R^{2} d\phi^{2}$.
 
 ### 3 Ant crawling faster on the outside of a bowl
 Given that the inside and outside paths are identical and that each one is separately the shortest path on the corresponding side of the surface there is nothing that can be gained. 
@@ -50,5 +50,5 @@ Following the exercise's question, let assume the ant be slower on the northern 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTA1MDcxOTldfQ==
+eyJoaXN0b3J5IjpbNTc2ODE4Mjk1XX0=
 -->
