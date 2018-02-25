@@ -117,13 +117,13 @@ If $C$ is the constant value of the expression between parentheses in the above 
 
 $$C = \left( \frac{\sin^2\!\theta\dot{\phi}}{\sqrt{1 + \sin^2\!\theta\dot{\phi}^2}}\right)  \Leftrightarrow \frac{C^2}{\sin^2\!\theta} = \frac{\sin^2\!\theta\dot{\phi}^2}{1 + \sin^2\!\theta\dot{\phi}^2}\Leftrightarrow $$
 $$\Leftrightarrow C^2 + C^2 \sin^2\!\theta\dot{\phi}^2 = \sin^4\!\theta\dot{\phi}^2 \Leftrightarrow C^2 + \sin^2\!\theta (C^2 - \sin^2\!\theta)\dot{\phi}^2 = 0 \Leftrightarrow$$
-$$\Leftrightarrow \frac{C^2}{\dot{\phi}^2} = \sin^2\!\theta (C^2 - \sin^2\!\theta)\dot{\phi}^2 = 0 \Leftrightarrow \dot{\phi}^2 = \frac{C^2}{\sin^2\!\theta - C^2 }$$
-
+$$\Leftrightarrow \frac{C^2}{\dot{\phi}^2} = \sin^2\!\theta (C^2 - \sin^2\!\theta)\dot{\phi}^2 = 0 \Leftrightarrow \dot{\phi}^2 = \frac{C^2}{\sin^2\!\theta(\sin^2\!\theta - C^2) }$$
+Finally
 
 
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Mjc5OTI0M119
+eyJoaXN0b3J5IjpbMTIyMDgwMDk2OF19
 -->
