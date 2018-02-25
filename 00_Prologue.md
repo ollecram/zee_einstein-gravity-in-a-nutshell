@@ -37,14 +37,14 @@ The shortest path length $l$ is twice the distance of the ant from the bowl bord
 $$l = 2 R \left( \frac{\pi}{2} - \theta \right)$$
 
 This is because the infinitesimal squared path length on a sphere is $ds^{2} = R^{2} (d\theta^{2} + d\phi^{2})$. In order to reach the point opposite to her in the internal face of the hemisphere, the ant cannot avoid reaching the border, thus covering a latitude excursion of $\pi/2 - \theta$ twice: going up to the border then down from it. Any deviation $d\phi$ from the $\phi=0$ meridian where it is initially located would need to be compensated by an equal and opposite one in order to reach the target point, thus increasing the path length increase by an amount  $ds^{2} = 2 R^{2} d\phi^{2}$.
-The whole argument can be simplified by assuming that the external and internal face of the bowl can be separated and the space in between  inflated to make the hemisphere into the external surface of a sphere. The sphere equatorial circle would map the border of the former hemisphere. The problem can now be rephrased in more general terms as follows: 
+The whole argument can be simplified by assuming that the external and internal face of the bowl can be separated and the space in between  inflated to make the hemisphere into the external surface of a sphere. The sphere equatorial circle would map the border of the former hemisphere. The problem can be rephrased as follows: 
 > The ant located somewhere below the equatorial circle on a sphere of radius $R$ must reach a symmetric point above the equator. What is the shortest path?
 
-The answer being: 
+The answer being : 
 
 > The shortest path on a sphere between two points is the shortest of
 > the two circular segments in which the two points divide the unique
-> circle of radius $R$ containing those points.
+> circle of radius $R$ containing those points. 
 
 Clearly, being the arrival point 
 
@@ -60,5 +60,5 @@ Following the exercise's question, let assume the ant be slower on the northern 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1ODQ1MDJdfQ==
+eyJoaXN0b3J5IjpbMTM0NjU1NjM5M119
 -->
