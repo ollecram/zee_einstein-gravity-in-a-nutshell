@@ -81,10 +81,10 @@ In order derive the analogous of Snell's law on the sphere let us accurately sta
  5. Let $\phi_{R}$ be the longitude of $R$.   
  6. A light path from $P$ crosses the $C_{[N,S]}$ circle at a point $Q$ from which it continues toward $R$. 
  7.   Let $\phi_{Q}$ be the longitude of $Q$ satisfying  $0 = \phi_{P} \leq \phi_{Q} \leq \phi_{R}$.
- 8. The shortest-length path $\widehat{PQ$ between two points $P$ and $Q$ is contained in the unique geodesic (great circle) defined by the two points; 
+ 8. The shortest-length path $\widehat{PQ}$ between two points $P$ and $Q$ is contained in the unique geodesic (great circle) defined by the two points; 
  9. meridian containing the two points;
  10. of a on the sphere is the shortest of the two  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTYzMTExMCw0MTE2Mzg4MjhdfQ==
+eyJoaXN0b3J5IjpbLTkyNTQxNjM2OSw0MTE2Mzg4MjhdfQ==
 -->
