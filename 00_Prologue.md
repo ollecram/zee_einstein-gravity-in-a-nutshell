@@ -103,10 +103,12 @@ A closed form expression for the geodesic length between two arbitrary points on
 [REF2](http://campus.mst.edu/physics/courses/409/Problem-Solutions/HW#5/HW5_prob1_sphere_geodesic.pdf)
 [REF3](http://vixra.org/pdf/1404.0016v1.pdf)
 
- #### 3.1 Sphere geodesic
- At this point we need a mathematical digression to derive the equation of a geodesic connecting two points in spherical coordinates. The length of the path over a sphere's surface between two fixed points $P_1=(\theta_{1}, \phi_{1)$ In order to apply the well known method of variations calculus of variation to minimize the length of the path s  
+ #### 3.1 Sphere geodesics
+ At this point we need a mathematical digression to derive the equation of a geodesic connecting two points in spherical coordinates. The length of the path over a sphere's surface between two fixed points 
+
+In order to apply the well known method of variations calculus of variation to minimize the length of the path s  
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTYwODY3OF19
+eyJoaXN0b3J5IjpbLTE5OTMwNTU3NjldfQ==
 -->
