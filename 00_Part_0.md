@@ -101,7 +101,3 @@ $ds(\phi)$. Note that this expression must fulfill two requirements:
 
  
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDg5MjE3NTksODUwNjc5MTU2LC0xNj
-I0MTExNTA5XX0=
--->
