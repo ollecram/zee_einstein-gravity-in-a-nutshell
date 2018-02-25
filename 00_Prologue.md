@@ -72,12 +72,13 @@ Before tackling a general solution let us mention a special case:
 The justification for the above assertion should be obvious, namely it is that no matter how large the jump in velocity occurring at the separation between the low and high velocity zones, moving the point away from the meridian increases the path length in both zones.     
 There is nothing in this special case that is due to working on the surface of a sphere. In fact there is a perfectly analogous situation in the flat geometry of Snell's law when $\theta_{a} = \theta_{w} = 0$. In that case the *shortest-time* path joining two points which are mirroring each other from opposite sides with respect to the air-water interface is the straight segment (*shortest-length* path) line joining them and orthogonal to the interface.  
 
-In order derive the analogous of Snell's law on the sphere we state our problem precisely:
+In order derive the analogous of Snell's law on the sphere let us accurately state our problem:
 
- 1. The shortest-length path between two points $P$ and $Q$ is contained in the unique geodesic (great circle) defined by the two points; 
- 2. meridian containing the two points;
- 3. of a on the sphere is the shortest of the two  
+ 1. Our coordinate system on the sphere is determined 
+ 2. The shortest-length path between two points $P$ and $Q$ is contained in the unique geodesic (great circle) defined by the two points; 
+ 3. meridian containing the two points;
+ 4. of a on the sphere is the shortest of the two  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjA5NDk4MzldfQ==
+eyJoaXN0b3J5IjpbMTQzOTE4NDQ4NF19
 -->
