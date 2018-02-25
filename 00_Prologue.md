@@ -90,8 +90,8 @@ $$ t_{QR} = \frac{\left |\widehat{QR} \right |}{c_a} = \int^{\phi_{R}}_{\phi_{Q}
 By solving the minimum problem we expect to obtain a relation involving 
 
  - the angles $\theta_{a}$ and $\theta_{w}$ that the light rays make with the meridian intersecting the interface $C_{[N,S]}$ circle at a point $Q$, and
- - the velocities  $c_a$ and $c_
+ - the velocities  $c_a$ and $c_w
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjgyMjM4OF19
+eyJoaXN0b3J5IjpbLTIwOTMzMjM2MzVdfQ==
 -->
