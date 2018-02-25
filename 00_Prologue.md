@@ -38,7 +38,7 @@ $$l = 2 R \left( \frac{\pi}{2} - \theta \right)$$
 
 This is because the infinitesimal squared path length on a sphere is $ds^{2} = R^{2} (d\theta^{2} + d\phi^{2})$. In order to reach the point opposite to her in the internal face of the hemisphere, the ant cannot avoid reaching the border, thus covering a latitude excursion of $\pi/2 - \theta$ twice: going up to the border then down from it. Any deviation $d\phi$ from the $\phi=0$ meridian where it is initially located would need to be compensated by an equal and opposite one in order to reach the target point, thus increasing the path length increase by an amount  $ds^{2} = 2 R^{2} d\phi^{2}$.
 The whole argument can be simplified by assuming that the external and internal face of the bowl can be separated and the space in between  inflated to make the hemisphere into the external surface of a sphere. The sphere equatorial circle would map the border of the former hemisphere. The problem can ne now rephrased as follows: 
-> The ant located somewhere below the equatorial circle on a sphere of radius $R$ must reach a  symmetric point above the equator. What is the shortest path?
+> The ant located somewhere below the equatorial circle on a sphere of radius $R$ must reach a symmetric point above the equator. What is the shortest path?
 The answer is that the shortest path on a sphere between two points is the circle of radius $R$ maximum 
   
 
@@ -54,5 +54,5 @@ Following the exercise's question, let assume the ant be slower on the northern 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDEzMDY3NjJdfQ==
+eyJoaXN0b3J5IjpbLTg4ODgzNjI4NF19
 -->
