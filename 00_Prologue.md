@@ -111,10 +111,10 @@ where $$\dot{\phi} = \frac{d\phi}{d\theta}$$
 The Euler-Lagrange equation applied to the above functional is 
 $$ \frac{dL}{d\phi} = \frac{d}{d\theta}\frac{dL}{d\dot{\phi}}$$  
 hence
-$$ 0 = \frac{d}{d\theta} \left( \frac{\sin^2\!\theta\dot{\phi}}}{}\right)     \frac{dL}{\sqrt{1 + \sin^2\!\theta\dot{\phi}^2}} = \frac{d}{d\theta}\frac{dL}{d\dot{\phi}}$$  
+$$ 0 = \frac{d}{d\theta} \left( \frac{\sin^2\!\theta\dot{\phi}}{}\right)     \frac{dL}{\sqrt{1 + \sin^2\!\theta\dot{\phi}^2}} = \frac{d}{d\theta}\frac{dL}{d\dot{\phi}}$$  
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Njk1MTk3NV19
+eyJoaXN0b3J5IjpbLTY2NzA4MDQwNF19
 -->
