@@ -69,13 +69,15 @@ Before tackling a general solution let us mention a special case:
 > divide the meridian is not only the ***shortest-length*** path, but
 > also the ***shortest-time*** path. 
 
-The justification for the above assertion should be obvious, namely it is that no matter how large the jump in velocity occurring at the separation between the low and high velocity zones, moving the point away from the meridian increases the path length in both zones.      
+The justification for the above assertion should be obvious, namely it is that no matter how large the jump in velocity occurring at the separation between the low and high velocity zones, moving the point away from the meridian increases the path length in both zones.     
+There is nothing of this special case that is unique to working on the surface of a sphere, as there is aperfectly 
+ 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTc0MzU5NywtMTYyMDgzMzcyNiw3OD
+eyJoaXN0b3J5IjpbMTMyMDAzMTE3NSwtMTYyMDgzMzcyNiw3OD
 czOTMwMywxNDQ3NjkwMjAzLDU3MTMyMTA4LDEzNjQ5MDczNDcs
 MTYzODc3MTUyNywtODUzOTIwNTUxXX0=
 -->
