@@ -94,10 +94,10 @@ The function $ds(\phi)$ gives the incremental path length associated to an incre
 The problem which we are left with is to find an explicit expression for 
 $ds(\phi)$. Note that this expression must fulfill two requirements:
 
- 1. By an increase $d\phi$ the $\theta$ coordinate also generally changes, subject to the requirement that the path   
+ 1. By an increase $d\phi$ the $\theta$ coordinate also generally changes, subject to the requirement that the path be   
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3NzUxMTk2XX0=
+eyJoaXN0b3J5IjpbMTYwNjgwMzE2MV19
 -->
