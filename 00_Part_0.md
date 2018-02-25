@@ -63,19 +63,19 @@ Let now map the external and internal surfaces of the hemisphere into the extern
 Following the exercise's question, let assume the sphere surface to be separated by a circle $C_{[p,P]}$ into the parts $H_{p}$ and $H_{P}$. Let also assume that portions of any path contained in $H_{p}$ is run across at velocity $c_{p}$ while those contained in $H_{P}$ is run across at velocity $c_{P}$. 
 Clearly the circle $C_{[p,P]}$ has a role in the problem analogous to the one played by the air-water interface (a straight line) in the derivation of Snell's law. 
 Let now consider the (infinite) maximum length circles (*meridians*) passing through the points $p$ and $P$ (*poles*) associated with the circle. 
-Before tackling a general solution let us mention an obvious special case: 
+Before tackling a general solution let us mention a special case: 
 > In case the starting and arrival points of a path lie on the same
 > meridian, the shortest of the two segments into which the two points
 > divide the meridian is not only the ***shortest-length*** path, but
 > also the ***shortest-time*** path. 
 
-The justification for the above assertion is that no matter how large the jump in velocity occurring at the separation between the low and high velocity zones, moving the point away from the meridian increases ing the length of the  increase     
+The justification for the above assertion should be obvious, namely it is that no matter how large the jump in velocity occurring at the separation between the low and high velocity zones, moving the point away from the meridian increases the path length in both zones.      
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzEyMTQ2LC0xNjIwODMzNzI2LDc4Nz
-M5MzAzLDE0NDc2OTAyMDMsNTcxMzIxMDgsMTM2NDkwNzM0Nywx
-NjM4NzcxNTI3LC04NTM5MjA1NTFdfQ==
+eyJoaXN0b3J5IjpbMTc1OTc0MzU5NywtMTYyMDgzMzcyNiw3OD
+czOTMwMywxNDQ3NjkwMjAzLDU3MTMyMTA4LDEzNjQ5MDczNDcs
+MTYzODc3MTUyNywtODUzOTIwNTUxXX0=
 -->
