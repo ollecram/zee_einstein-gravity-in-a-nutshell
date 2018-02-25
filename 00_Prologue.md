@@ -87,8 +87,8 @@ With the above specifications the problem can be solved by finding the longitude
 $$ t_{PQ} = \frac{\left |\widehat{PQ} \right |}{c_a} = \int^{\phi_{Q}}_{0}ds(\phi)d\phi$$
 $$ t_{QR} = \frac{\left |\widehat{QR} \right |}{c_a} = \int^{\phi_{R}}_{\phi_{Q}}ds(\phi)d\phi$$
 
-By solving the minimum problem we expect to  
+By solving the minimum problem we expect to obtain a relation between the angles $\theta_{a}$ and $\theta_{w}$    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwODcxMzg3XX0=
+eyJoaXN0b3J5IjpbLTM0ODcyMzI0NV19
 -->
