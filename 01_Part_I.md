@@ -38,7 +38,7 @@ $$\ddot{x} \cos{\theta} + \ddot{y} \sin{\theta} = \ddot{r} - r \dot{\theta}^2 = 
 $$\ddot{x} \sin{\theta} - \ddot{y} \cos{\theta} = 2\dot{r}\dot{\theta} + r \ddot{\theta} =  \frac{d}{dt}(r^2 \dot{\theta}) = 0$$
 
 The last one implies that the quantity $r^2 \dot{\theta}$ keeps a constant value $l$ along the particle's motion, therefore one can substitute $\dot{\theta}=l / r^2$ in the previous one, obtaining:
-$$\ddot{r}=\frac{l^2}{r^3} - \frac{k}{r}$$ 
+$$\ddot{r}=\frac{l^2}{r^3} - \frac{k}{r^2}$$ 
 
 
 
@@ -53,11 +53,11 @@ $$\ddot{r}=\frac{l^2}{r^3} - \frac{k}{r}$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjMzNTM4NywxNTIyMTIzMTcxLC01Mj
-k2NjAxODcsLTIwMzAxNDc2MjEsMTgyNDQwMjc0NywtMTgyODEw
-MzMwNSw1MDQwNDE2ODUsOTQzNTgxNDY1LC0xMjY0NjEwMjM0LD
-E4NjI3NDkzMDEsLTE1MTE1NTQ4ODUsMTU0NTUzNjU3OSw2Njc1
-MDU3NTUsLTEyMjA0NzI2MzMsLTE1NDc5OTcxNTQsMTI2NDk5Mz
-gwNiwtNDA1MTc0MzAyLC0xMjkzNTYyMjYwLDYyMzA3OTEwMSwx
-MzY1NTM3NDI1LDQ3NzA1OTA0Miw1Nzc5MDUxMjNdfQ==
+eyJoaXN0b3J5IjpbNzQ4NjQyMjU3LC0xNzYzMzUzODcsLTUyOT
+Y2MDE4NywtMjAzMDE0NzYyMSwxODI0NDAyNzQ3LC0xODI4MTAz
+MzA1LDUwNDA0MTY4NSw5NDM1ODE0NjUsLTEyNjQ2MTAyMzQsMT
+g2Mjc0OTMwMSwtMTUxMTU1NDg4NSwxNTQ1NTM2NTc5LDY2NzUw
+NTc1NSwtMTIyMDQ3MjYzMywtMTU0Nzk5NzE1NCwxMjY0OTkzOD
+A2LC00MDUxNzQzMDIsLTEyOTM1NjIyNjAsNjIzMDc5MTAxLDEz
+NjU1Mzc0MjUsNDc3MDU5MDQyLDU3NzkwNTEyM119
 -->
