@@ -41,7 +41,7 @@ The last one implies that the quantity $r^2 \dot{\theta}$ keeps a constant value
 $$\ddot{r}=\frac{l^2}{r^3} - \frac{k}{r^2} = - \frac{dv(r)}{dr}$$
 where
 $$v(r) = \frac{l^2}{2r^2} - \frac{k}{r} $$ 
-We have thus 
+We have obtained a one dimensional second order differential equation  
 
 
 
@@ -56,12 +56,12 @@ We have thus
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2MzQ0MDc1LC0zMzUxMjczODcsLTMzMj
-A2MTYwMSwxMDAwNDY2ODQxLC0xNzYzMzUzODcsLTUyOTY2MDE4
-NywtMjAzMDE0NzYyMSwxODI0NDAyNzQ3LC0xODI4MTAzMzA1LD
-UwNDA0MTY4NSw5NDM1ODE0NjUsLTEyNjQ2MTAyMzQsMTg2Mjc0
-OTMwMSwtMTUxMTU1NDg4NSwxNTQ1NTM2NTc5LDY2NzUwNTc1NS
-wtMTIyMDQ3MjYzMywtMTU0Nzk5NzE1NCwxMjY0OTkzODA2LC00
-MDUxNzQzMDIsLTEyOTM1NjIyNjAsNjIzMDc5MTAxLDEzNjU1Mz
-c0MjUsNDc3MDU5MDQyLDU3NzkwNTEyM119
+eyJoaXN0b3J5IjpbNTMyMDMyNjYsLTMzNTEyNzM4NywtMzMyMD
+YxNjAxLDEwMDA0NjY4NDEsLTE3NjMzNTM4NywtNTI5NjYwMTg3
+LC0yMDMwMTQ3NjIxLDE4MjQ0MDI3NDcsLTE4MjgxMDMzMDUsNT
+A0MDQxNjg1LDk0MzU4MTQ2NSwtMTI2NDYxMDIzNCwxODYyNzQ5
+MzAxLC0xNTExNTU0ODg1LDE1NDU1MzY1NzksNjY3NTA1NzU1LC
+0xMjIwNDcyNjMzLC0xNTQ3OTk3MTU0LDEyNjQ5OTM4MDYsLTQw
+NTE3NDMwMiwtMTI5MzU2MjI2MCw2MjMwNzkxMDEsMTM2NTUzNz
+QyNSw0NzcwNTkwNDIsNTc3OTA1MTIzXX0=
 -->
