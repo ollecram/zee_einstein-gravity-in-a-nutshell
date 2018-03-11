@@ -41,7 +41,7 @@ The last one implies that the quantity $r^2 \dot{\theta}$ keeps a constant value
 $$\ddot{r}=\frac{l^2}{r^3} - \frac{k}{r^2} = - \frac{dv(r)}{dr}$$
 where
 $$v(r) = \frac{l^2}{2r^2} - \frac{k}{r} $$ 
-We ha
+We have 
 
 
 
@@ -56,7 +56,7 @@ We ha
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODc5NDE2OCwtMzMyMDYxNjAxLDEwMD
+eyJoaXN0b3J5IjpbMjAwNzcxNzUxMSwtMzMyMDYxNjAxLDEwMD
 A0NjY4NDEsLTE3NjMzNTM4NywtNTI5NjYwMTg3LC0yMDMwMTQ3
 NjIxLDE4MjQ0MDI3NDcsLTE4MjgxMDMzMDUsNTA0MDQxNjg1LD
 k0MzU4MTQ2NSwtMTI2NDYxMDIzNCwxODYyNzQ5MzAxLC0xNTEx
