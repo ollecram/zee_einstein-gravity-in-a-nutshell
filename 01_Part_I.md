@@ -43,7 +43,7 @@ where
 $$v(r) = \frac{l^2}{2r^2} - \frac{k}{r} $$ 
 We have thus obtained a one dimensional second order differential equation for the variable $r$ as a function of time, with $l$ as a parameter. 
 
-We can integrate over $t$ In order to eliminate  
+We canintegrate over $t$ In order to eliminate  
 
 
 
@@ -58,12 +58,13 @@ We can integrate over $t$ In order to eliminate
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjQ3MDMyOCwtMzM1MTI3Mzg3LC0zMz
-IwNjE2MDEsMTAwMDQ2Njg0MSwtMTc2MzM1Mzg3LC01Mjk2NjAx
-ODcsLTIwMzAxNDc2MjEsMTgyNDQwMjc0NywtMTgyODEwMzMwNS
-w1MDQwNDE2ODUsOTQzNTgxNDY1LC0xMjY0NjEwMjM0LDE4NjI3
-NDkzMDEsLTE1MTE1NTQ4ODUsMTU0NTUzNjU3OSw2Njc1MDU3NT
-UsLTEyMjA0NzI2MzMsLTE1NDc5OTcxNTQsMTI2NDk5MzgwNiwt
-NDA1MTc0MzAyLC0xMjkzNTYyMjYwLDYyMzA3OTEwMSwxMzY1NT
-M3NDI1LDQ3NzA1OTA0Miw1Nzc5MDUxMjNdfQ==
+eyJoaXN0b3J5IjpbNTc5NDQxNzgyLC03NjI0NzAzMjgsLTMzNT
+EyNzM4NywtMzMyMDYxNjAxLDEwMDA0NjY4NDEsLTE3NjMzNTM4
+NywtNTI5NjYwMTg3LC0yMDMwMTQ3NjIxLDE4MjQ0MDI3NDcsLT
+E4MjgxMDMzMDUsNTA0MDQxNjg1LDk0MzU4MTQ2NSwtMTI2NDYx
+MDIzNCwxODYyNzQ5MzAxLC0xNTExNTU0ODg1LDE1NDU1MzY1Nz
+ksNjY3NTA1NzU1LC0xMjIwNDcyNjMzLC0xNTQ3OTk3MTU0LDEy
+NjQ5OTM4MDYsLTQwNTE3NDMwMiwtMTI5MzU2MjI2MCw2MjMwNz
+kxMDEsMTM2NTUzNzQyNSw0NzcwNTkwNDIsNTc3OTA1MTIzXX0=
+
 -->
