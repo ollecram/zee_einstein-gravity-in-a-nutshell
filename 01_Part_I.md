@@ -19,7 +19,7 @@ An often repeated statement says that *due to a simple "symmetry argument"* the 
 
 It all relates to a couple of more basic assumptions, namely that
 
- - Empty space has no preferred directions, so any special direction in the motion of a particle in a force field must be determined by the a given problem must be determined by , the only directions that may all directions one can logically make use of in    
+ - Empty space has no preferred directions, so any special direction in the motion of a particle in a force field must be determined by the cona given problem must be determined by , the only directions that may all directions one can logically make use of in    
 
 
 
@@ -27,5 +27,5 @@ It all relates to a couple of more basic assumptions, namely that
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzUyMTM2OF19
+eyJoaXN0b3J5IjpbLTE4NDcxNjc0OThdfQ==
 -->
