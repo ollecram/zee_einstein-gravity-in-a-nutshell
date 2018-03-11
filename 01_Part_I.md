@@ -32,7 +32,7 @@ $$ \dot{x} = \dot{r} \cos{\theta} - r \sin{\theta} \,\dot{\theta} \;\;\;\;\;\;\;
 $$ \ddot{x} = \ddot{r} \cos{\theta} - 2 \dot{r}\sin{\theta} \,\dot{\theta} -  r \cos{\theta} \,\dot{\theta}^2 -  r \sin{\theta} \,\ddot{\theta} = -k \frac{\cos{\theta}}{r^2}$$
 $$ \ddot{y} = \ddot{r} \sin{\theta} + 2 \dot{r}\cos{\theta} \,\dot{\theta} -  r \sin{\theta} \,\dot{\theta}^2 +  r \cos{\theta} \,\ddot{\theta}= -k \frac{\sin{\theta}}{r^2}$$
 
-$$\ddot{x} \cos{\theta} + \ddot{y} \sin{\theta} =  -\frac{k}{r^2} = \ddot{r} - r \dot{\theta}$$
+$$\ddot{x} \cos{\theta} + \ddot{y} \sin{\theta} =  -\frac{k}{r^2} = \ddot{r} - r \dot{\theta}^2$$
 
 
 
@@ -46,7 +46,7 @@ $$\ddot{x} \cos{\theta} + \ddot{y} \sin{\theta} =  -\frac{k}{r^2} = \ddot{r} - r
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTk2OTU0OSw1MDQwNDE2ODUsOTQzNT
+eyJoaXN0b3J5IjpbMTA1NzMzNTQ1NSw1MDQwNDE2ODUsOTQzNT
 gxNDY1LC0xMjY0NjEwMjM0LDE4NjI3NDkzMDEsLTE1MTE1NTQ4
 ODUsMTU0NTUzNjU3OSw2Njc1MDU3NTUsLTEyMjA0NzI2MzMsLT
 E1NDc5OTcxNTQsMTI2NDk5MzgwNiwtNDA1MTc0MzAyLC0xMjkz
