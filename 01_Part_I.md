@@ -5,11 +5,14 @@
 $$m \ddot{\mathbf{r}} = -GMm \frac{\mathbf{r}}{r^3}$$ where $\mathbf{r} = (x, y, z)$, and $r = \sqrt{\mathbf{r} \cdot \mathbf{r}} = \sqrt{x^2 + y^2 + z^2}$
 
 In spite of the different role played by $m$ on the left and right hand side of the equation we cancel it off from both sides, leaving
-$$\ddot{\mathbf{r}} = -k \frac{\mathbf{r}}{r^3}$$ where $k = GM$, 
+$$\ddot{\mathbf{r}} = -k \frac{\mathbf{r}}{r^3}$$ where $k = GM$. 
+
+#### Central force argument
+That the f
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODg4ODc3OF19
+eyJoaXN0b3J5IjpbLTE0ODEwNzk4MjVdfQ==
 -->
