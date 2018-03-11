@@ -23,7 +23,7 @@ It all relates to the following more basic assumptions, namely that
  - It is an experimental fact elevated to the status of an axiom in Newton's mechanics that the position and velocity of all particles at a given  instant of time fully determine their evolution. 
 
 By combining the above two statements one sees that at a given point in time (hence forgetting any knowledge of prior dynamical history) there are two vectors (directions) related to a particle in a central field: the radius vector connecting the field center to the particle and the particle's velocity vector. 
-These two vectors do determine a plane. we must now convince ourselves that should 
+These two vectors do determine a plane. we must now convince ourselves that should the 
 
 
 
@@ -31,6 +31,6 @@ These two vectors do determine a plane. we must now convince ourselves that shou
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDMzOTA3MCwxNTk3MzQ2ODk1LDExND
-U1NjM3NjVdfQ==
+eyJoaXN0b3J5IjpbMTgyMzk4OTk1LDE1OTczNDY4OTUsMTE0NT
+U2Mzc2NV19
 -->
