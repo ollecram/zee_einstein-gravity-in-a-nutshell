@@ -27,14 +27,14 @@ These two vectors do determine a plane. By choosing the origin of our coordinate
 
 #### Solving the 2D differential equations
 $$ \ddot{x} = -kx/r^{3} \;\;\;\;\;\;\;\;\;\;\; \ddot{y} = -ky/r^{3}$$ 
-$$ \ddot{x} = \cos{\theta} \;\;\;\;\;\;\;\;\;\;\; \ddot{y} = -ky/r^{3}$$ 
+$$ \ddot{x} = \cos{\theta} \;\;\;\;\;\;\;\;\;\;\; \ddot{y} = \cos{\theta}$$ 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTE3NDMwMiwtMTI5MzU2MjI2MCw2Mj
-MwNzkxMDEsMTM2NTUzNzQyNSw0NzcwNTkwNDIsNTc3OTA1MTIz
-XX0=
+eyJoaXN0b3J5IjpbLTIxMTE2ODE1NzgsLTQwNTE3NDMwMiwtMT
+I5MzU2MjI2MCw2MjMwNzkxMDEsMTM2NTUzNzQyNSw0NzcwNTkw
+NDIsNTc3OTA1MTIzXX0=
 -->
