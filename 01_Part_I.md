@@ -30,7 +30,9 @@ $$ \ddot{x} = -kx/r^{3} \;\;\;\;\;\;\;\;\;\;\; \ddot{y} = -ky/r^{3}$$
 $$ x = \cos{\theta} \;\;\;\;\;\;\;\;\;\;\; y = \sin{\theta}$$ 
 $$ \dot{x} = \dot{r} \cos{\theta} - r \sin{\theta} \,\dot{\theta} \;\;\;\;\;\;\;\;\;\;\; \dot{y} = \dot{r} \sin{\theta} + r \cos{\theta} \,\dot{\theta} $$ 
 $$ \ddot{x} = \ddot{r} \cos{\theta} - 2 \dot{r}\sin{\theta} \,\dot{\theta} -  r \cos{\theta} \,\dot{\theta}^2 -  r \sin{\theta} \,\ddot{\theta}$$
-$$ \ddot{y} = \ddot{r} \sin{\theta} + 2 \dot{r}\cos{\theta} \,\dot{\theta} -  r \sin{\theta} \,\dot{\theta}^2 -  r \sin{\theta} \,\ddot{\theta}$$
+$$ \ddot{y} = \ddot{r} \sin{\theta} + 2 \dot{r}\cos{\theta} \,\dot{\theta} -  r \sin{\theta} \,\dot{\theta}^2 +  r \cos{\theta} \,\ddot{\theta}$$
+
+
 
 
 
@@ -38,7 +40,8 @@ $$ \ddot{y} = \ddot{r} \sin{\theta} + 2 \dot{r}\cos{\theta} \,\dot{\theta} -  r 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTk3NjcwOSwtMTU0Nzk5NzE1NCwxMj
-Y0OTkzODA2LC00MDUxNzQzMDIsLTEyOTM1NjIyNjAsNjIzMDc5
-MTAxLDEzNjU1Mzc0MjUsNDc3MDU5MDQyLDU3NzkwNTEyM119
+eyJoaXN0b3J5IjpbLTExNzI0MzA4OTYsLTE1NDc5OTcxNTQsMT
+I2NDk5MzgwNiwtNDA1MTc0MzAyLC0xMjkzNTYyMjYwLDYyMzA3
+OTEwMSwxMzY1NTM3NDI1LDQ3NzA1OTA0Miw1Nzc5MDUxMjNdfQ
+==
 -->
