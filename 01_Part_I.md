@@ -31,6 +31,7 @@ $$ x = \cos{\theta} \;\;\;\;\;\;\;\;\;\;\; y = \sin{\theta}$$
 $$ \dot{x} = \dot{r} \cos{\theta} - r \sin{\theta} \,\dot{\theta} \;\;\;\;\;\;\;\;\;\;\; \dot{y} = \dot{r} \sin{\theta} + r \cos{\theta} \,\dot{\theta} $$ 
 $$ \ddot{x} = \ddot{r} \cos{\theta} - 2 \dot{r}\sin{\theta} \,\dot{\theta} -  r \cos{\theta} \,\dot{\theta}^2 -  r \sin{\theta} \,\ddot{\theta} = -k \frac{\cos{\theta}}{r^2}$$
 $$ \ddot{y} = \ddot{r} \sin{\theta} + 2 \dot{r}\cos{\theta} \,\dot{\theta} -  r \sin{\theta} \,\dot{\theta}^2 +  r \cos{\theta} \,\ddot{\theta}= -k \frac{\sin{\theta}}{r^2}$$
+By combinin
 
 $$\ddot{x} \cos{\theta} + \ddot{y} \sin{\theta} = \ddot{r} - r \dot{\theta}^2 =  -\frac{k}{r^2}$$
 
@@ -51,10 +52,10 @@ $$\ddot{x} \sin{\theta} - \ddot{y} \cos{\theta} = 2\dot{r}\dot{\theta} + r \ddot
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY2MDUxMDEzLC0xODI4MTAzMzA1LDUwND
-A0MTY4NSw5NDM1ODE0NjUsLTEyNjQ2MTAyMzQsMTg2Mjc0OTMw
-MSwtMTUxMTU1NDg4NSwxNTQ1NTM2NTc5LDY2NzUwNTc1NSwtMT
-IyMDQ3MjYzMywtMTU0Nzk5NzE1NCwxMjY0OTkzODA2LC00MDUx
-NzQzMDIsLTEyOTM1NjIyNjAsNjIzMDc5MTAxLDEzNjU1Mzc0Mj
-UsNDc3MDU5MDQyLDU3NzkwNTEyM119
+eyJoaXN0b3J5IjpbLTE2MzI4NjA3MzUsLTE4MjgxMDMzMDUsNT
+A0MDQxNjg1LDk0MzU4MTQ2NSwtMTI2NDYxMDIzNCwxODYyNzQ5
+MzAxLC0xNTExNTU0ODg1LDE1NDU1MzY1NzksNjY3NTA1NzU1LC
+0xMjIwNDcyNjMzLC0xNTQ3OTk3MTU0LDEyNjQ5OTM4MDYsLTQw
+NTE3NDMwMiwtMTI5MzU2MjI2MCw2MjMwNzkxMDEsMTM2NTUzNz
+QyNSw0NzcwNTkwNDIsNTc3OTA1MTIzXX0=
 -->
