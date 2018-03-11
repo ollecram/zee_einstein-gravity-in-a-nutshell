@@ -30,6 +30,8 @@ These two vectors do determine a plane. By choosing the origin of our coordinate
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4NTg4NDY2XX0=
+eyJoaXN0b3J5IjpbLTE0Mjc1ODUxNF19
 -->
