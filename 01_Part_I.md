@@ -41,7 +41,7 @@ The last one implies that the quantity $r^2 \dot{\theta}$ keeps a constant value
 $$\ddot{r}=\frac{l^2}{r^3} - \frac{k}{r^2} = - \frac{dv(r)}{dr}$$
 where
 $$v(r) = \frac{l^2}{2r^2} - \frac{k}{r} $$ 
-We have obtained a one dimensional second order differential equation for the variable $r$ as a funct 
+We have obtained a one dimensional second order differential equation for the variable $r$ as a function of t 
 
 
 
@@ -56,7 +56,7 @@ We have obtained a one dimensional second order differential equation for the va
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDQxNzE5MywtMzM1MTI3Mzg3LC0zMz
+eyJoaXN0b3J5IjpbMTA3ODk3MDc5NiwtMzM1MTI3Mzg3LC0zMz
 IwNjE2MDEsMTAwMDQ2Njg0MSwtMTc2MzM1Mzg3LC01Mjk2NjAx
 ODcsLTIwMzAxNDc2MjEsMTgyNDQwMjc0NywtMTgyODEwMzMwNS
 w1MDQwNDE2ODUsOTQzNTgxNDY1LC0xMjY0NjEwMjM0LDE4NjI3
