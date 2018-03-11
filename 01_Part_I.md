@@ -25,7 +25,7 @@ It all relates to the following more basic assumptions, namely that
 By combining the above two statements one sees that at a given point in time (hence forgetting any knowledge of prior dynamical history) there are two vectors (directions) related to a particle in a central field: the radius vector connecting the field center to the particle and the particle's velocity vector. 
 These two vectors do determine a plane. By choosing the origin of our coordinate axes $(\mathbf{i}, \mathbf{j}, \mathbf{k})$ in the field center and the $\mathbf{k}$ axis parallel to $\mathbf{r} \times \dot{\mathbf{r}}$, both the position vector $\mathbf{r}(t_0)$ and the velocity vector $\dot{\mathbf{r}}(t_0)$ are contained in the plane $z=0$. The force field component along $\mathbf{k}$ vanishes across the whole plane, implying that the particle will never leave that plane in the course of motion. 
 
-#### Solving the differential equations entral force argument
+#### Solving the differential equations t
 
 
 
@@ -33,5 +33,5 @@ These two vectors do determine a plane. By choosing the origin of our coordinate
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzNjU4MjY1XX0=
+eyJoaXN0b3J5IjpbNDA2MDgxNDEzXX0=
 -->
