@@ -31,7 +31,8 @@ $$ x = \cos{\theta} \;\;\;\;\;\;\;\;\;\;\; y = \sin{\theta}$$
 $$ \dot{x} = \dot{r} \cos{\theta} - r \sin{\theta} \,\dot{\theta} \;\;\;\;\;\;\;\;\;\;\; \dot{y} = \dot{r} \sin{\theta} + r \cos{\theta} \,\dot{\theta} $$ 
 $$ \ddot{x} = \ddot{r} \cos{\theta} - 2 \dot{r}\sin{\theta} \,\dot{\theta} -  r \cos{\theta} \,\dot{\theta}^2 -  r \sin{\theta} \,\ddot{\theta}$$
 $$ \ddot{y} = \ddot{r} \sin{\theta} + 2 \dot{r}\cos{\theta} \,\dot{\theta} -  r \sin{\theta} \,\dot{\theta}^2 +  r \cos{\theta} \,\ddot{\theta}$$
-Multiplying the 
+
+
 
 
 
@@ -41,7 +42,7 @@ Multiplying the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTk0ODYxOTUsLTE1NDc5OTcxNTQsMT
+eyJoaXN0b3J5IjpbLTExOTg4NDk4NzYsLTE1NDc5OTcxNTQsMT
 I2NDk5MzgwNiwtNDA1MTc0MzAyLC0xMjkzNTYyMjYwLDYyMzA3
 OTEwMSwxMzY1NTM3NDI1LDQ3NzA1OTA0Miw1Nzc5MDUxMjNdfQ
 ==
