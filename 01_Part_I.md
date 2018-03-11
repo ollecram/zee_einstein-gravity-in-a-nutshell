@@ -31,7 +31,7 @@ $$ x = \cos{\theta} \;\;\;\;\;\;\;\;\;\;\; y = \sin{\theta}$$
 $$ \dot{x} = \dot{r} \cos{\theta} - r \sin{\theta} \,\dot{\theta} \;\;\;\;\;\;\;\;\;\;\; \dot{y} = \dot{r} \sin{\theta} + r \cos{\theta} \,\dot{\theta} $$ 
 $$ \ddot{x} = \ddot{r} \cos{\theta} - 2 \dot{r}\sin{\theta} \,\dot{\theta} -  r \cos{\theta} \,\dot{\theta}^2 -  r \sin{\theta} \,\ddot{\theta} = -k \frac{\cos{\theta}}{r^2}$$
 $$ \ddot{y} = \ddot{r} \sin{\theta} + 2 \dot{r}\cos{\theta} \,\dot{\theta} -  r \sin{\theta} \,\dot{\theta}^2 +  r \cos{\theta} \,\ddot{\theta}= -k \frac{\sin{\theta}}{r^2}$$
-By combining the two previous e
+By combining the two previous equations 
 
 $$\ddot{x} \cos{\theta} + \ddot{y} \sin{\theta} = \ddot{r} - r \dot{\theta}^2 =  -\frac{k}{r^2}$$
 
@@ -52,7 +52,7 @@ $$\ddot{x} \sin{\theta} - \ddot{y} \cos{\theta} = 2\dot{r}\dot{\theta} + r \ddot
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwOTMzODgxLDE4MjQ0MDI3NDcsLTE4Mj
+eyJoaXN0b3J5IjpbMTY5NjI0MTY5LDE4MjQ0MDI3NDcsLTE4Mj
 gxMDMzMDUsNTA0MDQxNjg1LDk0MzU4MTQ2NSwtMTI2NDYxMDIz
 NCwxODYyNzQ5MzAxLC0xNTExNTU0ODg1LDE1NDU1MzY1NzksNj
 Y3NTA1NzU1LC0xMjIwNDcyNjMzLC0xNTQ3OTk3MTU0LDEyNjQ5
