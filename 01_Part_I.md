@@ -23,7 +23,7 @@ It all relates to the following more basic assumptions, namely that
  - It is an experimental fact elevated to the status of an axiom in classical mechanics that the position and velocity of all particles at a given  instant of time fully determine their evolution. 
 
 By combining the above two statements one sees that at a given point in time (hence forgetting any knowledge of prior dynamical history) there are two vectors (directions) related to a particle in a central field: the radius vector connecting the field center to the particle and the particle's velocity vector. 
-These two vectors do determine a plane. By choosing the origin of our coordinate axes $(\mathbf{i}, \mathbf{j}, \mathbf{k})$ in the field center and the $\mathbf{k}$ axis parallel to $\mathbf{r} \times \dot{\mathbf{r}}$, both the position vector $\mathbf{r}(t_0)$ and the velocity vector $\dot{\mathbf{r}}(t_0)$ are contained in the plane $z=0$, where the because the  trajectory deviate from that plane in the course of motion, that would violate one of our prior assumptions. 
+These two vectors do determine a plane. By choosing the origin of our coordinate axes $(\mathbf{i}, \mathbf{j}, \mathbf{k})$ in the field center and the $\mathbf{k}$ axis parallel to $\mathbf{r} \times \dot{\mathbf{r}}$, both the position vector $\mathbf{r}(t_0)$ and the velocity vector $\dot{\mathbf{r}}(t_0)$ are contained in the plane $z=0$, where the fibecause the  trajectory deviate from that plane in the course of motion, that would violate one of our prior assumptions. 
 
 
 
@@ -31,5 +31,5 @@ These two vectors do determine a plane. By choosing the origin of our coordinate
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzExNjg3NCwxODkzNDM1MzU0XX0=
+eyJoaXN0b3J5IjpbNDI0OTk3OTI3LDE4OTM0MzUzNTRdfQ==
 -->
