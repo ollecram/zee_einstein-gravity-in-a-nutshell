@@ -20,7 +20,7 @@ An often repeated statement says that *due to a simple "symmetry argument"* the 
 It all relates to the following more basic assumptions, namely that
 
  - There is no special point or direction in the space itself, so any special point or direction in the motion of a particle must be determined by some initial configuration of the particle's motion with respect to the field;
- - It is an experimental fact elevated to the status of an axiom that in a closed system the position and velocity o initialconditions a given problem must be determined by , the only directions that may all directions one can logically make use of in    
+ - It is an experimental fact elevated to the status of an axiom that in a closed system the position and velocity of all  initialconditions a given problem must be determined by , the only directions that may all directions one can logically make use of in    
 
 
 
@@ -28,5 +28,5 @@ It all relates to the following more basic assumptions, namely that
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQ3ODM2NjIsMTE0NTU2Mzc2NV19
+eyJoaXN0b3J5IjpbMTUyMjIxNjE3MSwxMTQ1NTYzNzY1XX0=
 -->
