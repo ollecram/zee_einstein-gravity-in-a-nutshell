@@ -12,11 +12,11 @@ By saying that Newton's is a ***central field***  one means that
 
  - a special point exists in space (the field center),
  - the magnitude of the force exerted by the field at any other point only depends by that other point's distance from the center, and 
- - the direction of the force while . by taking the origin of one's coordinate system in the center, then force and position vectors are collinear (parallel). 
+ - the force direction is collinear (parallel). 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQwMTM2MjldfQ==
+eyJoaXN0b3J5IjpbODA1NDUyMTldfQ==
 -->
