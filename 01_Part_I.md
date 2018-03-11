@@ -16,7 +16,7 @@ By saying that Newton's is a ***central field***  one means that
  -  to the segment connecting the center to that point. 
 
 An often repeated statement says that *due to a simple "symmetry argument"* the points that a particle subject to a central force field occupies in the course of time are all contained in a plane.     
-Let see howwhat the simple symmetry argument can be construed. 
+Let see how the simple symmetry argument can be construed. 
 
 
 
@@ -24,5 +24,5 @@ Let see howwhat the simple symmetry argument can be construed.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTc2OTEwMF19
+eyJoaXN0b3J5IjpbMTU4MDcyMjM2MF19
 -->
