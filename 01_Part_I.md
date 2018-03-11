@@ -46,7 +46,7 @@ We have thus obtained a one dimensional second order differential equation for t
 We integrate both sides of the equation over $t$ after multiplying them by the factor $\dot{r}$ to obtain:
 $$\int\! dt\,\frac{1}{2} \frac{d}{dt} \dot{r}^2 = \int\! dt\, \dot{r} \ddot{r} = -\int\! dt\, \frac{dr}{dt} \frac{d v(r)}{dr} = -\int\! dr\, \frac{d v(r)}{dr} $$
   
-There 
+Therefor 
 
 
 
@@ -60,13 +60,13 @@ There
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzNTc5MDQwLC0yMDczMTg0MDUsLTExMD
-A4MzgyNzMsMTI4MDE1NjMwOCw1Nzk0NDE3ODIsLTMzNTEyNzM4
-NywtMzMyMDYxNjAxLDEwMDA0NjY4NDEsLTE3NjMzNTM4NywtNT
-I5NjYwMTg3LC0yMDMwMTQ3NjIxLDE4MjQ0MDI3NDcsLTE4Mjgx
-MDMzMDUsNTA0MDQxNjg1LDk0MzU4MTQ2NSwtMTI2NDYxMDIzNC
-wxODYyNzQ5MzAxLC0xNTExNTU0ODg1LDE1NDU1MzY1NzksNjY3
-NTA1NzU1LC0xMjIwNDcyNjMzLC0xNTQ3OTk3MTU0LDEyNjQ5OT
-M4MDYsLTQwNTE3NDMwMiwtMTI5MzU2MjI2MCw2MjMwNzkxMDEs
-MTM2NTUzNzQyNSw0NzcwNTkwNDIsNTc3OTA1MTIzXX0=
+eyJoaXN0b3J5IjpbMTIxMzk4NDQ2MSwtMjA3MzE4NDA1LC0xMT
+AwODM4MjczLDEyODAxNTYzMDgsNTc5NDQxNzgyLC0zMzUxMjcz
+ODcsLTMzMjA2MTYwMSwxMDAwNDY2ODQxLC0xNzYzMzUzODcsLT
+UyOTY2MDE4NywtMjAzMDE0NzYyMSwxODI0NDAyNzQ3LC0xODI4
+MTAzMzA1LDUwNDA0MTY4NSw5NDM1ODE0NjUsLTEyNjQ2MTAyMz
+QsMTg2Mjc0OTMwMSwtMTUxMTU1NDg4NSwxNTQ1NTM2NTc5LDY2
+NzUwNTc1NSwtMTIyMDQ3MjYzMywtMTU0Nzk5NzE1NCwxMjY0OT
+kzODA2LC00MDUxNzQzMDIsLTEyOTM1NjIyNjAsNjIzMDc5MTAx
+LDEzNjU1Mzc0MjUsNDc3MDU5MDQyLDU3NzkwNTEyM119
 -->
