@@ -2,9 +2,9 @@
 ## I.1 - Newton's Laws
 ### Celestial mechanics solved
 
-$$ \ddot{r} = -GMm $$
+$$ \ddot{r} = -GMm \frac$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NDAyNTQ3MV19
+eyJoaXN0b3J5IjpbMTQ3NTEzMzA0NV19
 -->
