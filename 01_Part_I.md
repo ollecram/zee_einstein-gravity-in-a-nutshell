@@ -33,7 +33,7 @@ $$ \ddot{x} = \ddot{r} \cos{\theta} - 2 \dot{r}\sin{\theta} \,\dot{\theta} -  r 
 $$ \ddot{y} = \ddot{r} \sin{\theta} + 2 \dot{r}\cos{\theta} \,\dot{\theta} -  r \sin{\theta} \,\dot{\theta}^2 +  r \cos{\theta} \,\ddot{\theta}= -k \frac{\sin{\theta}}{r^2}$$
 
 \begin{eqnarray}
-x & = &
+x & = &y
 \end{eqnarray}
 
 
@@ -45,8 +45,9 @@ x & = &
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5MTY2Njk0LDE1NDU1MzY1NzksNjY3NT
-A1NzU1LC0xMjIwNDcyNjMzLC0xNTQ3OTk3MTU0LDEyNjQ5OTM4
-MDYsLTQwNTE3NDMwMiwtMTI5MzU2MjI2MCw2MjMwNzkxMDEsMT
-M2NTUzNzQyNSw0NzcwNTkwNDIsNTc3OTA1MTIzXX0=
+eyJoaXN0b3J5IjpbLTE1MTE1NTQ4ODUsNzA5MTY2Njk0LDE1ND
+U1MzY1NzksNjY3NTA1NzU1LC0xMjIwNDcyNjMzLC0xNTQ3OTk3
+MTU0LDEyNjQ5OTM4MDYsLTQwNTE3NDMwMiwtMTI5MzU2MjI2MC
+w2MjMwNzkxMDEsMTM2NTUzNzQyNSw0NzcwNTkwNDIsNTc3OTA1
+MTIzXX0=
 -->
