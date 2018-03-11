@@ -10,13 +10,13 @@ $$\ddot{\mathbf{r}} = -k \frac{\mathbf{r}}{r^3}$$ where $k \equiv GM$.
 #### Central force argument
 By saying that Newton's is a ***central field***  one means that 
 
- - List item
-
-a special point exists in space (the field center) and that the magnitude of thforce exerted by the field at any other point only depend by that other point's distance from the center, while . by taking the origin of one's coordinate system in the center, then force and position vectors are collinear (parallel). 
+ - a special point exists in space (the field center),
+ - the magnitude of the force exerted by the field at any other point only depend by that other point's distance from the center, and 
+ - while . by taking the origin of one's coordinate system in the center, then force and position vectors are collinear (parallel). 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzE5NjU1Ml19
+eyJoaXN0b3J5IjpbMTIyODU4NTgxOV19
 -->
