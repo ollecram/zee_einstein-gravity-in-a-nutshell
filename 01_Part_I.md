@@ -34,7 +34,7 @@ $$ \ddot{y} = \ddot{r} \sin{\theta} + 2 \dot{r}\cos{\theta} \,\dot{\theta} -  r 
 
 \begin{eqnarray}
 x & = &y
-z & = 
+z & = & 
 \end{eqnarray}
 
 
@@ -46,9 +46,9 @@ z & =
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwOTIzNTA0LDE4NjI3NDkzMDEsLTE1MT
-E1NTQ4ODUsMTU0NTUzNjU3OSw2Njc1MDU3NTUsLTEyMjA0NzI2
-MzMsLTE1NDc5OTcxNTQsMTI2NDk5MzgwNiwtNDA1MTc0MzAyLC
-0xMjkzNTYyMjYwLDYyMzA3OTEwMSwxMzY1NTM3NDI1LDQ3NzA1
-OTA0Miw1Nzc5MDUxMjNdfQ==
+eyJoaXN0b3J5IjpbMTgwMjc4MDIwMiwxODYyNzQ5MzAxLC0xNT
+ExNTU0ODg1LDE1NDU1MzY1NzksNjY3NTA1NzU1LC0xMjIwNDcy
+NjMzLC0xNTQ3OTk3MTU0LDEyNjQ5OTM4MDYsLTQwNTE3NDMwMi
+wtMTI5MzU2MjI2MCw2MjMwNzkxMDEsMTM2NTUzNzQyNSw0Nzcw
+NTkwNDIsNTc3OTA1MTIzXX0=
 -->
