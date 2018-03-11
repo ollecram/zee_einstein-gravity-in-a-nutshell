@@ -17,7 +17,7 @@ By saying that Newton's is a ***central field***  one means that
 
 An often repeated statement says that *due to a simple "symmetry argument"* the points occupied in the course of time by a particle subject to a central force field are all contained in a plane. 
 
-It all relates to thea couple of more basic assumptions, namely that
+It all relates to the followina couple of more basic assumptions, namely that
 
  - Empty space has no preferred directions, so any special direction in the motion of a particle in a force field must be determined by some initial configuration of the particle's motion with respect to the field;
  - the initialconditions a given problem must be determined by , the only directions that may all directions one can logically make use of in    
@@ -28,5 +28,5 @@ It all relates to thea couple of more basic assumptions, namely that
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODUzNzAwNSwxMTQ1NTYzNzY1XX0=
+eyJoaXN0b3J5IjpbMTg5MDc3NTM0NywxMTQ1NTYzNzY1XX0=
 -->
