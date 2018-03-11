@@ -37,7 +37,7 @@ $$\ddot{x} \cos{\theta} + \ddot{y} \sin{\theta} = \ddot{r} - r \dot{\theta}^2 = 
 
 $$\ddot{x} \sin{\theta} - \ddot{y} \cos{\theta} = 2\dot{r}\dot{\theta} + r \ddot{\theta} =  \frac{d}{dt}(r^2 \dot{\theta}) = 0$$
 
-The last one implies that the quantity $r^2 \dot{\theta}$ is constant along the particle's motion. 
+The last one implies that the quantity $r^2 \dot{\theta}$ keeps a constant value $l$ along the particle's motion. 
 
 
 
@@ -52,7 +52,7 @@ The last one implies that the quantity $r^2 \dot{\theta}$ is constant along the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NzMzMDM3NSwtMjAzMDE0NzYyMSwxOD
+eyJoaXN0b3J5IjpbMTk3OTI4MjIxMSwtMjAzMDE0NzYyMSwxOD
 I0NDAyNzQ3LC0xODI4MTAzMzA1LDUwNDA0MTY4NSw5NDM1ODE0
 NjUsLTEyNjQ2MTAyMzQsMTg2Mjc0OTMwMSwtMTUxMTU1NDg4NS
 wxNTQ1NTM2NTc5LDY2NzUwNTc1NSwtMTIyMDQ3MjYzMywtMTU0
