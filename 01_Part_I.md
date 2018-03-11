@@ -18,7 +18,7 @@ By saying that Newton's is a ***central field***  one means that
 An often repeated statement says that *due to a simple "symmetry argument"* the points occupied in the course of time by a particle subject to a central force field are all contained in a plane.     
 Let see how such symmetry argument can be construed.
 
-Assuming empty space to have no preferred direction, any directi  
+Assuming empty space to have no preferred direction, any direction   
 
 
 
@@ -26,5 +26,5 @@ Assuming empty space to have no preferred direction, any directi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzM5MDg3MzVdfQ==
+eyJoaXN0b3J5IjpbODYwNzMxNjc0XX0=
 -->
