@@ -44,7 +44,7 @@ $$v(r) = \frac{l^2}{2r^2} - \frac{k}{r} $$
 We have thus obtained a one dimensional second order differential equation for the variable $r$ as a function of time, with $l$ as a parameter. 
 
 We integrate both sides of the equation over $t$ after multiplying them by the factor $\dot{r}$ to obtain:
-$$\int\! dt \frac{1}{2} \frac{d}{dt} \dot{r}^2= \int\! dt = \int\! dt = \int\! dr$$
+$$\int\! dt\,\frac{1}{2} \frac{d}{dt} \dot{r}^2= \int\! dt\, \dot{r}\ddot{r}= \int\! dt\, = \int\! dr\,$$
   
 
 
@@ -60,13 +60,13 @@ $$\int\! dt \frac{1}{2} \frac{d}{dt} \dot{r}^2= \int\! dt = \int\! dt = \int\! d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Njg5MDM1MCwtMTEwMDgzODI3MywxMj
-gwMTU2MzA4LDU3OTQ0MTc4MiwtMzM1MTI3Mzg3LC0zMzIwNjE2
-MDEsMTAwMDQ2Njg0MSwtMTc2MzM1Mzg3LC01Mjk2NjAxODcsLT
-IwMzAxNDc2MjEsMTgyNDQwMjc0NywtMTgyODEwMzMwNSw1MDQw
-NDE2ODUsOTQzNTgxNDY1LC0xMjY0NjEwMjM0LDE4NjI3NDkzMD
-EsLTE1MTE1NTQ4ODUsMTU0NTUzNjU3OSw2Njc1MDU3NTUsLTEy
-MjA0NzI2MzMsLTE1NDc5OTcxNTQsMTI2NDk5MzgwNiwtNDA1MT
-c0MzAyLC0xMjkzNTYyMjYwLDYyMzA3OTEwMSwxMzY1NTM3NDI1
-LDQ3NzA1OTA0Miw1Nzc5MDUxMjNdfQ==
+eyJoaXN0b3J5IjpbMjU5MDM3NTIsLTExMDA4MzgyNzMsMTI4MD
+E1NjMwOCw1Nzk0NDE3ODIsLTMzNTEyNzM4NywtMzMyMDYxNjAx
+LDEwMDA0NjY4NDEsLTE3NjMzNTM4NywtNTI5NjYwMTg3LC0yMD
+MwMTQ3NjIxLDE4MjQ0MDI3NDcsLTE4MjgxMDMzMDUsNTA0MDQx
+Njg1LDk0MzU4MTQ2NSwtMTI2NDYxMDIzNCwxODYyNzQ5MzAxLC
+0xNTExNTU0ODg1LDE1NDU1MzY1NzksNjY3NTA1NzU1LC0xMjIw
+NDcyNjMzLC0xNTQ3OTk3MTU0LDEyNjQ5OTM4MDYsLTQwNTE3ND
+MwMiwtMTI5MzU2MjI2MCw2MjMwNzkxMDEsMTM2NTUzNzQyNSw0
+NzcwNTkwNDIsNTc3OTA1MTIzXX0=
 -->
