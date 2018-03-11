@@ -47,7 +47,7 @@ We integrate both sides of the equation over $t$ after multiplying them by the f
 $$\int\! dt\,\frac{1}{2} \frac{d}{dt} \dot{r}^2 = \int\! dt\, \dot{r} \ddot{r} = -\int\! dt\, \frac{dr}{dt} \frac{d v(r)}{dr} = -\int\! dr\, \frac{d v(r)}{dr} $$
   
 $$\frac{1}{2} \dot{r}^2 + v(r) = \epsilon$$ 
-where $\epsilon is an integration constant.$ This is the 
+where $\epsilon$ is an integration constant. This describes a unit mass particle moving in a potential $v(r)$ with energy 
 
 
 
@@ -61,13 +61,13 @@ where $\epsilon is an integration constant.$ This is the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODU3NDIwODgsLTIwNzMxODQwNSwtMT
-EwMDgzODI3MywxMjgwMTU2MzA4LDU3OTQ0MTc4MiwtMzM1MTI3
-Mzg3LC0zMzIwNjE2MDEsMTAwMDQ2Njg0MSwtMTc2MzM1Mzg3LC
-01Mjk2NjAxODcsLTIwMzAxNDc2MjEsMTgyNDQwMjc0NywtMTgy
-ODEwMzMwNSw1MDQwNDE2ODUsOTQzNTgxNDY1LC0xMjY0NjEwMj
-M0LDE4NjI3NDkzMDEsLTE1MTE1NTQ4ODUsMTU0NTUzNjU3OSw2
-Njc1MDU3NTUsLTEyMjA0NzI2MzMsLTE1NDc5OTcxNTQsMTI2ND
-k5MzgwNiwtNDA1MTc0MzAyLC0xMjkzNTYyMjYwLDYyMzA3OTEw
-MSwxMzY1NTM3NDI1LDQ3NzA1OTA0Miw1Nzc5MDUxMjNdfQ==
+eyJoaXN0b3J5IjpbLTYzODg0NDg2OSwtMjA3MzE4NDA1LC0xMT
+AwODM4MjczLDEyODAxNTYzMDgsNTc5NDQxNzgyLC0zMzUxMjcz
+ODcsLTMzMjA2MTYwMSwxMDAwNDY2ODQxLC0xNzYzMzUzODcsLT
+UyOTY2MDE4NywtMjAzMDE0NzYyMSwxODI0NDAyNzQ3LC0xODI4
+MTAzMzA1LDUwNDA0MTY4NSw5NDM1ODE0NjUsLTEyNjQ2MTAyMz
+QsMTg2Mjc0OTMwMSwtMTUxMTU1NDg4NSwxNTQ1NTM2NTc5LDY2
+NzUwNTc1NSwtMTIyMDQ3MjYzMywtMTU0Nzk5NzE1NCwxMjY0OT
+kzODA2LC00MDUxNzQzMDIsLTEyOTM1NjIyNjAsNjIzMDc5MTAx
+LDEzNjU1Mzc0MjUsNDc3MDU5MDQyLDU3NzkwNTEyM119
 -->
