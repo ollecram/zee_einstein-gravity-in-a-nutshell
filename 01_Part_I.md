@@ -8,11 +8,11 @@ In spite of the different role played by $m$ on the left and right hand side of 
 $$\ddot{\mathbf{r}} = -k \frac{\mathbf{r}}{r^3}$$ where $k = GM$. 
 
 #### Central force argument
-That the force poi
+That the force points 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzUxNzM0NF19
+eyJoaXN0b3J5IjpbLTYyNTUxMzU1NV19
 -->
