@@ -44,7 +44,7 @@ $$v(r) = \frac{l^2}{2r^2} - \frac{k}{r} $$
 We have thus obtained a one dimensional second order differential equation for the variable $r$ as a function of time, with $l$ as a parameter. 
 
 We integrate both sides of the equation over $t$ after multiplying them by the factor $\dot{r}$ to obtain:
-$$\int dt \frac{1}{2} = \int dt = \int dt = \int dr$$
+$$\int dt \frac{1}{2} \frac{1}{2}= \int dt = \int dt = \int dr$$
   
 
 
@@ -60,7 +60,7 @@ $$\int dt \frac{1}{2} = \int dt = \int dt = \int dr$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY1NTg2NTUsLTIwMjE4NzQzMyw1Nz
+eyJoaXN0b3J5IjpbLTc1NDkzNzAzNiwtMTU2NjU1ODY1NSw1Nz
 k0NDE3ODIsLTMzNTEyNzM4NywtMzMyMDYxNjAxLDEwMDA0NjY4
 NDEsLTE3NjMzNTM4NywtNTI5NjYwMTg3LC0yMDMwMTQ3NjIxLD
 E4MjQ0MDI3NDcsLTE4MjgxMDMzMDUsNTA0MDQxNjg1LDk0MzU4
