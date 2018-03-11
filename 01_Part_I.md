@@ -11,12 +11,12 @@ $$\ddot{\mathbf{r}} = -k \frac{\mathbf{r}}{r^3}$$ where $k \equiv GM$.
 By saying that Newton's is a ***central field***  one means that 
 
  - a special point exists in space (the field center),
- - the magnitude of the force exerted by the field at a given point only depends by that other point's distance from the center, and 
- - the force direction is collinear (parallel) to the segment connecting th. 
+ - the ***magnitude*** of the force exerted by the field at a given point only depends by that other point's distance from the center, and 
+ - the force ***direction*** is collinear (parallel) to the segment connecting the center to the point. 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTIwNjIwNF19
+eyJoaXN0b3J5IjpbLTI1NTI1NzkzOF19
 -->
