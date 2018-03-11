@@ -39,7 +39,8 @@ $$\ddot{x} \sin{\theta} - \ddot{y} \cos{\theta} = 2\dot{r}\dot{\theta} + r \ddot
 
 The last one implies that the quantity $r^2 \dot{\theta}$ keeps a constant value $l$ along the particle's motion, therefore one can substitute $\dot{\theta}=l / r^2$ in the previous one, obtaining:
 $$\ddot{r}=\frac{l^2}{r^3} - \frac{k}{r^2} = - \frac{dv(r)}{dr}$$
-where  
+where
+$$v(r) = \frac{l^2}{2r} - \frac{k}{r} $$ 
 
 
 
@@ -54,7 +55,7 @@ where
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMTYyMDcyNywtMTc2MzM1Mzg3LC01Mj
+eyJoaXN0b3J5IjpbLTczNDA1MDgyOSwtMTc2MzM1Mzg3LC01Mj
 k2NjAxODcsLTIwMzAxNDc2MjEsMTgyNDQwMjc0NywtMTgyODEw
 MzMwNSw1MDQwNDE2ODUsOTQzNTgxNDY1LC0xMjY0NjEwMjM0LD
 E4NjI3NDkzMDEsLTE1MTE1NTQ4ODUsMTU0NTUzNjU3OSw2Njc1
