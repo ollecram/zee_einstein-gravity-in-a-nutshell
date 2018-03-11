@@ -41,7 +41,7 @@ The last one implies that the quantity $r^2 \dot{\theta}$ keeps a constant value
 $$\ddot{r}=\frac{l^2}{r^3} - \frac{k}{r^2} = - \frac{dv(r)}{dr}$$
 where
 $$v(r) = \frac{l^2}{2r^2} - \frac{k}{r} $$ 
-
+Abbiamo
 
 
 
@@ -56,11 +56,11 @@ $$v(r) = \frac{l^2}{2r^2} - \frac{k}{r} $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4NDIxMzI1LC0xNzYzMzUzODcsLTUyOT
-Y2MDE4NywtMjAzMDE0NzYyMSwxODI0NDAyNzQ3LC0xODI4MTAz
-MzA1LDUwNDA0MTY4NSw5NDM1ODE0NjUsLTEyNjQ2MTAyMzQsMT
-g2Mjc0OTMwMSwtMTUxMTU1NDg4NSwxNTQ1NTM2NTc5LDY2NzUw
-NTc1NSwtMTIyMDQ3MjYzMywtMTU0Nzk5NzE1NCwxMjY0OTkzOD
-A2LC00MDUxNzQzMDIsLTEyOTM1NjIyNjAsNjIzMDc5MTAxLDEz
-NjU1Mzc0MjUsNDc3MDU5MDQyLDU3NzkwNTEyM119
+eyJoaXN0b3J5IjpbLTIwNDgwNjQ5MDQsLTE3NjMzNTM4NywtNT
+I5NjYwMTg3LC0yMDMwMTQ3NjIxLDE4MjQ0MDI3NDcsLTE4Mjgx
+MDMzMDUsNTA0MDQxNjg1LDk0MzU4MTQ2NSwtMTI2NDYxMDIzNC
+wxODYyNzQ5MzAxLC0xNTExNTU0ODg1LDE1NDU1MzY1NzksNjY3
+NTA1NzU1LC0xMjIwNDcyNjMzLC0xNTQ3OTk3MTU0LDEyNjQ5OT
+M4MDYsLTQwNTE3NDMwMiwtMTI5MzU2MjI2MCw2MjMwNzkxMDEs
+MTM2NTUzNzQyNSw0NzcwNTkwNDIsNTc3OTA1MTIzXX0=
 -->
