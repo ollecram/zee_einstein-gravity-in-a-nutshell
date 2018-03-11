@@ -37,7 +37,7 @@ $$\ddot{x} \cos{\theta} + \ddot{y} \sin{\theta} = \ddot{r} - r \dot{\theta}^2 = 
 
 $$\ddot{x} \sin{\theta} - \ddot{y} \cos{\theta} = 2\dot{r}\dot{\theta} + r \ddot{\theta} =  \frac{d}{dt}(r^2 \dot{\theta}) = 0$$
 
-The last one implies that the quantity $r^2 \dot{\theta}$ keeps a constant value $l$ along the particle's motion, therefore one can substitute $\dot{\theta}=\frac{l}{r^2}$. 
+The last one implies that the quantity $r^2 \dot{\theta}$ keeps a constant value $l$ along the particle's motion, therefore one can substitute $\dot{\theta}=l / r^2$ in the previous one, obtaining. 
 
 
 
@@ -52,7 +52,7 @@ The last one implies that the quantity $r^2 \dot{\theta}$ keeps a constant value
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkxNDU2OTMsLTUyOTY2MDE4NywtMj
+eyJoaXN0b3J5IjpbLTE2ODkyMzI2ODQsLTUyOTY2MDE4NywtMj
 AzMDE0NzYyMSwxODI0NDAyNzQ3LC0xODI4MTAzMzA1LDUwNDA0
 MTY4NSw5NDM1ODE0NjUsLTEyNjQ2MTAyMzQsMTg2Mjc0OTMwMS
 wtMTUxMTU1NDg4NSwxNTQ1NTM2NTc5LDY2NzUwNTc1NSwtMTIy
