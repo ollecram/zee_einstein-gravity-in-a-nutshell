@@ -41,7 +41,7 @@ The last one implies that the quantity $r^2 \dot{\theta}$ keeps a constant value
 $$\ddot{r}=\frac{l^2}{r^3} - \frac{k}{r^2} = - \frac{dv(r)}{dr}$$
 where
 $$v(r) = \frac{l^2}{2r^2} - \frac{k}{r} $$ 
-We have obtained a one dimensional second order differential equation for the variable $$ 
+We have obtained a one dimensional second order differential equation for the variable $r$ 
 
 
 
@@ -56,12 +56,12 @@ We have obtained a one dimensional second order differential equation for the va
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODQ5ODIwNCwtMzM1MTI3Mzg3LC0zMz
-IwNjE2MDEsMTAwMDQ2Njg0MSwtMTc2MzM1Mzg3LC01Mjk2NjAx
-ODcsLTIwMzAxNDc2MjEsMTgyNDQwMjc0NywtMTgyODEwMzMwNS
-w1MDQwNDE2ODUsOTQzNTgxNDY1LC0xMjY0NjEwMjM0LDE4NjI3
-NDkzMDEsLTE1MTE1NTQ4ODUsMTU0NTUzNjU3OSw2Njc1MDU3NT
-UsLTEyMjA0NzI2MzMsLTE1NDc5OTcxNTQsMTI2NDk5MzgwNiwt
-NDA1MTc0MzAyLC0xMjkzNTYyMjYwLDYyMzA3OTEwMSwxMzY1NT
-M3NDI1LDQ3NzA1OTA0Miw1Nzc5MDUxMjNdfQ==
+eyJoaXN0b3J5IjpbLTIxMTk2ODQyMzAsLTMzNTEyNzM4NywtMz
+MyMDYxNjAxLDEwMDA0NjY4NDEsLTE3NjMzNTM4NywtNTI5NjYw
+MTg3LC0yMDMwMTQ3NjIxLDE4MjQ0MDI3NDcsLTE4MjgxMDMzMD
+UsNTA0MDQxNjg1LDk0MzU4MTQ2NSwtMTI2NDYxMDIzNCwxODYy
+NzQ5MzAxLC0xNTExNTU0ODg1LDE1NDU1MzY1NzksNjY3NTA1Nz
+U1LC0xMjIwNDcyNjMzLC0xNTQ3OTk3MTU0LDEyNjQ5OTM4MDYs
+LTQwNTE3NDMwMiwtMTI5MzU2MjI2MCw2MjMwNzkxMDEsMTM2NT
+UzNzQyNSw0NzcwNTkwNDIsNTc3OTA1MTIzXX0=
 -->
