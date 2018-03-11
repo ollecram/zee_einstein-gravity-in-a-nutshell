@@ -32,7 +32,7 @@ $$ \dot{x} = \dot{r} \cos{\theta} - r \sin{\theta} \,\dot{\theta} \;\;\;\;\;\;\;
 $$ \ddot{x} = \ddot{r} \cos{\theta} - 2 \dot{r}\sin{\theta} \,\dot{\theta} -  r \cos{\theta} \,\dot{\theta}^2 -  r \sin{\theta} \,\ddot{\theta} = -k \frac{\cos{\theta}}{r^2}$$
 $$ \ddot{y} = \ddot{r} \sin{\theta} + 2 \dot{r}\cos{\theta} \,\dot{\theta} -  r \sin{\theta} \,\dot{\theta}^2 +  r \cos{\theta} \,\ddot{\theta}= -k \frac{\sin{\theta}}{r^2}$$
 
-$$\ddot{x} \cos{\thet$$
+$$\ddot{x} \cos{\theta$$
 
 
 
@@ -44,9 +44,9 @@ $$\ddot{x} \cos{\thet$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2MjI5MTg3LC0xMjY0NjEwMjM0LDE4Nj
-I3NDkzMDEsLTE1MTE1NTQ4ODUsMTU0NTUzNjU3OSw2Njc1MDU3
-NTUsLTEyMjA0NzI2MzMsLTE1NDc5OTcxNTQsMTI2NDk5MzgwNi
-wtNDA1MTc0MzAyLC0xMjkzNTYyMjYwLDYyMzA3OTEwMSwxMzY1
-NTM3NDI1LDQ3NzA1OTA0Miw1Nzc5MDUxMjNdfQ==
+eyJoaXN0b3J5IjpbLTI3Nzg5NDkwNCwtMTI2NDYxMDIzNCwxOD
+YyNzQ5MzAxLC0xNTExNTU0ODg1LDE1NDU1MzY1NzksNjY3NTA1
+NzU1LC0xMjIwNDcyNjMzLC0xNTQ3OTk3MTU0LDEyNjQ5OTM4MD
+YsLTQwNTE3NDMwMiwtMTI5MzU2MjI2MCw2MjMwNzkxMDEsMTM2
+NTUzNzQyNSw0NzcwNTkwNDIsNTc3OTA1MTIzXX0=
 -->
