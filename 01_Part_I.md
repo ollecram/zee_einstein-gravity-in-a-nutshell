@@ -34,7 +34,8 @@ $$ \ddot{y} = \ddot{r} \sin{\theta} + 2 \dot{r}\cos{\theta} \,\dot{\theta} -  r 
 
 $$\ddot{x} \cos{\theta} + \ddot{y} \sin{\theta} = \ddot{r} - r \dot{\theta}^2 =  -\frac{k}{r^2}$$
 
-$$\ddot{x} \sin{\theta} - \ddot{y} \cos{\theta} = \ddot{r} - r \dot{\theta}^2 =  0$$
+$$\ddot{x} \sin{\theta} - \ddot{y} \cos{\theta} = 2\dot{r}\dot{\theta} + r \ddot{\theta} =  0$$
+
 
 
 
@@ -49,7 +50,7 @@ $$\ddot{x} \sin{\theta} - \ddot{y} \cos{\theta} = \ddot{r} - r \dot{\theta}^2 = 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4NjkxMzg5LC0xODI4MTAzMzA1LDUwND
+eyJoaXN0b3J5IjpbOTM1NzY0MDM0LC0xODI4MTAzMzA1LDUwND
 A0MTY4NSw5NDM1ODE0NjUsLTEyNjQ2MTAyMzQsMTg2Mjc0OTMw
 MSwtMTUxMTU1NDg4NSwxNTQ1NTM2NTc5LDY2NzUwNTc1NSwtMT
 IyMDQ3MjYzMywtMTU0Nzk5NzE1NCwxMjY0OTkzODA2LC00MDUx
