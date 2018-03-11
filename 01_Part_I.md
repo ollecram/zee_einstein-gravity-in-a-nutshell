@@ -46,7 +46,7 @@ We have thus obtained a one dimensional second order differential equation for t
 We integrate both sides of the equation over $t$ after multiplying them by the factor $\dot{r}$ to obtain:
 $$\int\! dt\,\frac{1}{2} \frac{d}{dt} \dot{r}^2 = \int\! dt\, \dot{r} \ddot{r} = -\int\! dt\, \frac{dr}{dt} \frac{d v(r)}{dr} = -\int\! dr\, \frac{d v(r)}{dr} $$
   
-Thet 
+There 
 
 
 
@@ -60,7 +60,7 @@ Thet
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4NDc1MTQ3LC0yMDczMTg0MDUsLTExMD
+eyJoaXN0b3J5IjpbNjkzNTc5MDQwLC0yMDczMTg0MDUsLTExMD
 A4MzgyNzMsMTI4MDE1NjMwOCw1Nzk0NDE3ODIsLTMzNTEyNzM4
 NywtMzMyMDYxNjAxLDEwMDA0NjY4NDEsLTE3NjMzNTM4NywtNT
 I5NjYwMTg3LC0yMDMwMTQ3NjIxLDE4MjQ0MDI3NDcsLTE4Mjgx
