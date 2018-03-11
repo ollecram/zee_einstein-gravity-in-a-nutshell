@@ -31,7 +31,7 @@ $$ x = \cos{\theta} \;\;\;\;\;\;\;\;\;\;\; y = \sin{\theta}$$
 $$ \dot{x} = \dot{r} \cos{\theta} - r \sin{\theta} \,\dot{\theta} \;\;\;\;\;\;\;\;\;\;\; \dot{y} = \dot{r} \sin{\theta} + r \cos{\theta} \,\dot{\theta} $$ 
 $$ \ddot{x} = \ddot{r} \cos{\theta} - 2 \dot{r}\sin{\theta} \,\dot{\theta} -  r \cos{\theta} \,\dot{\theta}^2 -  r \sin{\theta} \,\ddot{\theta} = -k \frac{\cos{\theta}}{r^2}$$
 $$ \ddot{y} = \ddot{r} \sin{\theta} + 2 \dot{r}\cos{\theta} \,\dot{\theta} -  r \sin{\theta} \,\dot{\theta}^2 +  r \cos{\theta} \,\ddot{\theta}= -k \frac{\sin{\theta}}{r^2}$$
-Combine now the two previous equations. Adding    
+Combine now the two previous equations as follows:    
 
 $$\ddot{x} \cos{\theta} + \ddot{y} \sin{\theta} = \ddot{r} - r \dot{\theta}^2 =  -\frac{k}{r^2}$$
 
@@ -52,10 +52,11 @@ $$\ddot{x} \sin{\theta} - \ddot{y} \cos{\theta} = 2\dot{r}\dot{\theta} + r \ddot
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjYxNzg3OCwxODI0NDAyNzQ3LC0xOD
-I4MTAzMzA1LDUwNDA0MTY4NSw5NDM1ODE0NjUsLTEyNjQ2MTAy
-MzQsMTg2Mjc0OTMwMSwtMTUxMTU1NDg4NSwxNTQ1NTM2NTc5LD
-Y2NzUwNTc1NSwtMTIyMDQ3MjYzMywtMTU0Nzk5NzE1NCwxMjY0
-OTkzODA2LC00MDUxNzQzMDIsLTEyOTM1NjIyNjAsNjIzMDc5MT
-AxLDEzNjU1Mzc0MjUsNDc3MDU5MDQyLDU3NzkwNTEyM119
+eyJoaXN0b3J5IjpbLTE5NDczNjA1NjcsMTgyNDQwMjc0NywtMT
+gyODEwMzMwNSw1MDQwNDE2ODUsOTQzNTgxNDY1LC0xMjY0NjEw
+MjM0LDE4NjI3NDkzMDEsLTE1MTE1NTQ4ODUsMTU0NTUzNjU3OS
+w2Njc1MDU3NTUsLTEyMjA0NzI2MzMsLTE1NDc5OTcxNTQsMTI2
+NDk5MzgwNiwtNDA1MTc0MzAyLC0xMjkzNTYyMjYwLDYyMzA3OT
+EwMSwxMzY1NTM3NDI1LDQ3NzA1OTA0Miw1Nzc5MDUxMjNdfQ==
+
 -->
