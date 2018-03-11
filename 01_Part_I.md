@@ -15,7 +15,7 @@ By saying that Newton's is a ***central field***  one means that
  - the force ***direction*** is parallel
  -  to the segment connecting the center to that point. 
 
-An often repeated statement says quoted  well known fact that the position that a particle subject to a central force field occupies in the course of time is always contained in a plane, due to a simple "symmetry argument".     
+An often repeated statement says that quoted  well known fact that the position that a particle subject to a central force field occupies in the course of time is always contained in a plane, due to a simple "symmetry argument".     
 
 
 
@@ -23,5 +23,5 @@ An often repeated statement says quoted  well known fact that the position that 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTUzNDM5OV19
+eyJoaXN0b3J5IjpbMzAyNjY5NDAwXX0=
 -->
