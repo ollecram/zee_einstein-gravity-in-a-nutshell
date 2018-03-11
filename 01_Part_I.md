@@ -26,7 +26,7 @@ By combining the above two statements one sees that at a given point in time (he
 These two vectors do determine a plane. By choosing the origin of our coordinate axes $(\mathbf{i}, \mathbf{j}, \mathbf{k})$ in the field center and the $\mathbf{k}$ axis parallel to $\mathbf{r} \times \dot{\mathbf{r}}$, both the position vector $\mathbf{r}(t_0)$ and the velocity vector $\dot{\mathbf{r}}(t_0)$ are contained in the plane $z=0$. The force field component along $\mathbf{k}$ vanishes across the whole plane, implying that the particle will never leave that plane in the course of motion. 
 
 #### Solving the 2D differential equations
-$$ \ddot{x} = -kx/r^{3}; \,\,\,\,\,\,\,\,\,\,\, \ddot{y} = -ky/r^{3};$$ 
+$$ \ddot{x} = -kx/r^{3} \.;\;\;\;\;\;\;\;\;\;\; \ddot{y} = -ky/r^{3}$$ 
 
 
 
@@ -34,6 +34,6 @@ $$ \ddot{x} = -kx/r^{3}; \,\,\,\,\,\,\,\,\,\,\, \ddot{y} = -ky/r^{3};$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzU2NzYzMyw2MjMwNzkxMDEsMTM2NT
-UzNzQyNSw0NzcwNTkwNDIsNTc3OTA1MTIzXX0=
+eyJoaXN0b3J5IjpbLTEyOTM1NjIyNjAsNjIzMDc5MTAxLDEzNj
+U1Mzc0MjUsNDc3MDU5MDQyLDU3NzkwNTEyM119
 -->
