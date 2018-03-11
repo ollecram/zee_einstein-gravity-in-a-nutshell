@@ -14,11 +14,13 @@ By saying that Newton's is a ***central field***  one means that
  - the ***magnitude*** of the force exerted by the field at a given point only depends on that point's distance from the center,  
  - the force ***direction*** is parallel
  -  to the segment connecting the center to that point. 
+It is a well known fact that the position of a 
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg2ODI3NDZdfQ==
+eyJoaXN0b3J5IjpbLTE2MzM4NjQ4MjZdfQ==
 -->
