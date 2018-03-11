@@ -37,7 +37,7 @@ $$\ddot{x} \cos{\theta} + \ddot{y} \sin{\theta} = \ddot{r} - r \dot{\theta}^2 = 
 
 $$\ddot{x} \sin{\theta} - \ddot{y} \cos{\theta} = 2\dot{r}\dot{\theta} + r \ddot{\theta} =  \frac{d}{dt}(r^2 \dot{\theta}) = 0$$
 
-The last one implies that the quantity $r^2 \dot{\theta} \equiv l$ is constant along the particle's motion. 
+The last one implies that the quantity $r^2 \dot{\theta}$ is constant along the particle's motion. 
 
 
 
@@ -52,11 +52,11 @@ The last one implies that the quantity $r^2 \dot{\theta} \equiv l$ is constant a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzAxNDc2MjEsMTgyNDQwMjc0NywtMT
-gyODEwMzMwNSw1MDQwNDE2ODUsOTQzNTgxNDY1LC0xMjY0NjEw
-MjM0LDE4NjI3NDkzMDEsLTE1MTE1NTQ4ODUsMTU0NTUzNjU3OS
-w2Njc1MDU3NTUsLTEyMjA0NzI2MzMsLTE1NDc5OTcxNTQsMTI2
-NDk5MzgwNiwtNDA1MTc0MzAyLC0xMjkzNTYyMjYwLDYyMzA3OT
-EwMSwxMzY1NTM3NDI1LDQ3NzA1OTA0Miw1Nzc5MDUxMjNdfQ==
-
+eyJoaXN0b3J5IjpbLTI2NzMzMDM3NSwtMjAzMDE0NzYyMSwxOD
+I0NDAyNzQ3LC0xODI4MTAzMzA1LDUwNDA0MTY4NSw5NDM1ODE0
+NjUsLTEyNjQ2MTAyMzQsMTg2Mjc0OTMwMSwtMTUxMTU1NDg4NS
+wxNTQ1NTM2NTc5LDY2NzUwNTc1NSwtMTIyMDQ3MjYzMywtMTU0
+Nzk5NzE1NCwxMjY0OTkzODA2LC00MDUxNzQzMDIsLTEyOTM1Nj
+IyNjAsNjIzMDc5MTAxLDEzNjU1Mzc0MjUsNDc3MDU5MDQyLDU3
+NzkwNTEyM119
 -->
