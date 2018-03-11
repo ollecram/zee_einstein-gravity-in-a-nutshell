@@ -29,7 +29,7 @@ These two vectors do determine a plane. By choosing the origin of our coordinate
 $$ \ddot{x} = -kx/r^{3} \;\;\;\;\;\;\;\;\;\;\; \ddot{y} = -ky/r^{3}$$ 
 $$ x = \cos{\theta} \;\;\;\;\;\;\;\;\;\;\; y = \sin{\theta}$$ 
 $$ \dot{x} = \dot{r} \cos{\theta} - r \sin{\theta} \,\dot{\theta} \;\;\;\;\;\;\;\;\;\;\; \dot{y} = \dot{r} \sin{\theta} + r \cos{\theta} \,\dot{\theta} $$ 
-$$ \ddot{x} = \ddot{r} \cos{\theta} - 2 \dot{r}\sin{\theta} \,\dot{\theta} -  r \cos{\theta} \,\dot{\theta}^2 -  r \sin{\theta} \,\ddot{\theta} = -k \$$
+$$ \ddot{x} = \ddot{r} \cos{\theta} - 2 \dot{r}\sin{\theta} \,\dot{\theta} -  r \cos{\theta} \,\dot{\theta}^2 -  r \sin{\theta} \,\ddot{\theta} = -k \frac{}$$
 $$ \ddot{y} = \ddot{r} \sin{\theta} + 2 \dot{r}\cos{\theta} \,\dot{\theta} -  r \sin{\theta} \,\dot{\theta}^2 +  r \cos{\theta} \,\ddot{\theta}$$
 
 
@@ -42,7 +42,7 @@ $$ \ddot{y} = \ddot{r} \sin{\theta} + 2 \dot{r}\cos{\theta} \,\dot{\theta} -  r 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODg4OTc3MSwtMTU0Nzk5NzE1NCwxMj
-Y0OTkzODA2LC00MDUxNzQzMDIsLTEyOTM1NjIyNjAsNjIzMDc5
-MTAxLDEzNjU1Mzc0MjUsNDc3MDU5MDQyLDU3NzkwNTEyM119
+eyJoaXN0b3J5IjpbLTUzNDMyODM3LC0xNTQ3OTk3MTU0LDEyNj
+Q5OTM4MDYsLTQwNTE3NDMwMiwtMTI5MzU2MjI2MCw2MjMwNzkx
+MDEsMTM2NTUzNzQyNSw0NzcwNTkwNDIsNTc3OTA1MTIzXX0=
 -->
