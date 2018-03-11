@@ -37,7 +37,7 @@ $$\ddot{x} \cos{\theta} + \ddot{y} \sin{\theta} = \ddot{r} - r \dot{\theta}^2 = 
 
 $$\ddot{x} \sin{\theta} - \ddot{y} \cos{\theta} = 2\dot{r}\dot{\theta} + r \ddot{\theta} =  \frac{d}{dt}(r^2 \dot{\theta}) = 0$$
 
-The last one implies that the quantity $$
+The last one implies that the quantity $r^2 \dot{\theta}$ is constant  
 
 
 
@@ -52,7 +52,7 @@ The last one implies that the quantity $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTU0NjMyNCwxODI0NDAyNzQ3LC0xOD
+eyJoaXN0b3J5IjpbLTY0MDA3ODQwMywxODI0NDAyNzQ3LC0xOD
 I4MTAzMzA1LDUwNDA0MTY4NSw5NDM1ODE0NjUsLTEyNjQ2MTAy
 MzQsMTg2Mjc0OTMwMSwtMTUxMTU1NDg4NSwxNTQ1NTM2NTc5LD
 Y2NzUwNTc1NSwtMTIyMDQ3MjYzMywtMTU0Nzk5NzE1NCwxMjY0
