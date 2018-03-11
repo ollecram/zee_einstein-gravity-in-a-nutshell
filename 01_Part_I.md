@@ -37,7 +37,7 @@ $$\ddot{x} \cos{\theta} + \ddot{y} \sin{\theta} = \ddot{r} - r \dot{\theta}^2 = 
 
 $$\ddot{x} \sin{\theta} - \ddot{y} \cos{\theta} = 2\dot{r}\dot{\theta} + r \ddot{\theta} =  \frac{d}{dt}(r^2 \dot{\theta}) = 0$$
 
-The last one implies that the quantity $r^2 \dot{\theta}$ keeps a constant value $l$ along the particle's motion. 
+The last one implies that the quantity $r^2 \dot{\theta}$ keeps a constant value $l$ along the particle's motion, therefore one can substiture . 
 
 
 
@@ -52,11 +52,11 @@ The last one implies that the quantity $r^2 \dot{\theta}$ keeps a constant value
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTI4MjIxMSwtMjAzMDE0NzYyMSwxOD
-I0NDAyNzQ3LC0xODI4MTAzMzA1LDUwNDA0MTY4NSw5NDM1ODE0
-NjUsLTEyNjQ2MTAyMzQsMTg2Mjc0OTMwMSwtMTUxMTU1NDg4NS
-wxNTQ1NTM2NTc5LDY2NzUwNTc1NSwtMTIyMDQ3MjYzMywtMTU0
-Nzk5NzE1NCwxMjY0OTkzODA2LC00MDUxNzQzMDIsLTEyOTM1Nj
-IyNjAsNjIzMDc5MTAxLDEzNjU1Mzc0MjUsNDc3MDU5MDQyLDU3
-NzkwNTEyM119
+eyJoaXN0b3J5IjpbMjc5NzIwNzIzLC0yMDMwMTQ3NjIxLDE4Mj
+Q0MDI3NDcsLTE4MjgxMDMzMDUsNTA0MDQxNjg1LDk0MzU4MTQ2
+NSwtMTI2NDYxMDIzNCwxODYyNzQ5MzAxLC0xNTExNTU0ODg1LD
+E1NDU1MzY1NzksNjY3NTA1NzU1LC0xMjIwNDcyNjMzLC0xNTQ3
+OTk3MTU0LDEyNjQ5OTM4MDYsLTQwNTE3NDMwMiwtMTI5MzU2Mj
+I2MCw2MjMwNzkxMDEsMTM2NTUzNzQyNSw0NzcwNTkwNDIsNTc3
+OTA1MTIzXX0=
 -->
