@@ -29,7 +29,7 @@ These two vectors do determine a plane. By choosing the origin of our coordinate
 $$ \ddot{x} = -kx/r^{3} \;\;\;\;\;\;\;\;\;\;\; \ddot{y} = -ky/r^{3}$$ 
 $$ x = \cos{\theta} \;\;\;\;\;\;\;\;\;\;\; y = \sin{\theta}$$ 
 $$ \dot{x} = \dot{r} \cos{\theta} - r \sin{\theta} \,\dot{\theta} \;\;\;\;\;\;\;\;\;\;\; \dot{y} = \dot{r} \sin{\theta} + r \cos{\theta} \,\dot{\theta} $$ 
-$$ \ddot{x} = \ddot{r} \cos{\theta} - 2 \dot{r}sin{\theta} \,\dot{\theta} $$
+$$ \ddot{x} = \ddot{r} \cos{\theta} - 2 \dot{r}\sin{\theta} \,\dot{\theta} $$
 
 
 
@@ -37,7 +37,7 @@ $$ \ddot{x} = \ddot{r} \cos{\theta} - 2 \dot{r}sin{\theta} \,\dot{\theta} $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDc5OTcxNTQsLTQ2NjA2NDQyMCwxMj
-Y0OTkzODA2LC00MDUxNzQzMDIsLTEyOTM1NjIyNjAsNjIzMDc5
-MTAxLDEzNjU1Mzc0MjUsNDc3MDU5MDQyLDU3NzkwNTEyM119
+eyJoaXN0b3J5IjpbNzcwMTE5NTE4LC0xNTQ3OTk3MTU0LDEyNj
+Q5OTM4MDYsLTQwNTE3NDMwMiwtMTI5MzU2MjI2MCw2MjMwNzkx
+MDEsMTM2NTUzNzQyNSw0NzcwNTkwNDIsNTc3OTA1MTIzXX0=
 -->
