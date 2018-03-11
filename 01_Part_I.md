@@ -41,7 +41,7 @@ The last one implies that the quantity $r^2 \dot{\theta}$ keeps a constant value
 $$\ddot{r}=\frac{l^2}{r^3} - \frac{k}{r^2} = - \frac{dv(r)}{dr}$$
 where
 $$v(r) = \frac{l^2}{2r^2} - \frac{k}{r} $$ 
-We have obtained a one dimensional second order differential equation for the variable $r$ as a function of time, and the parameter $l$. 
+We have thus obtained a one dimensional second order differential equation for the variable $r$ as a function of time, with $l$ as a parameter. In order to eliminate  
 
 
 
@@ -56,7 +56,7 @@ We have obtained a one dimensional second order differential equation for the va
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyNjYwODQyLC0zMzUxMjczODcsLTMzMj
+eyJoaXN0b3J5IjpbODA0NjA4OTU3LC0zMzUxMjczODcsLTMzMj
 A2MTYwMSwxMDAwNDY2ODQxLC0xNzYzMzUzODcsLTUyOTY2MDE4
 NywtMjAzMDE0NzYyMSwxODI0NDAyNzQ3LC0xODI4MTAzMzA1LD
 UwNDA0MTY4NSw5NDM1ODE0NjUsLTEyNjQ2MTAyMzQsMTg2Mjc0
