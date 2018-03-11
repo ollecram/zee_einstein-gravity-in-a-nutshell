@@ -19,8 +19,8 @@ An often repeated statement says that *due to a simple "symmetry argument"* the 
 
 It all relates to the following more basic assumptions, namely that
 
- - There is no special point or direction in the space itself , so any special direction in the motion of a particle in a force field must be determined by some initial configuration of the particle's motion with respect to the field;
- - the initialconditions a given problem must be determined by , the only directions that may all directions one can logically make use of in    
+ - There is no special point or direction in the space itself, so any special point or direction in the motion of a particle must be determined by some initial configuration of the particle's motion with respect to the field;
+ - It is an experimental fact the initialconditions a given problem must be determined by , the only directions that may all directions one can logically make use of in    
 
 
 
@@ -28,5 +28,5 @@ It all relates to the following more basic assumptions, namely that
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzExOTM3MCwxMTQ1NTYzNzY1XX0=
+eyJoaXN0b3J5IjpbODIyODM4MjUyLDExNDU1NjM3NjVdfQ==
 -->
