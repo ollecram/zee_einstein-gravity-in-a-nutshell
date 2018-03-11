@@ -31,10 +31,6 @@ $$ x = \cos{\theta} \;\;\;\;\;\;\;\;\;\;\; y = \sin{\theta}$$
 $$ \dot{x} = \dot{r} \cos{\theta} - r \sin{\theta} \,\dot{\theta} \;\;\;\;\;\;\;\;\;\;\; \dot{y} = \dot{r} \sin{\theta} + r \cos{\theta} \,\dot{\theta} $$ 
 $$ \ddot{x} = \ddot{r} \cos{\theta} - 2 \dot{r}\sin{\theta} \,\dot{\theta} -  r \cos{\theta} \,\dot{\theta}^2 -  r \sin{\theta} \,\ddot{\theta} = -k \frac{\cos{\theta}}{r^2}$$
 $$ \ddot{y} = \ddot{r} \sin{\theta} + 2 \dot{r}\cos{\theta} \,\dot{\theta} -  r \sin{\theta} \,\dot{\theta}^2 +  r \cos{\theta} \,\ddot{\theta}= -k \frac{\sin{\theta}}{r^2}$$
-$$\begin{eqnarray}
-\begin{eqnarray}
-$$
-
 
 
 
@@ -45,7 +41,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTA2NDYyMywxNTQ1NTM2NTc5LDY2Nz
+eyJoaXN0b3J5IjpbMTYwMDc5MDM4OSwxNTQ1NTM2NTc5LDY2Nz
 UwNTc1NSwtMTIyMDQ3MjYzMywtMTU0Nzk5NzE1NCwxMjY0OTkz
 ODA2LC00MDUxNzQzMDIsLTEyOTM1NjIyNjAsNjIzMDc5MTAxLD
 EzNjU1Mzc0MjUsNDc3MDU5MDQyLDU3NzkwNTEyM119
