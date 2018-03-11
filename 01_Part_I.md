@@ -8,11 +8,11 @@ In spite of the different role played by $m$ on the left and right hand side of 
 $$\ddot{\mathbf{r}} = -k \frac{\mathbf{r}}{r^3}$$ where $k = GM$. 
 
 #### Central force argument
-The force field being central means that by taking the origin of one's coordinate systems By central force wThat the force points 
+The force field being central means that by taking the origin of one's coordinate systems in the center, then force and position vectors are collinear (parallel). By central force wThat the force points 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc3MjgxODFdfQ==
+eyJoaXN0b3J5IjpbLTgxMjk4MzYzMV19
 -->
