@@ -48,6 +48,8 @@ $$\int\! dt\,\frac{1}{2} \frac{d}{dt} \dot{r}^2 = \int\! dt\, \dot{r} \ddot{r} =
   
 $$\frac{1}{2} \dot{r}^2 + v(r) = \epsilon$$ 
 where $\epsilon$ is an integration constant. This describes a unit mass particle moving in a potential $v(r)$ with energy $\epsilon$.
+
+#### Orbit closes
  
 
 
@@ -62,5 +64,5 @@ where $\epsilon$ is an integration constant. This describes a unit mass particle
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTUzNjc1XX0=
+eyJoaXN0b3J5IjpbLTIwMzYwMDQ5MThdfQ==
 -->
