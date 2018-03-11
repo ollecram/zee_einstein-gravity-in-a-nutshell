@@ -22,7 +22,7 @@ It all relates to the following more basic assumptions, namely that
  - There is no special point or direction in the space itself, so any special point or direction in the motion of a particle must be determined by some initial configuration of the particle's motion with respect to the field;
  - It is an experimental fact elevated to the status of an axiom in Newton's mechanics that the position and velocity of all particles at a given  instant of time fully determine their evolution. 
 
-By combining the above two statements one sees that at a given point in time (hence forgetting any knowledge of prior dynamical history) there are two vectors (directions related to a particle in a central field: the the initialconditions a given problem must be determined by , the only directions that may all directions one can logically make use of in    
+By combining the above two statements one sees that at a given point in time (hence forgetting any knowledge of prior dynamical history) there are two vectors (directions) related to a particle in a central field: the the initialconditions a given problem must be determined by , the only directions that may all directions one can logically make use of in    
 
 
 
@@ -30,5 +30,6 @@ By combining the above two statements one sees that at a given point in time (he
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzM0Njg5NSwxMTQ1NTYzNzY1XX0=
+eyJoaXN0b3J5IjpbNDgzODQ5NzM4LDE1OTczNDY4OTUsMTE0NT
+U2Mzc2NV19
 -->
