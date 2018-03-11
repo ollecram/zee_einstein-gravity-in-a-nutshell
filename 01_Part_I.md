@@ -32,10 +32,7 @@ $$ \dot{x} = \dot{r} \cos{\theta} - r \sin{\theta} \,\dot{\theta} \;\;\;\;\;\;\;
 $$ \ddot{x} = \ddot{r} \cos{\theta} - 2 \dot{r}\sin{\theta} \,\dot{\theta} -  r \cos{\theta} \,\dot{\theta}^2 -  r \sin{\theta} \,\ddot{\theta} = -k \frac{\cos{\theta}}{r^2}$$
 $$ \ddot{y} = \ddot{r} \sin{\theta} + 2 \dot{r}\cos{\theta} \,\dot{\theta} -  r \sin{\theta} \,\dot{\theta}^2 +  r \cos{\theta} \,\ddot{\theta}= -k \frac{\sin{\theta}}{r^2}$$
 
-\begin{eqnarray}
-x & = &y
-z & = & w
-\end{eqnarray}
+
 
 
 
@@ -46,7 +43,7 @@ z & = & w
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDc3NTU0MSwxODYyNzQ5MzAxLC0xNT
+eyJoaXN0b3J5IjpbLTc1NzgxNTg1NSwxODYyNzQ5MzAxLC0xNT
 ExNTU0ODg1LDE1NDU1MzY1NzksNjY3NTA1NzU1LC0xMjIwNDcy
 NjMzLC0xNTQ3OTk3MTU0LDEyNjQ5OTM4MDYsLTQwNTE3NDMwMi
 wtMTI5MzU2MjI2MCw2MjMwNzkxMDEsMTM2NTUzNzQyNSw0Nzcw
