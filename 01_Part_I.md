@@ -43,7 +43,7 @@ where
 $$v(r) = \frac{l^2}{2r^2} - \frac{k}{r} $$ 
 We have thus obtained a one dimensional second order differential equation for the variable $r$ as a function of time, with $l$ as a parameter. 
 
-We observe that can integrate over $t$ In order to eliminate  
+We can integrate over $t$ In order to eliminate  
 
 
 
@@ -58,7 +58,7 @@ We observe that can integrate over $t$ In order to eliminate
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDg1MTA3MSwtMzM1MTI3Mzg3LC0zMz
+eyJoaXN0b3J5IjpbLTc2MjQ3MDMyOCwtMzM1MTI3Mzg3LC0zMz
 IwNjE2MDEsMTAwMDQ2Njg0MSwtMTc2MzM1Mzg3LC01Mjk2NjAx
 ODcsLTIwMzAxNDc2MjEsMTgyNDQwMjc0NywtMTgyODEwMzMwNS
 w1MDQwNDE2ODUsOTQzNTgxNDY1LC0xMjY0NjEwMjM0LDE4NjI3
