@@ -15,7 +15,7 @@ By saying that Newton's is a ***central field***  one means that
  - the force ***direction*** is parallel
  -  to the segment connecting the center to that point. 
 
-An often repeated statement says that *due to a simple "symmetry argument"* the points occupied in the course of time by a particle subject to a central force field are all contained in a plane. Let see how such symmetry argument can be construed.
+An often repeated statement says that *due to a simple "symmetry argument"* the points occupied in the course of time by a particle subject to a central force field are all contained in a plane. Let see how such symmetry argument can be construed from very basic assumptions.
 
 Assuming empty space to have no preferred direction, the only directions that may all directions one can logically make use of in    
 
@@ -25,5 +25,5 @@ Assuming empty space to have no preferred direction, the only directions that ma
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTIzNzc4Nl19
+eyJoaXN0b3J5IjpbMTExMDkzNjY3Nl19
 -->
