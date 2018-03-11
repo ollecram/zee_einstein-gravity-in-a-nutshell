@@ -8,11 +8,11 @@ In spite of the different role played by $m$ on the left and right hand side of 
 $$\ddot{\mathbf{r}} = -k \frac{\mathbf{r}}{r^3}$$ where $k \equiv GM$. 
 
 #### Central force argument
-That Newton's is a ***central field***  means that by taking the origin of one's coordinate system in the center, then force and position vectors are collinear (parallel). 
+That Newton's is a ***central field***  means that a special point exists in space (the field center) by taking the origin of one's coordinate system in the center, then force and position vectors are collinear (parallel). 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjYwNTQ1NV19
+eyJoaXN0b3J5IjpbMjgxMTIyMjIxXX0=
 -->
